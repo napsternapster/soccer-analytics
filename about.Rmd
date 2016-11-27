@@ -6,6 +6,6 @@ title: "Meh"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## R Markdown
+## About
 
-Note 
+I created this website with [RMarkdown](http://rmarkdown.rstudio.com/rmarkdown_websites.html) and published it through GitHub pages.

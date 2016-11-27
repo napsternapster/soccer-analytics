@@ -1,0 +1,31 @@
+---
+title: "Projects"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 
+
+Say something meaningful.
+
+https://github.com/neilcharles/chalkboard
+
+http://johnburnmurdoch.github.io/football-pitch-tracker/
+
+https://public.tableau.com/s/profile/paul.riley#!/vizhome/PremierLeague201516xGMap/PremierLeague201516ShotonTargetxGDashboard
+
+https://github.com/GoogleCloudPlatform/ipython-soccer-predictions/tree/master/predict
+
+https://github.com/matt-bernhardt/trapp
+
+https://twitter.com/SportsDataChal/status/740675516093566980
+
+http://www.hilltop-analytics.com/build-your-own-football-model/
+
+https://hilltop-analytics.shinyapps.io/Analysts-EPL-Table/
+
+
+
+

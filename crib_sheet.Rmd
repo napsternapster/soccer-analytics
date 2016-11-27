@@ -1,12 +1,11 @@
 ---
-title: "Introduction"
+title: "Miscellaneous"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduction
+## 
 
-Say something meaningful.
-
+http://jugglethenumbers.weebly.com/models.html

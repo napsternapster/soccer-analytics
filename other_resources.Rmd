@@ -1,0 +1,87 @@
+---
+title: "Other Resources"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Other
+
+Say something meaningful.
+
+https://iwringer.wordpress.com/2014/06/20/glimpse-of-the-future-overlaying-realtime-analytics-on-football-broadcasts/
+
+https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/
+
+http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/
+
+[Spielverlagerung](http://spielverlagerung.com/)
+
+http://analysport.fr/atletico-madrid-en/
+
+https://twitter.com/zorba138/status/752132960221073408
+
+https://twitter.com/StatsbyLopez/status/796014026094481408
+
+https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php
+
+http://thevideoanalyst.com/want-performance-analyst/
+
+https://github.com/soccermetrics/project-data
+
+##Blogs
+
+[OnsideFC](https://github.com/OnsideFC)
+
+[sporting logic](https://sportinglogicblog.wordpress.com)
+
+[murdock](http://johnburnmurdoch.github.io/)
+
+Northyard Analytics
+
+[Analytics FC](http://analyticsfc.co.uk)
+
+[Outsiders In](https://outsidersin.wordpress.com/)
+
+[Football Facts](http://www.myfootballfacts.com/)
+
+[Yuan](http://andrewyuan.github.io)
+
+[DG](https://differentgame.wordpress.com/)
+
+[GoalPower](http://thepowerofgoals.blogspot.co.uk)
+
+[Jalapic](http://jalapic.github.io/)
+
+[Stoppage Time](http://5addedminutes.com)
+
+[Grayson](https://jameswgrayson.wordpress.com)
+
+[WoSo](https://wosostats.wordpress.com/)
+
+[Objective](http://objective-football.blogspot.com.es)
+
+[11](https://2plus2equals11.wordpress.com)
+
+[Snakeoil](http://statsandsnakeoil.wordpress.com)
+
+[BG](http://www.bootifulgame.com)
+
+[Fog](http://www.wallpaperingfog.co.uk)
+
+[Page](http://dannypage.github.io/)
+
+[Martin Eastwood]([https://github.com/martineastwood/penalty)
+
+[Tavares](https://github.com/rjtavares/football-crunching)
+
+[Opta](http://www.optasportspro.com/about/interesting-links.aspx)
+
+http://theopenfootball.blogspot.co.uk/
+
+##Twitter
+
+https://twitter.com/neilcharles_uk/lists/football-analysis
+
+https://twitter.com/centralwinger/lists/soccer-analytics

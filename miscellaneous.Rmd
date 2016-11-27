@@ -1,0 +1,13 @@
+---
+title: "Miscellaneous"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 
+
+https://wosostats.wordpress.com/how-to-help/
+
+https://www.codechef.com/APRIL13/problems/FCBARCA

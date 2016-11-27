@@ -1,0 +1,64 @@
+---
+title: "Meh"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data
+
+Insery
+
+##Getting Data
+
+##Datasets
+
+##Scraping
+
+[Web Scraping Software](http://www.octoparse.com/blog/top-30-free-web-scraping-software/)
+
+[A Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
+
+http://www.soccermetrics.net/match-data-collection/football-weather-data-added-to-soccermetrics-projectdata-repository
+
+https://github.com/soccermetrics/project-data
+
+http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction
+
+http://optasports.com/news-area/blog-optas-event-definitions.aspx
+
+https://github.com/teouch/fbl-kpis
+
+http://www.football-data.co.uk/downloadm.php
+
+http://usa.worldfootball.net/
+
+https://github.com/openfootball
+
+https://www.premierleague.com/
+
+https://github.com/footballcsv/eng-england
+
+https://github.com/llimllib/soccerdata
+
+https://github.com/sanand0/fifadata
+
+https://github.com/opendatajson/football.json
+
+https://github.com/SoccerStatsUS/international_data/tree/master/games
+
+http://www.statto.com/
+
+http://developer.sportradar.com/files/indexSoccer.html#soccer-api-v3
+
+http://www.api.football-data.org/documentation
+
+http://opendata.stackexchange.com/questions/1007/are-there-any-open-datasets-for-soccer-statistics
+
+https://github.com/jalapic/engsoccerdata
+
+https://github.com/jokecamp/FootballData
+
+https://github.com/octonion/soccer
+

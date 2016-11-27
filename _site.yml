@@ -1,9 +1,27 @@
 name: "my-website"
-output_dir: "docs/index.html"
+output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: "Soccer Analytics"
   left:
     - text: "Home"
       href: index.html
+    - text: "Data"
+      href: data.html
+    - text: "Data Visualization"
+      href: data_visualization.html
+    - text: "Modeling"
+      href: modeling.html
+    - text: "Metrics"
+      href: metrics.html
+    - text: "Media"
+      href: index.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Crib Sheet"
+      href: crib_sheet.html
+    - text: "Other Resources"
+      href: other_resources.html
+    - text: "Miscellaneous"
+      href: miscellaneous.html
     - text: "About"
       href: about.html
