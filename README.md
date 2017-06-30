@@ -1,2 +1,3 @@
-# soccer-analytics-website
-Soccer analytics resources
+# Soccer Analytics Website
+
+A collection of Soccer Analytics resources.

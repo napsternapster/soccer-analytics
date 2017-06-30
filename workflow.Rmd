@@ -1,0 +1,118 @@
+---
+title: "Data"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Getting Data
+
+[Radar API](http://developer.sportradar.com/files/indexSoccer.html#soccer-api-v3)
+
+[A Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
+
+https://github.com/hugomathien/football-data-collection
+
+https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py
+
+## Datasets
+
+http://www.soccermetrics.net/match-data-collection/football-weather-data-added-to-soccermetrics-projectdata-repository
+
+https://github.com/soccermetrics/project-data
+
+https://github.com/teouch/fbl-kpis
+
+http://www.football-data.co.uk/downloadm.php
+
+http://usa.worldfootball.net/
+
+https://github.com/openfootball
+
+https://github.com/footballcsv/eng-england
+
+https://github.com/llimllib/soccerdata
+
+https://github.com/sanand0/fifadata
+
+https://www.kaggle.com/hugomathien/soccer
+
+http://www.football-data.co.uk/data.php
+
+https://github.com/opendatajson/football.json
+
+https://github.com/SoccerStatsUS/international_data/tree/master/games
+
+https://github.com/jalapic/engsoccerdata
+
+https://github.com/jokecamp/FootballData
+
+https://github.com/octonion/soccer
+
+##Analyst Toolbox
+
+https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1
+
+https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1
+
+https://github.com/soccermetrics/project-data
+
+https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php
+
+https://github.com/huffyhenry/ltl24
+
+[Rstats Libraries](https://twitter.com/StatsbyLopez/status/796014026094481408)
+
+Pythagorean Expectation
+
+http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/
+
+##Project Reference
+
+[Chalkboard](https://github.com/neilcharles/chalkboard)
+
+[South American WC Qualifiers](https://public.tableau.com/profile/mathijs.steneker#!/vizhome/xGmapeliminatorias/Matchstats)
+
+[Pitch Tracker](http://johnburnmurdoch.github.io/football-pitch-tracker/)
+
+[xG Shot Maps](https://public.tableau.com/s/profile/paul.riley#!/vizhome/PremierLeague201516xGMap/PremierLeague201516ShotonTargetxGDashboard)
+
+[xG Calculator](https://dannypage.github.io/expected_goals.html)
+
+[Build A Model](http://www.hilltop-analytics.com/build-your-own-football-model/)
+
+[Analysts table](https://hilltop-analytics.shinyapps.io/Analysts-EPL-Table/)
+
+http://www.betbot.soccer/
+
+[AVIZ Visualization](http://www.aviz.fr/soccer)
+
+[Bayesian Modeling](https://github.com/milkha/EPL_KDD)
+
+[Unlucky Arsenal](https://github.com/Torvaney/unlucky-arsenal)
+
+##Cribsheet
+
+http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction
+
+http://optasports.com/news-area/blog-optas-event-definitions.aspx
+
+Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
+
+Average percentage of goalscoring shots on target taken that end up as goals: 10.5% (Anything outside 7-12% will pretty much certainly not last - eventually)
+
+Shots: >= 3.5 shots per 90 is typically good, over 4 or 4.5 is pushing toward elite.
+
+Previous research shows that a shot without defenders between the goal and ball goes in 11.59% on average vs 7.49% if defenders are present.
+
+A fairly simple guideline for non-penalty scoring rates as a Forward:
+
+.4 to .49 non-penalty goals per 90: Good.
+.5 to .59 non-penalty goals per 90: Very good.
+.6 to .79 non-penalty goals per 90: Probable Top 20 in Europe
+.8 or above non-penalty goals per 90: Probable Top 5 in Europe
+
+## Ideas
+
+http://www.soccermetrics.net/collaborations/research-collaborations-2017

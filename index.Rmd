@@ -1,12 +1,10 @@
 ---
-title: "Introduction"
+title: "About"
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduction
-
-Say something meaningful.
+I created this website with [RMarkdown](http://rmarkdown.rstudio.com/rmarkdown_websites.html) and published it through GitHub pages.
 

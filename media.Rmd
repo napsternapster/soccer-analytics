@@ -6,15 +6,17 @@ title: "Media"
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-https://oneshortcorner.wordpress.com/2016/04/12/football-analytics-part-five-game-states-and-score-effects/
+## Article Selection
 
-##Papers
+http://thevideoanalyst.com/want-performance-analyst/
 
-http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021
+https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/
 
-##Books
+https://medium.com/@Soccermatics/using-markov-chains-to-evaluate-football-players-contributions-57a107cc09e6
 
-## Articles
+http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/
+
+[Working Withh Play By Play Data](http://curleylab.psych.columbia.edu/playbyplay/playbyplay.html#/)
 
 https://jameswgrayson.wordpress.com/2014/09/25/on-confidence-in-model-predictions-and-why-its-not-necessarily-a-good-thing/
 
@@ -30,7 +32,7 @@ https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/
 
 http://business-analytic.co.uk/blog/uncategorized/the-importance-of-high-return-shots/
 
-
+https://oneshortcorner.wordpress.com/2016/04/12/football-analytics-part-five-game-states-and-score-effects/
 
 https://contexts.org/articles/english-soccers-mysterious-worldwide-popularity/
 
@@ -58,13 +60,15 @@ https://13steps.co/2016/03/27/analysis-pochettino-tottenham-counterpress/
 
 https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/
 
-https://taketheshot.co/2015/10/11/the-model-part-2-the-data/
-
 http://wearehooligans.com/2014/05/20/understanding-relationship-between-goals-points/
 
-http://cartilagefreecaptain.sbnation.com/2014/2/28/5452786/shot-matrix-tottenham-hotspur-stats-analysis-expected-goals
+http://statsbomb.com/2017/06/why-we-need-positional-data/
 
-http://statsbomb.com/
+http://opisthokonta.net/?p=1548
+
+[State of the Stats: 2016](https://deepxg.com/2016/12/31/state-of-the-stats-2016-results/)
+
+http://cartilagefreecaptain.sbnation.com/2014/2/28/5452786/shot-matrix-tottenham-hotspur-stats-analysis-expected-goals
 
 http://statsbomb.com/2016/02/leicester-and-liverpool-when-it-goes-your-way-and-when-it-doesnt/
 
@@ -74,11 +78,7 @@ http://www.thefootballramble.com/indepth/entry/bayesian-officiating-a-chance-for
 
 https://experimental361.com/2013/01/21/attacking-effectiveness-europe/
 
-
-
 [Lionel Messi Is Impossible](http://fivethirtyeight.com/features/lionel-messi-is-impossible/)
-
-http://www.optasportspro.com/about/optapro-blog/
 
 http://www.sbnation.com/soccer/2014/12/2/7312419/bayer-leverkusen-bundesliga-statistical-analysis-roger-schmidt
 
@@ -86,7 +86,7 @@ http://www.mlssoccer.com/post/2013/01/15/central-winger-can-luck-and-skill-be-se
 
 [Shooting's Geometry](http://sports.nordicbet.com/en/the-geometry-of-shooting/)
 
-[Complex Systems: Pep Guardiola Case Study](http://www.togsoccer.com/single-post/2016/09/21/Complex-Systems-Pep-Guardiola-Case-Study)
+[Complex Systems: Guardiola Case Study](http://www.togsoccer.com/single-post/2016/09/21/Complex-Systems-Pep-Guardiola-Case-Study)
 
 https://www.nordicbet.com/en/blog/football/premier-league/pogba-ett-problem-for-man-united
 
@@ -102,16 +102,22 @@ https://www.pinnacle.com/en/betting-articles/soccer/how-to-calculate-poisson-dis
 
 http://pena.lt/y/2014/07/24/mathematically-optimising-fantasy-football-teams/
 
-##Talks
+##Papers
+
+[When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
+
+## Videos
+
+[Streaming Realtime Analytics ](https://iwringer.wordpress.com/2014/06/20/glimpse-of-the-future-overlaying-realtime-analytics-on-football-broadcasts/)
 
 http://www.metacafe.com/watch/7337475/2011_nessis_talk_by_sarah_rudd/
 
-http://curleylab.psych.columbia.edu/playbyplay/playbyplay.html#/28
+[Opta YT](https://www.youtube.com/user/optasports/videos)
 
-## Other Sports
+https://www.youtube.com/watch?v=7JZ2RY1h_Vg
 
-http://savvastjortjoglou.com/archives.html
+https://www.youtube.com/watch?v=AnYRTdOW0Uk
 
-http://hinnefe2.github.io/python/hoops/2015/09/07/in-game-coaching.html
+##Apps
 
-http://ken.arneson.name/2014/11/10-things-i-believe-about-baseball-without-evidence/
+[Info Gol](http://www.infogolapp.com/)

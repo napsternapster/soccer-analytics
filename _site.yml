@@ -3,25 +3,13 @@ output_dir: "docs"
 navbar:
   title: "Soccer Analytics"
   left:
-    - text: "Home"
+    - text: "About"
       href: index.html
-    - text: "Data"
-      href: data.html
-    - text: "Data Visualization"
-      href: data_visualization.html
-    - text: "Modeling"
-      href: modeling.html
+    - text: "Media"
+      href: media.html
     - text: "Metrics"
       href: metrics.html
-    - text: "Media"
-      href: index.html
-    - text: "Projects"
-      href: projects.html
-    - text: "Crib Sheet"
-      href: crib_sheet.html
-    - text: "Other Resources"
-      href: other_resources.html
+    - text: "Workflow"
+      href: workflow.html
     - text: "Miscellaneous"
       href: miscellaneous.html
-    - text: "About"
-      href: about.html
