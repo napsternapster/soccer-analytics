@@ -1,5 +1,4 @@
 ---
-title: "Media"
 ---
 
 ```{r setup, include=FALSE}
@@ -9,6 +8,26 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Article Selection
 
 http://thevideoanalyst.com/want-performance-analyst/
+
+https://statsbylopez.com/stats-sports-class/
+
+https://www.stats.com/data-science/
+
+http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/
+
+https://twitter.com/Samirak93/status/905107479880581120
+
+http://www.soccermetrics.net/goalkeeping-analytics/expected-saves-an-inverse-of-expected-goals
+
+http://statsbomb.com/2017/07/quantifying-finishing-skill/
+
+https://statsweb-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/STATS_DS_passes-created-equally.pdf
+
+http://pena.lt/y/2017/07/17/radar-alternatives-football-data/
+
+https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/
+
+https://teouchanalytics.wordpress.com/2017/07/08/episode-1-feature-engineering-and-some-data-to-play-with/
 
 https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/
 
