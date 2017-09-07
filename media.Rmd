@@ -5,7 +5,7 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Article Selection
+## Selected Articles
 
 [Quantifying Finishing Skill](http://statsbomb.com/2017/07/quantifying-finishing-skill/)
 
