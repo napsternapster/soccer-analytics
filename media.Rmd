@@ -107,7 +107,7 @@ Northyard Analytics
 
 [Single Match xG](https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/)
 
-[Points-Goal Relationship](http://wearehooligans.com/2014/05/20/understanding-relationship-between-goals-points/)
+[Points-Goals Relationship](http://wearehooligans.com/2014/05/20/understanding-relationship-between-goals-points/)
 
 [Positional Data Needed](http://statsbomb.com/2017/06/why-we-need-positional-data/)
 
