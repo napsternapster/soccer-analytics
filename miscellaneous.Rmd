@@ -6,60 +6,6 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Blogs
-
-[OnsideFC](https://github.com/OnsideFC)
-
-[Sporting Logic](https://sportinglogicblog.wordpress.com)
-
-[Murdock](http://johnburnmurdoch.github.io/)
-
-Northyard Analytics
-
-[Analytics FC](http://analyticsfc.co.uk)
-
-[Outsiders In](https://outsidersin.wordpress.com/)
-
-[Football Facts](http://www.myfootballfacts.com/)
-
-[Yuan](http://andrewyuan.github.io)
-
-[DG](https://differentgame.wordpress.com/)
-
-[GoalPower](http://thepowerofgoals.blogspot.co.uk)
-
-[Jalapic](http://jalapic.github.io/)
-
-[Stoppage Time](http://5addedminutes.com)
-
-[Grayson](https://jameswgrayson.wordpress.com)
-
-[Women's Soccer](https://wosostats.wordpress.com/)
-
-[Objective](http://objective-football.blogspot.com.es)
-
-[Opta](http://www.optasportspro.com/about/optapro-blog/)
-
-[2+2=11](https://2plus2equals11.wordpress.com)
-
-[Snakeoil](http://statsandsnakeoil.wordpress.com)
-
-[Bootiful Game](http://www.bootifulgame.com)
-
-[Fog](http://www.wallpaperingfog.co.uk)
-
-[Page](http://dannypage.github.io/)
-
-[Martin Eastwood](https://github.com/martineastwood/penalty)
-
-[Tavares](https://github.com/rjtavares/football-crunching)
-
-[Opta](http://www.optasportspro.com/about/interesting-links.aspx)
-
-[The Open Football](http://theopenfootball.blogspot.co.uk/)
-
-[StatsBomb](http://statsbomb.com/)
-
 ## Other
 
 [Spielverlagerung](http://spielverlagerung.com/)
