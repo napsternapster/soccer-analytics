@@ -26,7 +26,7 @@ Coding, scraping, or calling APIs.
 
 [Kaggle](https://www.kaggle.com/hugomathien/soccer)
 
-#### Non-technical
+#### Non-Technical
 
 CSV's or json readily available.
 
