@@ -5,9 +5,11 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Blogs
+## General
 
 Twitter Lists::[1](https://twitter.com/neilcharles_uk/lists/football-analysis):[2](https://twitter.com/centralwinger/lists/soccer-analytics)
+
+## Blogs
 
 [OnsideFC](https://github.com/OnsideFC)
 
