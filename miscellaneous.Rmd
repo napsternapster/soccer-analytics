@@ -50,7 +50,7 @@ Northyard Analytics
 
 [Page](http://dannypage.github.io/)
 
-[Martin Eastwood]([https://github.com/martineastwood/penalty)
+[Martin Eastwood](https://github.com/martineastwood/penalty)
 
 [Tavares](https://github.com/rjtavares/football-crunching)
 
