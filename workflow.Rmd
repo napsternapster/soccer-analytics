@@ -8,6 +8,12 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Data
 
+#### General
+
+[Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
+
+[Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
+
 #### Technical
 
 Coding, scraping, or calling APIs.
@@ -32,6 +38,8 @@ CSV's or json readily available.
 
 [Soccermetrics Projects](https://github.com/soccermetrics/project-data)
 
+[Football KPI's](https://github.com/teouch/fbl-kpis)
+
 [Football Data UK](http://www.football-data.co.uk/downloadm.php)
 
 [Open Football](https://github.com/openfootball)
@@ -52,23 +60,47 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 
 ## Analysis Toolbox
 
+[Performance Analysis](http://thevideoanalyst.com/want-performance-analyst/)
+
+[Comprehensive Overview](https://oneshortcorner.wordpress.com/2016/11/03/football-analytics-part-seven-how-not-to-use-stats/)
+
+[Stats & Sports Class](https://statsbylopez.com/stats-sports-class/)
+
+[STATS Data Science](https://www.stats.com/data-science/)
+
 [ML For Sports](https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php)
+
+[State of the Stats: 2016](https://deepxg.com/2016/12/31/state-of-the-stats-2016-results/)
 
 [RStats Libraries](https://twitter.com/StatsbyLopez/status/796014026094481408)
 
 [Toolbox Overview](http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/)
 
-## Project Reference
+[Analysis Pipeline](https://teouchanalytics.wordpress.com/2017/07/08/episode-1-feature-engineering-and-some-data-to-play-with/)
+
+[Working With Play By Play Data](http://curleylab.psych.columbia.edu/playbyplay/playbyplay.html#/)
+
+[Swarm Plots](http://pena.lt/y/2017/07/17/radar-alternatives-football-data/)
+
+## Projects
+
+#### Reference
+
+[Crosses In Scipy](https://twitter.com/Samirak93/status/905107479880581120)
+
+[Goals From Corners](https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/)
 
 Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1):[2](https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1)
 
-[Soccermetrics Collaboration](http://www.soccermetrics.net/collaborations/research-collaborations-2017)
+[Player Tracking](https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/)
 
 [Chalkboard](https://github.com/neilcharles/chalkboard)
 
 [South American WC Qualifiers](https://public.tableau.com/profile/mathijs.steneker#!/vizhome/xGmapeliminatorias/Matchstats)
 
 [Pitch Tracker](http://johnburnmurdoch.github.io/football-pitch-tracker/)
+
+[Tableau Dashboards](https://differentgame.wordpress.com/xg-shot-maps-and-tables/)
 
 [xG Shot Maps](https://public.tableau.com/s/profile/paul.riley#!/vizhome/PremierLeague201516xGMap/PremierLeague201516ShotonTargetxGDashboard)
 
@@ -83,6 +115,12 @@ Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617
 [Bayesian Modeling](https://github.com/milkha/EPL_KDD)
 
 [Unlucky Arsenal](https://github.com/Torvaney/unlucky-arsenal)
+
+## Ideas
+
+[Soccermetrics Collaboration](http://www.soccermetrics.net/collaborations/research-collaborations-2017)
+
+[Stats Collection In Women's Soccer](https://wosostats.wordpress.com/how-to-help)
 
 ## Cribsheet
 
