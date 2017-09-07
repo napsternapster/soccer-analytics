@@ -10,6 +10,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Spielverlagerung](http://spielverlagerung.com/)
 
+[Info Gol](http://www.infogolapp.com/)
+
+[IMPECT](http://bundesligafanatic.com/impect-packing-the-future-of-football-analytics-is-here/)
+
 [Collina Masterclass](http://www.dailymotion.com/video/x2iku17)
 
 Historical Matches:[1](http://footballia.net/):[2](https://www.youtube.com/user/footballemporium/playlists)
