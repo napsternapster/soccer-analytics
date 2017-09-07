@@ -8,38 +8,38 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Metrics in use in soccer analytics.
 
-[Ranked Probability Score](https://cognitivefootball.wordpress.com/rps/)
+* [Ranked Probability Score](https://cognitivefootball.wordpress.com/rps/)
 
-[Bayesian Player Ratings](http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/)
+* [Bayesian Player Ratings](http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/)
 
-Posession::[1](https://2plus2equals11.com/2015/08/25/valuing-possession/):[2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
+* Posession::[1](https://2plus2equals11.com/2015/08/25/valuing-possession/):[2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
 
-[Total Shots Ratio](https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/): shots for(shots for + shots against)
+* [Total Shots Ratio](https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/): shots for(shots for + shots against)
 
-[Dribbling](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-carry-on-dribbling/)
+* [Dribbling](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-carry-on-dribbling/)
 
-[xG](http://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals): Expected goals is a rough measurement of how many goals an average player is expected to score from a set of scoring chances. Weighed against years of historical data, ExG takes into account the position and context of each shot and assigns a goal-scoring probability to each opportunity.
+* [xG](http://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals): Expected goals is a rough measurement of how many goals an average player is expected to score from a set of scoring chances. Weighed against years of historical data, ExG takes into account the position and context of each shot and assigns a goal-scoring probability to each opportunity.
 
-Usage Rates::[1](http://regressing.deadspin.com/stat-primer-what-can-usage-rates-teach-us-about-the-pr-1642456897):[2](http://tempofreesoccer.blogspot.co.uk/2014/09/usage-rates-primer.html)
+* Usage Rates::[1](http://regressing.deadspin.com/stat-primer-what-can-usage-rates-teach-us-about-the-pr-1642456897):[2](http://tempofreesoccer.blogspot.co.uk/2014/09/usage-rates-primer.html)
 
-[Attacking Contribution](http://statsbomb.com/2014/10/attacking-contribution-metric-and-man-uniteds-reliance-on-di-maria/)
+* [Attacking Contribution](http://statsbomb.com/2014/10/attacking-contribution-metric-and-man-uniteds-reliance-on-di-maria/)
 
-[Chances Created](http://statsbomb.com/2014/07/what-matters-in-football-a-deeper-look-at-chances-created/)
+* [Chances Created](http://statsbomb.com/2014/07/what-matters-in-football-a-deeper-look-at-chances-created/)
 
-[High Press](http://statsbomb.com/2014/07/defensive-metrics-measuring-the-intensity-of-a-high-press/)
+* [High Press](http://statsbomb.com/2014/07/defensive-metrics-measuring-the-intensity-of-a-high-press/)
 
-[Attacking Speed](http://statsbomb.com/2014/06/the-importance-of-attacking-speed-and-the-quickest-attacking-team-in-epl/)
+* [Attacking Speed](http://statsbomb.com/2014/06/the-importance-of-attacking-speed-and-the-quickest-attacking-team-in-epl/)
 
-[Defensive Efficiency](https://thecounterattack.wordpress.com/2013/02/20/measuring-defensive-efficiency-deff/)
+* [Defensive Efficiency](https://thecounterattack.wordpress.com/2013/02/20/measuring-defensive-efficiency-deff/)
 
-[PDO](https://jameswgrayson.wordpress.com/2011/04/05/pdo-part-i/): 100 * (shooting % + save %) with 1000 as an average
+* [PDO](https://jameswgrayson.wordpress.com/2011/04/05/pdo-part-i/): 100 * (shooting % + save %) with 1000 as an average
 
-[Team Ratings](https://jameswgrayson.wordpress.com/2014/08/11/methodology-and-validation-of-the-team-ratings/)
+* [Team Ratings](https://jameswgrayson.wordpress.com/2014/08/11/methodology-and-validation-of-the-team-ratings/)
 
-[Attacking Effectiveness](http://experimental361.com/2013/01/21/attacking-effectiveness-europe/)
+* [Attacking Effectiveness](http://experimental361.com/2013/01/21/attacking-effectiveness-europe/)
 
-[Game States](http://11tegen11.net/2013/04/06/game-states-and-conversion/)
+* [Game States](http://11tegen11.net/2013/04/06/game-states-and-conversion/)
 
-[Gaussian Metrics](http://analyticsfc.co.uk/2015/12/03/joydivisualization-comparing-individual-performance-to-the-population/)
+* [Gaussian Metrics](http://analyticsfc.co.uk/2015/12/03/joydivisualization-comparing-individual-performance-to-the-population/)
 
-[Pythagorean Wins](https://www.reddit.com/r/soccer/comments/4dmdlq/oc_pythagorean_wins_expectation_for_the_premier/)
+* [Pythagorean Wins](https://www.reddit.com/r/soccer/comments/4dmdlq/oc_pythagorean_wins_expectation_for_the_premier/)
