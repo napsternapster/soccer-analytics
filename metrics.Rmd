@@ -12,7 +12,7 @@ Metrics in use in soccer analytics.
 
 [Bayesian Player Ratings](http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/)
 
-[Posession](https://2plus2equals11.com/2015/08/25/valuing-possession/):[2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
+Posession:[1](https://2plus2equals11.com/2015/08/25/valuing-possession/):[2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
 
 [Total Shots Ratio](https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/): shots for(shots for + shots against)
 
@@ -37,8 +37,6 @@ Usage Rates::[1](http://regressing.deadspin.com/stat-primer-what-can-usage-rates
 [Team Ratings](https://jameswgrayson.wordpress.com/2014/08/11/methodology-and-validation-of-the-team-ratings/)
 
 [Attacking Effectiveness](http://experimental361.com/2013/01/21/attacking-effectiveness-europe/)
-
-[IMPECT](http://bundesligafanatic.com/impect-packing-the-future-of-football-analytics-is-here/)
 
 [Game States](http://11tegen11.net/2013/04/06/game-states-and-conversion/)
 
