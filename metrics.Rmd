@@ -10,6 +10,18 @@ Metrics in use in soccer analytics.
 
 * [Ranked Probability Score](https://cognitivefootball.wordpress.com/rps/)
 
+* [Goal Gravity](http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/)
+
+* [Expected Assists](http://www.optasportspro.com/about/optapro-blog/posts/2017/blog-expected-assists-in-context/)
+
+* Pythagorean Expectation::[For](http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/):[Against](http://www.soccermetrics.net/soccer-pythagorean-theory/why-the-baseball-pythagorean-doesnt-work-for-soccer)
+
+* [Team Defensive Metrics](http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/)
+
+* [Posession's Framework](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-introducing-a-possessions-framework/)
+
+* [Expected Saves](http://www.soccermetrics.net/goalkeeping-analytics/expected-saves-an-inverse-of-expected-goals)
+
 * [Bayesian Player Ratings](http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/)
 
 * Posession::[1](https://2plus2equals11.com/2015/08/25/valuing-possession/):[2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
