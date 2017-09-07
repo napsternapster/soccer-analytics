@@ -6,25 +6,21 @@
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Getting Data
+## Data
 
 [Radar API](http://developer.sportradar.com/files/indexSoccer.html#soccer-api-v3)
 
-[A Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
+[Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
 
-https://github.com/hugomathien/football-data-collection
+[Data Collection](https://github.com/hugomathien/football-data-collection)
 
-https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py
+[Query F24 Data](https://github.com/huffyhenry/ltl24)
 
-## Datasets
+[Whoscore Scraper](https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py)
 
-http://www.soccermetrics.net/match-data-collection/football-weather-data-added-to-soccermetrics-projectdata-repository
+[Soccermetrics Projects](https://github.com/soccermetrics/project-data)
 
-https://github.com/soccermetrics/project-data
-
-https://github.com/teouch/fbl-kpis
-
-http://www.football-data.co.uk/downloadm.php
+[Football Data UK](http://www.football-data.co.uk/downloadm.php)
 
 http://usa.worldfootball.net/
 
@@ -52,23 +48,15 @@ https://github.com/octonion/soccer
 
 ## Analysis Toolbox
 
-https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1
+[ML For Sports](https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php)
 
-https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1
+[RStats Libraries](https://twitter.com/StatsbyLopez/status/796014026094481408)
 
-https://github.com/soccermetrics/project-data
-
-https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php
-
-https://github.com/huffyhenry/ltl24
-
-[Rstats Libraries](https://twitter.com/StatsbyLopez/status/796014026094481408)
-
-Pythagorean Expectation
-
-http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/
+[Toolbox Overview](http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/)
 
 ## Project Reference
+
+Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1):[2](https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1)
 
 [Soccermetrics Collaboration](http://www.soccermetrics.net/collaborations/research-collaborations-2017)
 
