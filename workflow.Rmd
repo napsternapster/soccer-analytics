@@ -50,7 +50,7 @@ https://github.com/jokecamp/FootballData
 
 https://github.com/octonion/soccer
 
-##Analyst Toolbox
+## Analysis Toolbox
 
 https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1
 
@@ -68,7 +68,9 @@ Pythagorean Expectation
 
 http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/
 
-##Project Reference
+## Project Reference
+
+[Soccermetrics Collaboration](http://www.soccermetrics.net/collaborations/research-collaborations-2017)
 
 [Chalkboard](https://github.com/neilcharles/chalkboard)
 
@@ -80,11 +82,9 @@ http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/
 
 [xG Calculator](https://dannypage.github.io/expected_goals.html)
 
-[Build A Model](http://www.hilltop-analytics.com/build-your-own-football-model/)
+[Analysts Table](https://hilltop-analytics.shinyapps.io/Analysts-EPL-Table/)
 
-[Analysts table](https://hilltop-analytics.shinyapps.io/Analysts-EPL-Table/)
-
-http://www.betbot.soccer/
+[Bet Bot](http://www.betbot.soccer/)
 
 [AVIZ Visualization](http://www.aviz.fr/soccer)
 
@@ -92,27 +92,23 @@ http://www.betbot.soccer/
 
 [Unlucky Arsenal](https://github.com/Torvaney/unlucky-arsenal)
 
-##Cribsheet
+## Cribsheet
 
-http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction
+* [Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
 
-http://optasports.com/news-area/blog-optas-event-definitions.aspx
+* [Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
 
-Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
+* Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
 
-Average percentage of goalscoring shots on target taken that end up as goals: 10.5% (Anything outside 7-12% will pretty much certainly not last - eventually)
+* Average percentage of goalscoring shots on target taken that end up as goals: 10.5% (Anything outside 7-12% will pretty much certainly not last - eventually)
 
-Shots: >= 3.5 shots per 90 is typically good, over 4 or 4.5 is pushing toward elite.
+* Shots: At least 3.5 shots per 90 is typically good. Over 4 or 4.5 is pushing toward elite.
 
-Previous research shows that a shot without defenders between the goal and ball goes in 11.59% on average vs 7.49% if defenders are present.
+* Previous research shows that a shot without defenders between the goal and ball goes in 11.59% on average vs 7.49% if defenders are present.
 
-A fairly simple guideline for non-penalty scoring rates as a Forward:
+* A fairly simple guideline for non-penalty scoring rates as a Forward:
 
-.4 to .49 non-penalty goals per 90: Good.
-.5 to .59 non-penalty goals per 90: Very good.
-.6 to .79 non-penalty goals per 90: Probable Top 20 in Europe
-.8 or above non-penalty goals per 90: Probable Top 5 in Europe
-
-## Ideas
-
-http://www.soccermetrics.net/collaborations/research-collaborations-2017
+    * .4 to .49 non-penalty goals per 90: Good.
+    * .5 to .59 non-penalty goals per 90: Very good.
+    * .6 to .79 non-penalty goals per 90: Probable Top 20 in Europe
+    * .8 or above non-penalty goals per 90: Probable Top 5 in Europe
