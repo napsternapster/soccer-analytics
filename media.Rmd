@@ -7,136 +7,86 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Article Selection
 
-http://thevideoanalyst.com/want-performance-analyst/
+[Quantifying Finishing Skill](http://statsbomb.com/2017/07/quantifying-finishing-skill/)
 
-https://statsbylopez.com/stats-sports-class/
+[Markov Chains For Player Contribution](https://medium.com/@Soccermatics/using-markov-chains-to-evaluate-football-players-contributions-57a107cc09e6)
 
-https://www.stats.com/data-science/
+[Model Prediction Confidence](https://jameswgrayson.wordpress.com/2014/09/25/on-confidence-in-model-predictions-and-why-its-not-necessarily-a-good-thing/)
 
-http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/
+[Football Page Rank](http://pena.lt/y/2016/03/21/football-pagerank/)
 
-https://twitter.com/Samirak93/status/905107479880581120
+[Godhart's Law](https://sports.vice.com/en_us/article/moreyball-godharts-law-and-the-limits-of-analytics)
 
-http://www.soccermetrics.net/goalkeeping-analytics/expected-saves-an-inverse-of-expected-goals
+[Shot Selection](http://business-analytic.co.uk/blog/uncategorized/an-identikit-for-shot-selection/)
 
-http://statsbomb.com/2017/07/quantifying-finishing-skill/
+[Learning From End-Of-Season Bundesliga Data](http://bundesligafanatic.com/what-can-season-end-bundesliga-data-teach-us/)
 
-https://statsweb-wpengine.netdna-ssl.com/wp-content/uploads/2017/08/STATS_DS_passes-created-equally.pdf
+[Home Field Advantage](https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/)
 
-http://pena.lt/y/2017/07/17/radar-alternatives-football-data/
+[High Return Shots Importance](http://business-analytic.co.uk/blog/uncategorized/the-importance-of-high-return-shots/)
 
-https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/
+[Visualizing League Tables](https://gwilymlockwood.wordpress.com/2016/03/23/visualising-football-league-tables/)
 
-https://teouchanalytics.wordpress.com/2017/07/08/episode-1-feature-engineering-and-some-data-to-play-with/
+[Improving Pythagorean Win Expectation](http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/)
 
-https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/
+[Posession Adjusted Stats](http://statsbomb.com/2014/06/introducing-possession-adjusted-player-stats/)
 
-https://medium.com/@Soccermatics/using-markov-chains-to-evaluate-football-players-contributions-57a107cc09e6
+[FIFA Moneyball](http://arybressane.github.io/playing-moneyball-on-ea-fifa-16/)
 
-http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/
+[Evaluating xG Models](http://mackayanalytics.nl/2016/03/28/how-good-are-our-xg-models/)
 
-[Working Withh Play By Play Data](http://curleylab.psych.columbia.edu/playbyplay/playbyplay.html#/)
+[Counter Attacking](https://2plus2equals11.com/2016/04/06/counting-counters/)
 
-https://jameswgrayson.wordpress.com/2014/09/25/on-confidence-in-model-predictions-and-why-its-not-necessarily-a-good-thing/
+[Spotting Future Stars](http://www.football-observatory.com/IMG/sites/mr/mr14/en/)
 
-http://pena.lt/y/2016/03/21/football-pagerank/
+[Lucky Vs Good](http://www.michaelbertin.com/its-better-to-be-lucky-than-good-but-its-even-better-to-be-lucky-and-good/)
 
-https://sports.vice.com/en_us/article/moreyball-godharts-law-and-the-limits-of-analytics
+[Counterpressing](https://13steps.co/2016/03/27/analysis-pochettino-tottenham-counterpress/)
 
-http://business-analytic.co.uk/blog/uncategorized/an-identikit-for-shot-selection/
+[Single Match xG](https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/)
 
-http://bundesligafanatic.com/what-can-season-end-bundesliga-data-teach-us/
+[Points-Goal Relationship](http://wearehooligans.com/2014/05/20/understanding-relationship-between-goals-points/)
 
-https://statsbylopez.com/2016/05/13/on-soccers-declining-home-field-advantage/
+[Positional Data Needed](http://statsbomb.com/2017/06/why-we-need-positional-data/)
 
-http://business-analytic.co.uk/blog/uncategorized/the-importance-of-high-return-shots/
+[Model Selection](http://opisthokonta.net/?p=1548)
 
-https://oneshortcorner.wordpress.com/2016/04/12/football-analytics-part-five-game-states-and-score-effects/
+[Putting xG To The Test](http://cartilagefreecaptain.sbnation.com/2014/2/28/5452786/shot-matrix-tottenham-hotspur-stats-analysis-expected-goals)
 
-https://contexts.org/articles/english-soccers-mysterious-worldwide-popularity/
+[Network Theory](https://www.technologyreview.com/s/530791/how-network-theory-is-revealing-previously-unknown-patterns-in-sports/)
 
-https://gwilymlockwood.wordpress.com/2016/03/23/visualising-football-league-tables/
+[Bayesian officiating](http://www.thefootballramble.com/indepth/entry/bayesian-officiating-a-chance-for-improvement)
 
-http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/#prettyPhoto
+[Attacking Effectiveness](https://experimental361.com/2013/01/21/attacking-effectiveness-europe/)
 
-https://www.experfy.com/blog/moneyball-some-insights-to-soccer-analytics
+[Posession Based Models](http://mackayanalytics.nl/2016/11/11/what-is-a-possession-based-model-and-why-does-it-matter/)
 
-http://statsbomb.com/2014/06/introducing-possession-adjusted-player-stats/
+[Penalty Areas Should Be Smaller](https://www.washingtonpost.com/news/fancy-stats/wp/2014/06/23/soccers-penalty-area-should-be-smaller/)
 
-http://arybressane.github.io/playing-moneyball-on-ea-fifa-16/
+[Historical English Football Scorelines](http://fivethirtyeight.com/features/in-126-years-english-football-has-seen-13475-nil-nil-draws/)
 
-https://differentgame.wordpress.com/xg-shot-maps-and-tables/
+[Poisson Score Prediction](https://www.pinnacle.com/en/betting-articles/soccer/how-to-calculate-poisson-distribution)
 
-http://mackayanalytics.nl/2016/03/28/how-good-are-our-xg-models/
-
-https://2plus2equals11.com/2016/04/06/counting-counters/
-
-http://www.football-observatory.com/IMG/sites/mr/mr14/en/
-
-http://www.michaelbertin.com/its-better-to-be-lucky-than-good-but-its-even-better-to-be-lucky-and-good/
-
-https://13steps.co/2016/03/27/analysis-pochettino-tottenham-counterpress/
-
-https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/
-
-http://wearehooligans.com/2014/05/20/understanding-relationship-between-goals-points/
-
-http://statsbomb.com/2017/06/why-we-need-positional-data/
-
-http://opisthokonta.net/?p=1548
-
-[State of the Stats: 2016](https://deepxg.com/2016/12/31/state-of-the-stats-2016-results/)
-
-http://cartilagefreecaptain.sbnation.com/2014/2/28/5452786/shot-matrix-tottenham-hotspur-stats-analysis-expected-goals
-
-http://statsbomb.com/2016/02/leicester-and-liverpool-when-it-goes-your-way-and-when-it-doesnt/
-
-https://www.technologyreview.com/s/530791/how-network-theory-is-revealing-previously-unknown-patterns-in-sports/
-
-http://www.thefootballramble.com/indepth/entry/bayesian-officiating-a-chance-for-improvement
-
-https://experimental361.com/2013/01/21/attacking-effectiveness-europe/
+[Fantasy Football Optimization](http://pena.lt/y/2014/07/24/mathematically-optimising-fantasy-football-teams/)
 
 [Lionel Messi Is Impossible](http://fivethirtyeight.com/features/lionel-messi-is-impossible/)
 
-http://www.sbnation.com/soccer/2014/12/2/7312419/bayer-leverkusen-bundesliga-statistical-analysis-roger-schmidt
+[Leverkusen Under Schmidt](http://www.sbnation.com/soccer/2014/12/2/7312419/bayer-leverkusen-bundesliga-statistical-analysis-roger-schmidt)
 
-http://www.mlssoccer.com/post/2013/01/15/central-winger-can-luck-and-skill-be-separated-soccer
+[Separating Luck From Skill](http://www.mlssoccer.com/post/2013/01/15/central-winger-can-luck-and-skill-be-separated-soccer)
 
 [Shooting's Geometry](http://sports.nordicbet.com/en/the-geometry-of-shooting/)
 
 [Complex Systems: Guardiola Case Study](http://www.togsoccer.com/single-post/2016/09/21/Complex-Systems-Pep-Guardiola-Case-Study)
 
-https://www.nordicbet.com/en/blog/football/premier-league/pogba-ett-problem-for-man-united
-
-http://mackayanalytics.nl/2016/11/11/what-is-a-possession-based-model-and-why-does-it-matter/
-
-https://infostradalive.com/2015/02/15/analyse-this-the-ageing-game/
-
-https://www.washingtonpost.com/news/fancy-stats/wp/2014/06/23/soccers-penalty-area-should-be-smaller/
-
-http://fivethirtyeight.com/features/in-126-years-english-football-has-seen-13475-nil-nil-draws/
-
-https://www.pinnacle.com/en/betting-articles/soccer/how-to-calculate-poisson-distribution
-
-http://pena.lt/y/2014/07/24/mathematically-optimising-fantasy-football-teams/
-
-##Papers
-
-[When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
-
 ## Videos
 
-[Streaming Realtime Analytics ](https://iwringer.wordpress.com/2014/06/20/glimpse-of-the-future-overlaying-realtime-analytics-on-football-broadcasts/)
+[Streaming Realtime Analytics](https://iwringer.wordpress.com/2014/06/20/glimpse-of-the-future-overlaying-realtime-analytics-on-football-broadcasts/)
 
-http://www.metacafe.com/watch/7337475/2011_nessis_talk_by_sarah_rudd/
+[Markov Chains](http://www.metacafe.com/watch/7337475/2011_nessis_talk_by_sarah_rudd/)
 
-[Opta YT](https://www.youtube.com/user/optasports/videos)
+[Opta Youtube Channel](https://www.youtube.com/user/optasports/videos)
 
-https://www.youtube.com/watch?v=7JZ2RY1h_Vg
+[Field Vision In The Premier League](https://www.youtube.com/watch?v=7JZ2RY1h_Vg)
 
-https://www.youtube.com/watch?v=AnYRTdOW0Uk
-
-##Apps
-
-[Info Gol](http://www.infogolapp.com/)
+[Soccermatics At Google](https://www.youtube.com/watch?v=AnYRTdOW0Uk)
