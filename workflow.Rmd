@@ -82,10 +82,6 @@ Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617
 
 ## Cribsheet
 
-* [Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
-
-* [Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
-
 * Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
 
 * Average percentage of goalscoring shots on target taken that end up as goals: 10.5% (Anything outside 7-12% will pretty much certainly not last - eventually)
