@@ -7,6 +7,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Blogs
 
+Twitter Lists::[1](https://twitter.com/neilcharles_uk/lists/football-analysis):[2](https://twitter.com/centralwinger/lists/soccer-analytics)
+
 [OnsideFC](https://github.com/OnsideFC)
 
 [Sporting Logic](https://sportinglogicblog.wordpress.com)
@@ -14,6 +16,8 @@ knitr::opts_chunk$set(echo = TRUE)
 [Murdock](http://johnburnmurdoch.github.io/)
 
 Northyard Analytics
+
+[Hilltop Analytics](http://www.hilltop-analytics.com)
 
 [Analytics FC](http://analyticsfc.co.uk)
 
@@ -60,6 +64,8 @@ Northyard Analytics
 [StatsBomb](http://statsbomb.com/)
 
 ## Selected Articles
+
+[When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
 
 [Quantifying Finishing Skill](http://statsbomb.com/2017/07/quantifying-finishing-skill/)
 
