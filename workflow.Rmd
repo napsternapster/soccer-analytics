@@ -8,43 +8,47 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Data
 
-[Radar API](http://developer.sportradar.com/files/indexSoccer.html#soccer-api-v3)
+#### Technical
 
-[Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
-
-[Data Collection](https://github.com/hugomathien/football-data-collection)
+Coding, scraping, or calling APIs.
 
 [Query F24 Data](https://github.com/huffyhenry/ltl24)
 
-[Whoscore Scraper](https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py)
+[Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
+
+[Radar API](http://developer.sportradar.com/files/indexSoccer.html#soccer-api-v3)
+
+[Whoscored Scraper](https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py)
+
+[World Football](http://usa.worldfootball.net/)
+
+[Data Collection](https://github.com/hugomathien/football-data-collection)
+
+[Kaggle](https://www.kaggle.com/hugomathien/soccer)
+
+#### Non-technical
+
+CSV's or json readily available.
 
 [Soccermetrics Projects](https://github.com/soccermetrics/project-data)
 
 [Football Data UK](http://www.football-data.co.uk/downloadm.php)
 
-http://usa.worldfootball.net/
+[Open Football](https://github.com/openfootball)
 
-https://github.com/openfootball
+[Historical Scorelines](https://github.com/llimllib/soccerdata)
 
-https://github.com/footballcsv/eng-england
+[World Cup Data](https://github.com/sanand0/fifadata)
 
-https://github.com/llimllib/soccerdata
+[Football Data UK](http://www.football-data.co.uk/data.php)
 
-https://github.com/sanand0/fifadata
+[JSON European Data](https://github.com/opendatajson/football.json)
 
-https://www.kaggle.com/hugomathien/soccer
+[International Data](https://github.com/SoccerStatsUS/international_data/tree/master/games)
 
-http://www.football-data.co.uk/data.php
+Historical Results::[1](https://github.com/jalapic/engsoccerdata):[2](https://github.com/footballcsv/eng-england)
 
-https://github.com/opendatajson/football.json
-
-https://github.com/SoccerStatsUS/international_data/tree/master/games
-
-https://github.com/jalapic/engsoccerdata
-
-https://github.com/jokecamp/FootballData
-
-https://github.com/octonion/soccer
+Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://github.com/octonion/soccer)
 
 ## Analysis Toolbox
 
