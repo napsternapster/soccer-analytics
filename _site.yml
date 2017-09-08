@@ -4,7 +4,7 @@ navbar:
   title: "Soccer Analytics"
   left:
     - text: "Workflow"
-      href: workflow.html
+      href: index.html
     - text: "Media"
       href: media.html
     - text: "Metrics"
@@ -12,7 +12,7 @@ navbar:
     - text: "Miscellaneous"
       href: miscellaneous.html
     - text: "About"
-      href: index.html
+      href: about.html
 output:
   html_document:
     theme: flatly
