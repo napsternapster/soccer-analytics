@@ -1,13 +1,23 @@
----
-
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Other
+<style>
+  .col4 {
+    columns: 4 100px;         /* number of columns and width in pixels*/
+    -webkit-columns: 4 200px; /* chrome, safari */
+    -moz-columns: 4 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
 
+<br/>
+
+<div class="col3">
 [Spielverlagerung](http://spielverlagerung.com/)
 
 [Info Gol](http://www.infogolapp.com/)
@@ -17,3 +27,4 @@ knitr::opts_chunk$set(echo = TRUE)
 [Collina Masterclass](http://www.dailymotion.com/video/x2iku17)
 
 Historical Matches:[1](http://footballia.net/):[2](https://www.youtube.com/user/footballemporium/playlists)
+</div>

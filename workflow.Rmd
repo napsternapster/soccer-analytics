@@ -1,23 +1,42 @@
----
-
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<style>
+  .col4 {
+    columns: 4 100px;         /* number of columns and width in pixels*/
+    -webkit-columns: 4 200px; /* chrome, safari */
+    -moz-columns: 4 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+
+<br/>
+
 ## Data
+<br/>
 
 #### General
+<br/>
 
 [Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
 
 [Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
 
+<br/>
+
 #### Technical
+<br/>
 
 Coding, scraping, or calling APIs.
 
+<br/>
+
+<div class="col3">
 [Query F24 Data](https://github.com/huffyhenry/ltl24)
 
 [Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
@@ -31,11 +50,18 @@ Coding, scraping, or calling APIs.
 [Data Collection](https://github.com/hugomathien/football-data-collection)
 
 [Kaggle](https://www.kaggle.com/hugomathien/soccer)
+</div>
+<br/>
 
 #### Non-Technical
 
+<br/>
+
 CSV's or json readily available.
 
+<br/>
+
+<div class="col3">
 [Soccermetrics Projects](https://github.com/soccermetrics/project-data)
 
 [Football KPI's](https://github.com/teouch/fbl-kpis)
@@ -57,9 +83,13 @@ CSV's or json readily available.
 Historical Results::[1](https://github.com/jalapic/engsoccerdata):[2](https://github.com/footballcsv/eng-england)
 
 Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://github.com/octonion/soccer)
+</div>
+<br/>
 
 ## Analysis Toolbox
+<br/>
 
+<div class="col3">
 [Performance Analysis](http://thevideoanalyst.com/want-performance-analyst/)
 
 [Comprehensive Overview](https://oneshortcorner.wordpress.com/2016/11/03/football-analytics-part-seven-how-not-to-use-stats/)
@@ -81,11 +111,16 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 [Working With Play By Play Data](http://curleylab.psych.columbia.edu/playbyplay/playbyplay.html#/)
 
 [Swarm Plots](http://pena.lt/y/2017/07/17/radar-alternatives-football-data/)
+</div>
+<br/>
 
 ## Projects
+<br/>
 
 #### Reference
+<br/>
 
+<div class="col3">
 [Crosses In Scipy](https://twitter.com/Samirak93/status/905107479880581120)
 
 [Goals From Corners](https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/)
@@ -115,14 +150,23 @@ Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617
 [Bayesian Modeling](https://github.com/milkha/EPL_KDD)
 
 [Unlucky Arsenal](https://github.com/Torvaney/unlucky-arsenal)
+</div>
+<br/>
 
 #### Ideas
+<br/>
+
+<div class="col3">
+[Optapro Forum](http://www.optasportspro.com/about/optapro-blog/?tag=Analytics%20Forum)
 
 [Soccermetrics Collaboration](http://www.soccermetrics.net/collaborations/research-collaborations-2017)
 
 [Stats Collection In Women's Soccer](https://wosostats.wordpress.com/how-to-help)
+</div>
+<br/>
 
 ## Cribsheet
+<br/>
 
 * Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
 
@@ -131,6 +175,8 @@ Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617
 * Shots: At least 3.5 shots per 90 is typically good. Over 4 or 4.5 is pushing toward elite.
 
 * Previous research shows that a shot without defenders between the goal and ball goes in 11.59% on average vs 7.49% if defenders are present.
+
+* PDO: 100 * (shooting % + save %) with 1000 as an average
 
 * A fairly simple guideline for non-penalty scoring rates as a Forward:
 

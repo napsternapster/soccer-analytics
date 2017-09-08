@@ -15,7 +15,7 @@
 
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -97,34 +97,34 @@ button.code-folding-btn:focus {
 <style type="text/css">
 /* padding for bootstrap navbar */
 body {
-  padding-top: 51px;
+  padding-top: 60px;
   padding-bottom: 40px;
 }
 /* offset scroll position for anchor links (for fixed navbar)  */
 .section h1 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 
 .section h2 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h3 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h4 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h5 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 .section h6 {
-  padding-top: 56px;
-  margin-top: -56px;
+  padding-top: 65px;
+  margin-top: -65px;
 }
 </style>
 
@@ -176,7 +176,7 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">About</a>
+  <a href="workflow.html">Workflow</a>
 </li>
 <li>
   <a href="media.html">Media</a>
@@ -185,10 +185,10 @@ $(document).ready(function () {
   <a href="metrics.html">Metrics</a>
 </li>
 <li>
-  <a href="workflow.html">Workflow</a>
+  <a href="miscellaneous.html">Miscellaneous</a>
 </li>
 <li>
-  <a href="miscellaneous.html">Miscellaneous</a>
+  <a href="index.html">About</a>
 </li>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -206,28 +206,49 @@ $(document).ready(function () {
 </div>
 
 
-<hr />
-<hr />
+<style>
+  .col4 {
+    columns: 4 100px;         /* number of columns and width in pixels*/
+    -webkit-columns: 4 200px; /* chrome, safari */
+    -moz-columns: 4 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+<p><br/></p>
 <p>Metrics in use in soccer analytics.</p>
-<p><a href="https://cognitivefootball.wordpress.com/rps/">Ranked Probability Score</a></p>
-<p><a href="http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/">Bayesian Player Ratings</a></p>
-<p><a href="https://2plus2equals11.com/2015/08/25/valuing-possession/">Posession</a>:<a href="http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html">2</a></p>
-<p><a href="https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/">Total Shots Ratio</a>: shots for(shots for + shots against)</p>
-<p><a href="http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-carry-on-dribbling/">Dribbling</a></p>
-<p><a href="http://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals">xG</a>: Expected goals is a rough measurement of how many goals an average player is expected to score from a set of scoring chances. Weighed against years of historical data, ExG takes into account the position and context of each shot and assigns a goal-scoring probability to each opportunity.</p>
-<p>Usage Rates::<a href="http://regressing.deadspin.com/stat-primer-what-can-usage-rates-teach-us-about-the-pr-1642456897">1</a>:2](<a href="http://tempofreesoccer.blogspot.co.uk/2014/09/usage-rates-primer.html" class="uri">http://tempofreesoccer.blogspot.co.uk/2014/09/usage-rates-primer.html</a>)</p>
-<p><a href="http://statsbomb.com/2014/10/attacking-contribution-metric-and-man-uniteds-reliance-on-di-maria/">Attacking Contribution</a></p>
-<p><a href="http://statsbomb.com/2014/07/what-matters-in-football-a-deeper-look-at-chances-created/">Chances Created</a></p>
-<p><a href="http://statsbomb.com/2014/07/defensive-metrics-measuring-the-intensity-of-a-high-press/">High Press</a></p>
-<p><a href="http://statsbomb.com/2014/06/the-importance-of-attacking-speed-and-the-quickest-attacking-team-in-epl/">Attacking Speed</a></p>
-<p><a href="https://thecounterattack.wordpress.com/2013/02/20/measuring-defensive-efficiency-deff/">Defensive Efficiency</a></p>
-<p><a href="https://jameswgrayson.wordpress.com/2011/04/05/pdo-part-i/">PDO</a>: 100*(shooting %+save %) with 1000 as an average</p>
-<p><a href="https://jameswgrayson.wordpress.com/2014/08/11/methodology-and-validation-of-the-team-ratings/">Team Ratings</a></p>
-<p><a href="http://experimental361.com/2013/01/21/attacking-effectiveness-europe/">Attacking Effectiveness</a></p>
-<p><a href="http://bundesligafanatic.com/impect-packing-the-future-of-football-analytics-is-here/">IMPECT</a></p>
-<p><a href="http://11tegen11.net/2013/04/06/game-states-and-conversion/">Game States</a></p>
-<p><a href="http://analyticsfc.co.uk/2015/12/03/joydivisualization-comparing-individual-performance-to-the-population/">Gaussian Metrics</a></p>
-<p><a href="https://www.reddit.com/r/soccer/comments/4dmdlq/oc_pythagorean_wins_expectation_for_the_premier/">Pythagorean Wins</a></p>
+<p><br/></p>
+<div class="col3">
+<ul>
+<li><p><a href="https://cognitivefootball.wordpress.com/rps/">Ranked Probability Score</a></p></li>
+<li><p><a href="http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/">Goal Gravity</a></p></li>
+<li><p><a href="http://www.optasportspro.com/about/optapro-blog/posts/2017/blog-expected-assists-in-context/">Expected Assists</a></p></li>
+<li><p>Pythagorean Expectation::<a href="http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/">For</a>:<a href="http://www.soccermetrics.net/soccer-pythagorean-theory/why-the-baseball-pythagorean-doesnt-work-for-soccer">Against</a></p></li>
+<li><p><a href="http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/">Team Defensive Metrics</a></p></li>
+<li><p><a href="http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-introducing-a-possessions-framework/">Posession’s Framework</a></p></li>
+<li><p><a href="http://www.soccermetrics.net/goalkeeping-analytics/expected-saves-an-inverse-of-expected-goals">Expected Saves</a></p></li>
+<li><p><a href="http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/">Bayesian Player Ratings</a></p></li>
+<li><p>Posession::<a href="https://2plus2equals11.com/2015/08/25/valuing-possession/">1</a>:<a href="http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html">2</a></p></li>
+<li><p><a href="https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/">Total Shots Ratio</a></p></li>
+<li><p><a href="http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-carry-on-dribbling/">Dribbling</a></p></li>
+<li><p><a href="http://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals">xG</a></p></li>
+<li><p>Usage Rates::<a href="http://regressing.deadspin.com/stat-primer-what-can-usage-rates-teach-us-about-the-pr-1642456897">1</a>:<a href="http://tempofreesoccer.blogspot.co.uk/2014/09/usage-rates-primer.html">2</a></p></li>
+<li><p><a href="http://statsbomb.com/2014/10/attacking-contribution-metric-and-man-uniteds-reliance-on-di-maria/">Attacking Contribution</a></p></li>
+<li><p><a href="http://statsbomb.com/2014/07/what-matters-in-football-a-deeper-look-at-chances-created/">Chances Created</a></p></li>
+<li><p><a href="http://statsbomb.com/2014/07/defensive-metrics-measuring-the-intensity-of-a-high-press/">High Press</a></p></li>
+<li><p><a href="http://statsbomb.com/2014/06/the-importance-of-attacking-speed-and-the-quickest-attacking-team-in-epl/">Attacking Speed</a></p></li>
+<li><p><a href="https://thecounterattack.wordpress.com/2013/02/20/measuring-defensive-efficiency-deff/">Defensive Efficiency</a></p></li>
+<li><p><a href="https://jameswgrayson.wordpress.com/2011/04/05/pdo-part-i/">PDO</a></p></li>
+<li><p><a href="https://jameswgrayson.wordpress.com/2014/08/11/methodology-and-validation-of-the-team-ratings/">Team Ratings</a></p></li>
+<li><p><a href="http://experimental361.com/2013/01/21/attacking-effectiveness-europe/">Attacking Effectiveness</a></p></li>
+<li><p><a href="http://11tegen11.net/2013/04/06/game-states-and-conversion/">Game States</a></p></li>
+<li><p><a href="http://analyticsfc.co.uk/2015/12/03/joydivisualization-comparing-individual-performance-to-the-population/">Gaussian Metrics</a></p></li>
+<li><a href="https://www.reddit.com/r/soccer/comments/4dmdlq/oc_pythagorean_wins_expectation_for_the_premier/">Pythagorean Wins</a></li>
+</ul>
+</div>
 
 
 

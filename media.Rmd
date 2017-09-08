@@ -1,16 +1,34 @@
----
----
-
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<style>
+  .col4 {
+    columns: 4 100px;         /* number of columns and width in pixels*/
+    -webkit-columns: 4 200px; /* chrome, safari */
+    -moz-columns: 4 200px;    /* firefox */
+  }
+  .col3 {
+    columns: 3 100px;
+    -webkit-columns: 3 100px;
+    -moz-columns: 3 100px;
+  }
+</style>
+
+<br/>
 
 ## General
 
+<br/>
+
 Twitter Lists::[1](https://twitter.com/neilcharles_uk/lists/football-analysis):[2](https://twitter.com/centralwinger/lists/soccer-analytics)
+
+<br/>
 
 ## Blogs
 
+<br/>
+
+<div class="col3">
 [OnsideFC](https://github.com/OnsideFC)
 
 [Sporting Logic](https://sportinglogicblog.wordpress.com)
@@ -64,9 +82,13 @@ Northyard Analytics
 [The Open Football](http://theopenfootball.blogspot.co.uk/)
 
 [StatsBomb](http://statsbomb.com/)
+</div>
+<br/>
 
 ## Selected Articles
+<br/>
 
+<div class="col3">
 [When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
 
 [Quantifying Finishing Skill](http://statsbomb.com/2017/07/quantifying-finishing-skill/)
@@ -140,9 +162,21 @@ Northyard Analytics
 [Shooting's Geometry](http://sports.nordicbet.com/en/the-geometry-of-shooting/)
 
 [Complex Systems: Guardiola Case Study](http://www.togsoccer.com/single-post/2016/09/21/Complex-Systems-Pep-Guardiola-Case-Study)
+</div>
+<br/>
+
+## Papers
+<br/>
+
+<div class="col3">
+[When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
+</div>
+<br/>
 
 ## Videos
+<br/>
 
+<div class="col3">
 [Streaming Realtime Analytics](https://iwringer.wordpress.com/2014/06/20/glimpse-of-the-future-overlaying-realtime-analytics-on-football-broadcasts/)
 
 [Markov Chains](http://www.metacafe.com/watch/7337475/2011_nessis_talk_by_sarah_rudd/)
@@ -152,3 +186,4 @@ Northyard Analytics
 [Field Vision In The Premier League](https://www.youtube.com/watch?v=7JZ2RY1h_Vg)
 
 [Soccermatics At Google](https://www.youtube.com/watch?v=AnYRTdOW0Uk)
+</div>
