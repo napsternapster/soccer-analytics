@@ -38,7 +38,7 @@ Metrics in use in soccer analytics.
 
 * [Bayesian Player Ratings](http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/)
 
-* Posession::[1](https://2plus2equals11.com/2015/08/25/valuing-possession/):[2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
+* Possession::[1](https://2plus2equals11.com/2015/08/25/valuing-possession/):[2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
 
 * [Total Shots Ratio](https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/)
 
