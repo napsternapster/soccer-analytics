@@ -32,7 +32,7 @@ Metrics in use in soccer analytics.
 
 * [Team Defensive Metrics](http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/)
 
-* [Posession's Framework](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-introducing-a-possessions-framework/)
+* [Possession's Framework](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-introducing-a-possessions-framework/)
 
 * [Expected Saves](http://www.soccermetrics.net/goalkeeping-analytics/expected-saves-an-inverse-of-expected-goals)
 

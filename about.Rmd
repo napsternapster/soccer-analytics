@@ -1,6 +1,7 @@
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+<br/>
 
 A collection of some of the best resources and tidbits on Soccer Analytics that I've collected. Please [create an issue or submit a pull request](https://github.com/gfleetwood/soccer-analytics-website) if you have ideas for additions or improvements. 
 
