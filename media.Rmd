@@ -91,6 +91,8 @@ Northyard Analytics
 <div class="col3">
 [When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
 
+[Team Shape](https://proformanalytics.wordpress.com/2017/09/08/direct-applications-of-team-shape-tracking-for-football-coaches-and-analysts/)
+
 [Quantifying Finishing Skill](http://statsbomb.com/2017/07/quantifying-finishing-skill/)
 
 [Markov Chains For Player Contribution](https://medium.com/@Soccermatics/using-markov-chains-to-evaluate-football-players-contributions-57a107cc09e6)
