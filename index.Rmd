@@ -123,6 +123,10 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 <div class="col3">
 [Crosses In Scipy](https://twitter.com/Samirak93/status/905107479880581120)
 
+[Positional Data Visualization](https://github.com/JoGall/soccermatics)
+
+[EPL Chances](https://public.tableau.com/profile/scribblr.42#!/vizhome/ChancesDashboard2017-18-PoweredbyStrataBet/PremierLeagueChances2016-17?publish=yes)
+
 [Goals From Corners](https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/)
 
 Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1):[2](https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1)
