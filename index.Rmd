@@ -172,6 +172,8 @@ Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617
 ## Cribsheet
 <br/>
 
+* Soccer matches modeled by Poisson distribution.
+
 * Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
 
 * Average percentage of goalscoring shots on target taken that end up as goals: 10.5% (Anything outside 7-12% will pretty much certainly not last - eventually)
