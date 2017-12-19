@@ -25,6 +25,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 [Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
 
+https://chatbotnewsdaily.com/my-bet-bot-99ec2408da7a
+
 [Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
 
 <br/>
@@ -122,6 +124,8 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 
 <div class="col3">
 [Crosses In Scipy](https://twitter.com/Samirak93/status/905107479880581120)
+
+[XG Simulator](https://torvaney.github.io/projects/xG.html)
 
 [Positional Data Visualization](https://github.com/JoGall/soccermatics)
 

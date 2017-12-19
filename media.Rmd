@@ -22,6 +22,10 @@ knitr::opts_chunk$set(echo = TRUE)
 
 Twitter Lists::[1](https://twitter.com/neilcharles_uk/lists/football-analysis):[2](https://twitter.com/centralwinger/lists/soccer-analytics)
 
+http://twelve.football/analytics
+
+http://canntable.com
+
 <br/>
 
 ## Blogs
@@ -91,6 +95,14 @@ Northyard Analytics
 <div class="col3">
 [When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
 
+https://www.nytimes.com/2017/11/25/sports/soccer/burnley-arsenal-premier-league.html?smid=tw-share
+
+http://www.playedoffthepark.co.uk/vertical-passing-2-1-distance-and-clustering/
+
+http://eightyfivepoints.blogspot.co.uk/2017/09/bodies-on-line-quantifying-how.html?m=1
+
+[xG Explained](http://www.footballwhispers.com/blog/expected-goals-questions-answered)
+
 [One Good Shot VS Many Bad Shots](http://www.luishusier.com/2017/10/19/shot_variability/)
 
 [Team Shape](https://proformanalytics.wordpress.com/2017/09/08/direct-applications-of-team-shape-tracking-for-football-coaches-and-analysts/)
@@ -98,6 +110,8 @@ Northyard Analytics
 [Quantifying Finishing Skill](http://statsbomb.com/2017/07/quantifying-finishing-skill/)
 
 [Markov Chains For Player Contribution](https://medium.com/@Soccermatics/using-markov-chains-to-evaluate-football-players-contributions-57a107cc09e6)
+
+https://medium.com/@Soccermatics/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6
 
 [Model Prediction Confidence](https://jameswgrayson.wordpress.com/2014/09/25/on-confidence-in-model-predictions-and-why-its-not-necessarily-a-good-thing/)
 
@@ -167,6 +181,8 @@ Northyard Analytics
 
 [Shooting's Geometry](http://sports.nordicbet.com/en/the-geometry-of-shooting/)
 
+https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/
+
 [Complex Systems: Guardiola Case Study](http://www.togsoccer.com/single-post/2016/09/21/Complex-Systems-Pep-Guardiola-Case-Study)
 </div>
 <br/>
@@ -176,6 +192,12 @@ Northyard Analytics
 
 <div class="col3">
 [When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1091662
+
+https://arxiv.org/abs/1701.05976
+
+https://arxiv.org/pdf/1705.00885v3.pdf
 </div>
 <br/>
 
