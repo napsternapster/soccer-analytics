@@ -26,6 +26,15 @@ http://twelve.football/analytics
 
 http://canntable.com
 
+https://mytinyshinys.shinyapps.io/premierLeague/
+
+https://twitter.com/226blog/status/946230772070936578
+
+http://statszone.tiki-taka.co/
+
+https://twitter.com/SportsDataChal/status/740675516093566980
+
+https://github.com/pfletcherhill/ShapleySoccer
 <br/>
 
 ## Blogs
@@ -72,6 +81,8 @@ Northyard Analytics
 [Snakeoil](http://statsandsnakeoil.wordpress.com)
 
 [Bootiful Game](http://www.bootifulgame.com)
+
+[3-6-1](https://experimental361.com)
 
 [Fog](http://www.wallpaperingfog.co.uk)
 
