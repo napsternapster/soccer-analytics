@@ -18,27 +18,14 @@ knitr::opts_chunk$set(echo = TRUE)
 <br/>
 
 ## Data
-<br/>
-
-#### General
-<br/>
+<div class="col3">
 
 [Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
 
-https://chatbotnewsdaily.com/my-bet-bot-99ec2408da7a
+https://fcpython.com/
 
 [Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
 
-<br/>
-
-#### Technical
-<br/>
-
-Coding, scraping, or calling APIs.
-
-<br/>
-
-<div class="col3">
 [Query F24 Data](https://github.com/huffyhenry/ltl24)
 
 [Beginner's Guide](https://sportsdatachallenge.wordpress.com/2016/09/21/a-total-beginners-guide-to-web-scraping-football-data-part-1/)
@@ -52,31 +39,18 @@ Coding, scraping, or calling APIs.
 [Data Collection](https://github.com/hugomathien/football-data-collection)
 
 [Kaggle](https://www.kaggle.com/hugomathien/soccer)
-</div>
-<br/>
 
-#### Non-Technical
-
-<br/>
-
-CSV's or json readily available.
-
-<br/>
-
-<div class="col3">
 [Soccermetrics Projects](https://github.com/soccermetrics/project-data)
 
 [Football KPI's](https://github.com/teouch/fbl-kpis)
 
-[Football Data UK](http://www.football-data.co.uk/downloadm.php)
+[Betting](http://www.football-data.co.uk/downloadm.php)
 
 [Open Football](https://github.com/openfootball)
 
 [Historical Scorelines](https://github.com/llimllib/soccerdata)
 
 [World Cup Data](https://github.com/sanand0/fifadata)
-
-[Football Data UK](http://www.football-data.co.uk/data.php)
 
 [JSON European Data](https://github.com/opendatajson/football.json)
 
@@ -104,8 +78,6 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 
 [State of the Stats: 2016](https://deepxg.com/2016/12/31/state-of-the-stats-2016-results/)
 
-[RStats Libraries](https://twitter.com/StatsbyLopez/status/796014026094481408)
-
 [Toolbox Overview](http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/)
 
 [Analysis Pipeline](https://teouchanalytics.wordpress.com/2017/07/08/episode-1-feature-engineering-and-some-data-to-play-with/)
@@ -117,9 +89,6 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 <br/>
 
 ## Projects
-<br/>
-
-#### Reference
 <br/>
 
 <div class="col3">
@@ -158,13 +127,7 @@ Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617
 [Bayesian Modeling](https://github.com/milkha/EPL_KDD)
 
 [Unlucky Arsenal](https://github.com/Torvaney/unlucky-arsenal)
-</div>
-<br/>
 
-#### Ideas
-<br/>
-
-<div class="col3">
 [Optapro Forum](http://www.optasportspro.com/about/optapro-blog/?tag=Analytics%20Forum)
 
 [Soccermetrics Collaboration](http://www.soccermetrics.net/collaborations/research-collaborations-2017)
