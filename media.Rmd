@@ -35,6 +35,10 @@ http://statszone.tiki-taka.co/
 https://twitter.com/SportsDataChal/status/740675516093566980
 
 https://github.com/pfletcherhill/ShapleySoccer
+
+[Info Gol](http://www.infogolapp.com/)
+
+[IMPECT](http://bundesligafanatic.com/impect-packing-the-future-of-football-analytics-is-here/)
 <br/>
 
 ## Blogs
@@ -104,7 +108,11 @@ Northyard Analytics
 <br/>
 
 <div class="col3">
+https://www.reddit.com/r/soccer/comments/80sfoc/what_the_hell_is_happening_in_atl%C3%A9tico_madrid/duy9do3/
+
 [When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
+
+https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit
 
 https://www.nytimes.com/2017/11/25/sports/soccer/burnley-arsenal-premier-league.html?smid=tw-share
 
@@ -123,8 +131,6 @@ http://eightyfivepoints.blogspot.co.uk/2017/09/bodies-on-line-quantifying-how.ht
 [Quantifying Finishing Skill](http://statsbomb.com/2017/07/quantifying-finishing-skill/)
 
 [Markov Chains For Player Contribution](https://medium.com/@Soccermatics/using-markov-chains-to-evaluate-football-players-contributions-57a107cc09e6)
-
-https://medium.com/@Soccermatics/should-you-write-about-real-goals-or-expected-goals-a-guide-for-journalists-2cf0c7ec6bb6
 
 [Model Prediction Confidence](https://jameswgrayson.wordpress.com/2014/09/25/on-confidence-in-model-predictions-and-why-its-not-necessarily-a-good-thing/)
 
@@ -229,4 +235,17 @@ https://arxiv.org/pdf/1705.00885v3.pdf
 [Field Vision In The Premier League](https://www.youtube.com/watch?v=7JZ2RY1h_Vg)
 
 [Soccermatics At Google](https://www.youtube.com/watch?v=AnYRTdOW0Uk)
+</div>
+
+<br/>
+
+## Miscellaneous
+
+<br/>
+<div class="col3">
+[Spielverlagerung](http://spielverlagerung.com/)
+
+[Collina Masterclass](http://www.dailymotion.com/video/x2iku17)
+
+Historical Matches: [1](http://footballia.net/) | [2](https://www.youtube.com/user/footballemporium/playlists)
 </div>

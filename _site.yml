@@ -5,12 +5,8 @@ navbar:
   left:
     - text: "Workflow"
       href: index.html
-    - text: "Metrics"
-      href: metrics.html
     - text: "Media"
       href: media.html
-    - text: "Miscellaneous"
-      href: miscellaneous.html
     - text: "About"
       href: about.html
 output:
