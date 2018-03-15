@@ -101,7 +101,7 @@ https://fcpython.com/
 <div class="col3">
 * [Ranked Probability Score](https://cognitivefootball.wordpress.com/rps/)
 
-*[Shapely Values](https://github.com/pfletcherhill/ShapleySoccer)
+* [Shapely Values](https://github.com/pfletcherhill/ShapleySoccer)
 
 * [Goal Gravity](http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/)
 
@@ -149,6 +149,7 @@ https://fcpython.com/
 
 * [Pythagorean Wins](https://www.reddit.com/r/soccer/comments/4dmdlq/oc_pythagorean_wins_expectation_for_the_premier/)
 </div>
+<br/>
 
 ## Projects
 <br/>
