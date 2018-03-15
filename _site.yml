@@ -3,7 +3,7 @@ output_dir: "docs"
 navbar:
   title: "Soccer Analytics"
   left:
-    - text: "Workflow"
+    - text: "Analytics Workflow"
       href: index.html
     - text: "Media"
       href: media.html

@@ -24,9 +24,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 http://www.rsssf.com/
 
-https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
+https://boggio-analytics.com/fp-api/
 
-https://fcpython.com/
+https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 
 [Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
 
@@ -39,8 +39,6 @@ https://fcpython.com/
 [Whoscored Scraper](https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py)
 
 [World Football](http://usa.worldfootball.net/)
-
-[Data Collection](https://github.com/hugomathien/football-data-collection)
 
 [Kaggle](https://www.kaggle.com/hugomathien/soccer)
 
@@ -60,9 +58,9 @@ https://fcpython.com/
 
 [International Data](https://github.com/SoccerStatsUS/international_data/tree/master/games)
 
-Historical Results::[1](https://github.com/jalapic/engsoccerdata):[2](https://github.com/footballcsv/eng-england)
+Historical Results: [1](https://github.com/jalapic/engsoccerdata) | [2](https://github.com/footballcsv/eng-england) | [3](https://github.com/hugomathien/football-data-collection)
 
-Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://github.com/octonion/soccer)
+Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://github.com/octonion/soccer)
 </div>
 <br/>
 
@@ -71,6 +69,10 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 
 <div class="col3">
 [Performance Analysis](http://thevideoanalyst.com/want-performance-analyst/)
+
+[Tavares](https://github.com/rjtavares/football-crunching)
+
+https://fcpython.com/
 
 [Comprehensive Overview](https://oneshortcorner.wordpress.com/2016/11/03/football-analytics-part-seven-how-not-to-use-stats/)
 
@@ -99,11 +101,13 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 <div class="col3">
 * [Ranked Probability Score](https://cognitivefootball.wordpress.com/rps/)
 
+*[Shapely Values](https://github.com/pfletcherhill/ShapleySoccer)
+
 * [Goal Gravity](http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/)
 
 * [Expected Assists](http://www.optasportspro.com/about/optapro-blog/posts/2017/blog-expected-assists-in-context/)
 
-* Pythagorean Expectation::[For](http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/):[Against](http://www.soccermetrics.net/soccer-pythagorean-theory/why-the-baseball-pythagorean-doesnt-work-for-soccer)
+* Pythagorean Expectation: [For](http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/) | [Against](http://www.soccermetrics.net/soccer-pythagorean-theory/why-the-baseball-pythagorean-doesnt-work-for-soccer)
 
 * [Team Defensive Metrics](http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/)
 
@@ -160,11 +164,23 @@ Wide Collections::[1](https://github.com/jokecamp/FootballData):[2](https://gith
 
 [Goals From Corners](https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/)
 
-Objective Football::[1](https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1):[2](https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1)
+Objective Football: [1](https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1) | [2](https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1)
 
 [Player Tracking](https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/)
 
 [Chalkboard](https://github.com/neilcharles/chalkboard)
+
+https://mytinyshinys.shinyapps.io/premierLeague/
+
+https://twitter.com/226blog/status/946230772070936578
+
+http://canntable.com
+
+http://twelve.football/analytics
+
+http://statszone.tiki-taka.co/
+
+https://twitter.com/SportsDataChal/status/740675516093566980
 
 [South American WC Qualifiers](https://public.tableau.com/profile/mathijs.steneker#!/vizhome/xGmapeliminatorias/Matchstats)
 
