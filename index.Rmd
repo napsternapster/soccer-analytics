@@ -76,6 +76,8 @@ Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://gi
 
 https://fcpython.com/
 
+https://github.com/KubaMichalczyk/ExpectedGoalsModel/blob/master/expected_goals_model.md
+
 [Comprehensive Overview](https://oneshortcorner.wordpress.com/2016/11/03/football-analytics-part-seven-how-not-to-use-stats/)
 
 [Stats & Sports Class](https://statsbylopez.com/stats-sports-class/)
