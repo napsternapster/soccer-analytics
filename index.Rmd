@@ -74,6 +74,8 @@ Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://gi
 
 [Tavares](https://github.com/rjtavares/football-crunching)
 
+https://github.com/Torvaney/ggsoccer
+
 https://fcpython.com/
 
 https://github.com/KubaMichalczyk/ExpectedGoalsModel/blob/master/expected_goals_model.md
