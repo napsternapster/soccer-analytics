@@ -165,6 +165,8 @@ https://github.com/KubaMichalczyk/ExpectedGoalsModel/blob/master/expected_goals_
 
 [XG Simulator](https://torvaney.github.io/projects/xG.html)
 
+https://github.com/KubaMichalczyk/Tracking-Data/blob/master/convex_hull_animation.R
+
 [Positional Data Visualization](https://github.com/JoGall/soccermatics)
 
 [EPL Chances](https://public.tableau.com/profile/scribblr.42#!/vizhome/ChancesDashboard2017-18-PoweredbyStrataBet/PremierLeagueChances2016-17?publish=yes)
