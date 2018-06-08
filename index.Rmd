@@ -26,6 +26,14 @@ knitr::opts_chunk$set(echo = TRUE)
 
 http://www.rsssf.com/
 
+https://github.com/octonion/soccer 
+
+https://statsbomb.com/2018/06/statsbomb-announces-free-data-for-womens-football/
+
+https://github.com/statsbomb/StatsBombR
+
+https://github.com/octonion/soccer-private
+
 https://boggio-analytics.com/fp-api/
 
 https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
@@ -164,6 +172,10 @@ https://github.com/KubaMichalczyk/ExpectedGoalsModel/blob/master/expected_goals_
 [Crosses In Scipy](https://twitter.com/Samirak93/status/905107479880581120)
 
 [XG Simulator](https://torvaney.github.io/projects/xG.html)
+
+https://twelve.football/analytics
+
+https://github.com/KubaMichalczyk/Expected-Goals-Model/blob/master/expected_goals_model.md
 
 https://github.com/KubaMichalczyk/Tracking-Data/blob/master/convex_hull_animation.R
 

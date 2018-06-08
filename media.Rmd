@@ -37,6 +37,8 @@ https://understat.com
 <div class="col3">
 [Spielverlagerung](http://spielverlagerung.com/)
 
+http://twelve.football/analytics
+
 [Sporting Logic](https://sportinglogicblog.wordpress.com)
 
 [Murdock](http://johnburnmurdoch.github.io/)
@@ -212,6 +214,8 @@ https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1091662
 https://arxiv.org/abs/1701.05976
 
 https://arxiv.org/pdf/1705.00885v3.pdf
+
+https://www.reddit.com/r/soccer/comments/8ot1aj/the_ability_of_goalkeepers_to_save_freekicks_with/
 </div>
 <br/>
 
