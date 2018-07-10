@@ -140,6 +140,8 @@ https://trinket.io/glowscript/57ec47ae64
 
 [Goals From Corners](https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/)
 
+http://www.ongoalsscored.com/category/world-cup/
+
 Objective Football: [1](https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1) | [2](https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1)
 
 [Player Tracking](https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/)
@@ -241,8 +243,7 @@ https://twitter.com/SportsDataChal/status/740675516093566980
 
 ## Cribsheet
 <br/>
-
-* Soccer matches modeled by Poisson distribution.
+* Soccer matches modeled by Poisson distribution: goals_soccer ~ poisson(lambda = 1.4)
 
 * Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
 
