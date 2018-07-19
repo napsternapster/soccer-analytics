@@ -130,6 +130,8 @@ https://github.com/KubaMichalczyk/Tracking-Data/blob/master/convex_hull_animatio
 
 [XG Simulator](https://torvaney.github.io/projects/xG.html)
 
+https://github.com/huffyhenry/dixon-coles-worldcup
+
 https://twelve.football/analytics
 
 https://trinket.io/glowscript/57ec47ae64

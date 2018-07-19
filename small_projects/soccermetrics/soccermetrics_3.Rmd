@@ -1,0 +1,55 @@
+---
+title: "Soccer Metrics Lesson 3"
+date: "March 1, 2016"
+output: html_document
+---
+
+[Vid](https://www.youtube.com/watch?v=RnOg2SiOvnA&index=9&list=PLD-pGTFuRzwVfl1HV4np26-2aqKF8yZne) for 3.4 where R is used.
+
+Vid for 3.1 is [here](https://www.youtube.com/watch?v=fI1iaB5XgNk).
+
+
+```{r}
+library(ggplot2)
+library(ggrepel)
+poss <- read.csv('C:/Users/Gordon/Downloads/___soccer_analytics_course_soccermetrics/data/poss.csv')
+
+ggplot(data = poss,  aes(x = possession.percent, y = points)) + 
+  geom_point() + 
+  geom_smooth(linetype="dashed", method="lm") + 
+  geom_text_repel(label = poss$X)
+cor(poss$possession.percent, poss$points)
+```
+
+Vid for 3.2 is [here](https://www.youtube.com/watch?v=yRFKOUQEl2Q)
+
+```{r}
+distance.shots <- read.csv('C:/Users/Gordon/Downloads/___soccer_analytics_course_soccermetrics/data/shotsout.csv')
+ggplot(data = distance.shots,  aes(x = shots.outside.area, y = points)) + 
+  geom_point()
+cor(distance.shots$shots.outside.area, distance.shots$points)
+```
+
+```{r}
+shots.in <- read.csv('C:/Users/Gordon/Downloads/___soccer_analytics_course_soccermetrics/data/shotsin.csv')
+ggplot(data = shots.in,  aes(x = shots.inside.area, y = points)) + 
+  geom_point()
+cor(shots.in$shots.inside.area, shots.in$points)
+```
+
+Vid for 3.3 is [here](https://www.youtube.com/watch?v=yRFKOUQEl2Q)
+
+```{r}
+blocks <- read.csv('C:/Users/Gordon/Downloads/___soccer_analytics_course_soccermetrics/data/blocks.csv')
+ggplot(data = blocks,  aes(x = blocked.shots, y = points)) + 
+  geom_point()
+cor(blocks$blocked.shots, blocks$points)
+```
+
+```{r}
+yc <- read.csv('C:/Users/Gordon/Downloads/___soccer_analytics_course_soccermetrics/data/yc.csv')
+ggplot(data = yc,  aes(x = yellow.cards, y = points)) + 
+  geom_point()
+cor(yc$yellow.cards, yc$points)
+```
+

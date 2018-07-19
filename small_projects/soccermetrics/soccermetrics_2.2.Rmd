@@ -1,0 +1,90 @@
+---
+title: 'Your First Analytics Exercise'
+output: html_document
+---
+
+Followed [this](https://www.youtube.com/watch?v=2rxPMdg32lU) originally, but then [this video](https://www.youtube.com/watch?v=U_soszHXxkg). The visualization part at the end harks to the second video. Here's a [gist Reference](https://gist.github.com/anonymous/eb54e232f4d9b280936e).
+
+
+```{r}
+liverpool.15.16.data <- read.csv('./data/lesson-3.csv')
+head(liverpool.15.16.data)
+```
+
+
+```{r, message = F}
+library(dplyr)
+by.coach <- group_by(liverpool.15.16.data, coach) %>% 
+  
+  summarise_each(funs(mean))
+by.coach
+```
+
+Code to run multiple t-test from [here](http://stackoverflow.com/a/30180527).
+
+```{r}
+vars.to.test <- c("points", "scored", "allowed", "xg", "xga")
+p.values <- rep(0, length(vars.to.test))
+klopp.rodgers.t.tests <- data.frame(vars.to.test, p.values)
+
+run.t.tests <- function(df, columns.to.test){
+  v = c()
+  for(i in 1:length(columns.to.test)){
+    temp.p.value <- t.test(df[df$coach == 'Klopp', columns_to_test[i]], 
+                           df[df$coach == 'Rodgers', columns_to_test[i]], 
+                           var.equal = T)$p.value
+    v <- append(v, temp.p.value)
+  }
+  return(v)
+}
+
+klopp.rodgers.t.tests$p.values <- run.t.tests(liverpool.15.16.data,
+                                              vars.to.test)
+
+klopp.rodgers.t.tests
+```
+
+
+```{r}
+library(ggplot2)
+
+cols <- c("brown1", "blanchedalmond")  ## Creates a vector of colors
+
+points.plot <- ggplot(aes(x = coach, y = points, fill = coach), 
+          data = liverpool.15.16.data)
+
+points.plot + geom_violin() + 
+  geom_jitter(width=0.25, height=0.05) + 
+  coord_flip()+guides(fill=FALSE) +
+  scale_fill_manual(values=cols) + 
+  xlab("") + 
+  ylab("Points") +
+  ggtitle("Rodgers and Klopp Earned the Same Points Per Game in 2015-2016\n")
+
+xg.plot <- ggplot(aes(x = coach, y = xg, fill = coach), 
+                  data = liverpool.15.16.data) 
+
+xg.plot + 
+  geom_violin() + 
+  coord_flip() +
+  geom_jitter(width=0.25, height=0.05) + 
+  guides(fill=FALSE) + 
+  scale_fill_manual(values = cols) + 
+  xlab("") +
+  ylab("Expected Goals") +
+  ggtitle("Rodgers and Klopp Scored the Same xG Per Game in 2015-2016\n")
+
+xga.plot <- ggplot(aes(x = coach, y = xga, fill = coach), 
+              data = liverpool.15.16.data) 
+
+xga.plot + 
+  geom_violin() + 
+  coord_flip() +
+  geom_jitter(width=0.25, height=0.05) +
+  guides(fill=FALSE) + 
+  scale_fill_manual(values=cols) +
+  xlab("") +
+  ylab("Expected Goals Allowed") +
+  ggtitle("Rodgers and Klopp Allowed the Same xG Per Game in 2015-2016\n")
+```
+

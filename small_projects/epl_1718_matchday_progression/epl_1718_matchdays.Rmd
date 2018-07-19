@@ -1,0 +1,66 @@
+---
+title: "EPL 17/18 Matchdays"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Intro
+
+A small project to scrape data for each EPL matchday, and create a visualization to represent it.
+
+## Imports
+
+```{r}
+library(rvest)
+library(gganimate)
+library(tidyverse)
+library(glue)
+library(rlist)
+library(ggrepel)
+library(ggimage)
+```
+
+## Scraping Data
+
+```{r}
+match_days <- list()
+
+for(i in seq(1, 27, 1)){
+  url <- glue('http://usa.worldfootball.net/schedule/eng-premier-league-2017-2018-spieltag/{i}/')
+  tbls <- read_html(url) %>% html_nodes("table")
+  match_days <- list.append(
+    match_days,
+    tbls[[4]] %>% html_table(fill = TRUE)
+    )
+}
+
+df <- do.call(rbind, match_days)
+df <- df[,-2] #remove empty column which had club logos
+
+write.csv(df, './epl_round_31_data.csv', row.names = F)
+```
+
+```{r}
+test <- png('./team_badges/arsenal.png')
+test
+```
+
+## Plotting
+
+```{r}
+# ggplot(df %>% filter(M.==27), aes(x = Pt., y = Dif.)) + 
+#   geom_point() + 
+#   geom_text_repel(aes(Pt., Dif., label = Team)) +
+#   geom_text(aes(label = Team), hjust=0, vjust=0)
+
+p <- ggplot(df, aes(x = Pt., y = Dif., frame = M., color = Team)) + 
+  geom_point() + xlab('Points') + ylab('Goal Difference') + ggtitle('Premier League 17/18: Matchday')
+
+gganimate(p)
+
+#gganimate(p, filename = './epl_1718.gif')
+```
+
