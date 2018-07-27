@@ -24,6 +24,8 @@ knitr::opts_chunk$set(echo = TRUE)
 
 https://statsbomb.com/resource-centre/
 
+https://gitlab.com/djh_or/2018-world-cup-stats
+
 [Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
 
 http://www.rsssf.com/
