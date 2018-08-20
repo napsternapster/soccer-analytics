@@ -1,6 +1,6 @@
 ---
 title: "Bundesliga xG 15-16"
-author: "Gordon Fleetwood"
+output: html_document
 date: "April 28, 2016"
 output: html_document
 ---
@@ -213,5 +213,3 @@ combined.table[, c(1, length(combined.table), length(combined.table) - 1)]
 Teams like Bayern and Gladbach has as much points as they would be expected to given xG. Schalke were the biggest over performers in terms of points with the equivalent of three more wins than expected. Surprisingly, Dortmund were the biggest overperformers on goals with almost 14 more goals than xG would predict. Spare a thought for some of the teams at the bottom of this table. Bremen, Stuttgart, and Frankfurt got the short end of the variance stick, and are in real danger of being demoted to the German second division as a result. 
 
 For more on expected goals, check out this [post](http://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals).
-
-
