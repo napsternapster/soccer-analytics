@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-##Bundesliga 15-16 Expected Goals Exploratory Analysis
+## Bundesliga 15-16 Expected Goals Exploratory Analysis
 
 Soccer's nascent analytics movement has one dominant metric. It's called Expected Goals or simply xG. Models for calculating xG differ but the underlying concept is the same. In a nutshell, xG takes a shot's characteristics - distance from goal, angle from goal, preceding actions, etc. - and assigns a probability that said shot will result in a goal. Summing these probabilities for a single game gives a close approximation of which team created the better goal-scoring opportunities. xG is even better when the sample size stretches over a season. A team's expected goals total is a good indicator of they will finish in the league table.
 
@@ -101,7 +101,7 @@ df.bundes.scores$GW <- rep(1:30, each = 9)
 
 teams.unique  <- sort(unique(df.bundes.scores$Home.Team))
 
-teams.vec <- c('Augsburg', 'Leverkusen', 'Bayern', 'Dortmund', 'Gladbach', "Darmstadt", "Frankfurt", "Hamburg", "Hannover", "Berlin", "Hoffenheim", "Ingolstadt", "Köln", "Mainz", "Schalke", "Stuttgart", "Bremen", "Wolfsburg")
+teams.vec <- c('Augsburg', 'Leverkusen', 'Bayern', 'Dortmund', 'Gladbach', "Darmstadt", "Frankfurt", "Hamburg", "Hannover", "Berlin", "Hoffenheim", "Ingolstadt", "K?ln", "Mainz", "Schalke", "Stuttgart", "Bremen", "Wolfsburg")
 
 names(teams.vec) <- teams.unique
 
