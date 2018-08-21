@@ -22,29 +22,11 @@ knitr::opts_chunk$set(echo = TRUE)
 
 <div class="col3">
 
-https://statsbomb.com/resource-centre/
+Statsbomb: [1](https://statsbomb.com/resource-centre/) | [2](https://github.com/FCrSTATS/StatsBomb_WomensData) | [3](https://github.com/statsbomb/StatsBombR) | [4](https://github.com/FCrSTATS/SBpitch/blob/master/README.md)
 
-https://gitlab.com/djh_or/2018-world-cup-stats
+WC 2018: [1](https://gitlab.com/djh_or/2018-world-cup-stats) | [2](https://github.com/2622NSW/FIFAplayertracking18/blob/master/20180614_01_Russia_SaudiArabia.pdf)
 
 [Opta Data Schema](http://www.soccermetrics.net/match-data-collection/the-opta-data-schema-an-introduction)
-
-http://www.rsssf.com/
-
-https://github.com/2622NSW/FIFAplayertracking18/blob/master/20180614_01_Russia_SaudiArabia.pdf
-
-https://github.com/FCrSTATS/StatsBomb_WomensData
-
-https://github.com/octonion/soccer 
-
-https://statsbomb.com/2018/06/statsbomb-announces-free-data-for-womens-football/
-
-https://github.com/statsbomb/StatsBombR
-
-https://github.com/octonion/soccer-private
-
-https://boggio-analytics.com/fp-api/
-
-https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 
 [Opta Event Definitions](http://optasports.com/news-area/blog-optas-event-definitions.aspx)
 
@@ -56,7 +38,7 @@ https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 
 [Whoscored Scraper](https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py)
 
-[World Football](http://usa.worldfootball.net/)
+[World Football](http://usa.worldfootball.net/) | http://www.rsssf.com/
 
 [Kaggle](https://www.kaggle.com/hugomathien/soccer)
 
@@ -64,21 +46,17 @@ https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/
 
 [Football KPI's](https://github.com/teouch/fbl-kpis)
 
-[Betting](http://www.football-data.co.uk/downloadm.php)
+Betting: [1](http://www.football-data.co.uk/downloadm.php) | [2](https://boggio-analytics.com/fp-api/)
 
 [Open Football](https://github.com/openfootball)
-
-[Historical Scorelines](https://github.com/llimllib/soccerdata)
-
-[World Cup Data](https://github.com/sanand0/fifadata)
 
 [JSON European Data](https://github.com/opendatajson/football.json)
 
 [International Data](https://github.com/SoccerStatsUS/international_data/tree/master/games)
 
-Historical Results: [1](https://github.com/jalapic/engsoccerdata) | [2](https://github.com/footballcsv/eng-england) | [3](https://github.com/hugomathien/football-data-collection)
+Historical Results: [1](https://github.com/jalapic/engsoccerdata) | [2](https://github.com/footballcsv/eng-england) | [3](https://github.com/hugomathien/football-data-collection)| [4](https://github.com/llimllib/soccerdata)
 
-Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://github.com/octonion/soccer)
+Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://github.com/octonion/soccer) | [3](https://github.com/octonion/soccer-private) | [4](https://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 </div>
 <br/>
 
@@ -91,8 +69,6 @@ Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://gi
 [Tavares](https://github.com/rjtavares/football-crunching)
 
 https://github.com/Torvaney/ggsoccer
-
-https://github.com/statsbomb/StatsBombR
 
 https://github.com/ryurko/fcscrapR
 
@@ -108,8 +84,6 @@ https://fcpython.com/
 
 [ML For Sports](https://dtai.cs.kuleuven.be/events/MLSA16/schedule.php)
 
-[State of the Stats: 2016](https://deepxg.com/2016/12/31/state-of-the-stats-2016-results/)
-
 [Toolbox Overview](http://statsbomb.com/2016/09/a-toolbox-for-football-analytics/)
 
 [Analysis Pipeline](https://teouchanalytics.wordpress.com/2017/07/08/episode-1-feature-engineering-and-some-data-to-play-with/)
@@ -118,13 +92,7 @@ https://fcpython.com/
 
 [Swarm Plots](http://pena.lt/y/2017/07/17/radar-alternatives-football-data/)
 
-https://github.com/FCrSTATS/SBpitch/blob/master/README.md
-
-https://github.com/KubaMichalczyk/Expected-Goals-Model/blob/master/expected_goals_model.md
-
 https://github.com/KubaMichalczyk/Tracking-Data/blob/master/convex_hull_animation.R
-</div>
-<br/>
 
 ## Projects
 <br/>
@@ -145,8 +113,6 @@ https://trinket.io/glowscript/57ec47ae64
 [EPL Chances](https://public.tableau.com/profile/scribblr.42#!/vizhome/ChancesDashboard2017-18-PoweredbyStrataBet/PremierLeagueChances2016-17?publish=yes)
 
 [Goals From Corners](https://www.reddit.com/r/soccer/comments/6nuk85/so_ive_scraped_statistics_for_about_11000_matches/)
-
-http://www.ongoalsscored.com/category/world-cup/
 
 Objective Football: [1](https://objective-football.blogspot.co.uk/2016/08/201617-shots-in-box.html?m=1) | [2](https://objective-football.blogspot.co.uk/2016/08/201617-open-playset-piecepenalty-data.html?m=1)
 
@@ -195,60 +161,61 @@ https://twitter.com/SportsDataChal/status/740675516093566980
 <br/>
 
 <div class="col3">
- [Ranked Probability Score](https://cognitivefootball.wordpress.com/rps/)
+[Ranked Probability Score](https://cognitivefootball.wordpress.com/rps/)
 
- [Shapely Values](https://github.com/pfletcherhill/ShapleySoccer)
+[Shapely Values](https://github.com/pfletcherhill/ShapleySoccer)
 
- [Goal Gravity](http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/)
+[Goal Gravity](http://business-analytic.co.uk/blog/gravity-part-1-a-metric-for-event-importance/)
 
- [Expected Assists](http://www.optasportspro.com/about/optapro-blog/posts/2017/blog-expected-assists-in-context/)
+[Expected Assists](http://www.optasportspro.com/about/optapro-blog/posts/2017/blog-expected-assists-in-context/)
 
- Pythagorean Expectation: [For](http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/) | [Against](http://www.soccermetrics.net/soccer-pythagorean-theory/why-the-baseball-pythagorean-doesnt-work-for-soccer)
+Pythagorean Expectation: [For](http://statsbomb.com/2016/04/improving-soccers-version-of-the-bill-james-pythagorean/) | [Against](http://www.soccermetrics.net/soccer-pythagorean-theory/why-the-baseball-pythagorean-doesnt-work-for-soccer)
 
- [Team Defensive Metrics](http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/)
+[Team Defensive Metrics](http://business-analytic.co.uk/blog/uncategorized/team-defensive-metrics/)
 
- [Possession's Framework](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-introducing-a-possessions-framework/)
+[Possession's Framework](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-introducing-a-possessions-framework/)
 
- [Expected Saves](http://www.soccermetrics.net/goalkeeping-analytics/expected-saves-an-inverse-of-expected-goals)
+[Expected Saves](http://www.soccermetrics.net/goalkeeping-analytics/expected-saves-an-inverse-of-expected-goals)
 
- [Bayesian Player Ratings](http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/)
+[Bayesian Player Ratings](http://pena.lt/y/2015/02/26/playerrating-a-bayesian-method-for-evaluating-football-players/)
 
- Possession: [1](https://2plus2equals11.com/2015/08/25/valuing-possession/) | [2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
+Possession: [1](https://2plus2equals11.com/2015/08/25/valuing-possession/) | [2](http://www.worldfootballcommentaries.com/2013/02/possession-efficiency-ratio-new.html)
 
- [Total Shots Ratio](https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/)
+[Total Shots Ratio](https://jameswgrayson.wordpress.com/2012/07/15/another-post-about-tsr/)
 
- [Dribbling](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-carry-on-dribbling/)
+[Dribbling](http://www.optasportspro.com/about/optapro-blog/posts/2016/blog-carry-on-dribbling/)
 
- [xG](http://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals)
+[xG](http://cartilagefreecaptain.sbnation.com/2015/10/19/9295905/premier-league-projections-and-new-expected-goals)
 
- Usage Rates: [1](http://regressing.deadspin.com/stat-primer-what-can-usage-rates-teach-us-about-the-pr-1642456897) | [2](http://tempofreesoccer.blogspot.co.uk/2014/09/usage-rates-primer.html)
+Usage Rates: [1](http://regressing.deadspin.com/stat-primer-what-can-usage-rates-teach-us-about-the-pr-1642456897) | [2](http://tempofreesoccer.blogspot.co.uk/2014/09/usage-rates-primer.html)
 
- [Attacking Contribution](http://statsbomb.com/2014/10/attacking-contribution-metric-and-man-uniteds-reliance-on-di-maria/)
+[Attacking Contribution](http://statsbomb.com/2014/10/attacking-contribution-metric-and-man-uniteds-reliance-on-di-maria/)
 
- [Chances Created](http://statsbomb.com/2014/07/what-matters-in-football-a-deeper-look-at-chances-created/)
+[Chances Created](http://statsbomb.com/2014/07/what-matters-in-football-a-deeper-look-at-chances-created/)
 
- [High Press](http://statsbomb.com/2014/07/defensive-metrics-measuring-the-intensity-of-a-high-press/)
+[High Press](http://statsbomb.com/2014/07/defensive-metrics-measuring-the-intensity-of-a-high-press/)
 
- [Attacking Speed](http://statsbomb.com/2014/06/the-importance-of-attacking-speed-and-the-quickest-attacking-team-in-epl/)
+[Attacking Speed](http://statsbomb.com/2014/06/the-importance-of-attacking-speed-and-the-quickest-attacking-team-in-epl/)
 
- [Defensive Efficiency](https://thecounterattack.wordpress.com/2013/02/20/measuring-defensive-efficiency-deff/)
+[Defensive Efficiency](https://thecounterattack.wordpress.com/2013/02/20/measuring-defensive-efficiency-deff/)
 
- [PDO](https://jameswgrayson.wordpress.com/2011/04/05/pdo-part-i/)
+[PDO](https://jameswgrayson.wordpress.com/2011/04/05/pdo-part-i/)
 
- [Team Ratings](https://jameswgrayson.wordpress.com/2014/08/11/methodology-and-validation-of-the-team-ratings/)
+[Team Ratings](https://jameswgrayson.wordpress.com/2014/08/11/methodology-and-validation-of-the-team-ratings/)
 
- [Attacking Effectiveness](http://experimental361.com/2013/01/21/attacking-effectiveness-europe/)
+[Attacking Effectiveness](http://experimental361.com/2013/01/21/attacking-effectiveness-europe/)
 
- [Game States](http://11tegen11.net/2013/04/06/game-states-and-conversion/)
+[Game States](http://11tegen11.net/2013/04/06/game-states-and-conversion/)
 
- [Gaussian Metrics](http://analyticsfc.co.uk/2015/12/03/joydivisualization-comparing-individual-performance-to-the-population/)
+[Gaussian Metrics](http://analyticsfc.co.uk/2015/12/03/joydivisualization-comparing-individual-performance-to-the-population/)
 
- [Pythagorean Wins](https://www.reddit.com/r/soccer/comments/4dmdlq/oc_pythagorean_wins_expectation_for_the_premier/)
+[Pythagorean Wins](https://www.reddit.com/r/soccer/comments/4dmdlq/oc_pythagorean_wins_expectation_for_the_premier/)
 </div>
 <br/>
 
 ## Cribsheet
 <br/>
+
 * Soccer matches modeled by Poisson distribution: goals_soccer ~ poisson(lambda = 1.4)
 
 * Average percentage of goalscoring shots on target taken that end up as goals: 31%. 
