@@ -9,11 +9,13 @@ output:
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+![This photo was worth all the copy-pasting](./Screenshot from 2018-09-01 05-40-40.png)
+
 A long time ago I had the idea to web scrape penalty data from [Transfer Market](https://www.transfermarkt.co.uk/detailsuche/spielerdetail/suche/7970633). However, my web scraping foo was (and still is) pitiful when JavaScript enters the picture, so this "project" gathered dust for months. Recently though, a solution that I had turned up my nose at suddenly aquired a pleasant aroma. How about I just copy-and-paste all the data? 
 
 A week later the semi-artisanal data was ready. It's fair from comprehensive when compared to other penalty data sets, but at least it exists for me to explore.
 
-```{r, warning=F}
+```{r, warning=F, message=F}
 suppressMessages(library(tidyverse))
 suppressMessages(library(knitr))
 library(janitor)
@@ -227,7 +229,7 @@ df_cleaned %>%
     knitr::kable()
 ```
 
-## Which Clubs Have Conceded The Most Penalties?
+## Which Clubs Conceded The Most Penalties?
 
 That unfortunate stat belongs to Udinese.
 
@@ -241,7 +243,7 @@ df_clubs[1:10, ] %>%
     knitr::kable()
 ```
 
-## Which Competition Has Seen The Most Penalties?
+## Which Competition Saw The Most Penalties?
 
 When it comes to a top 10 of most penalties given, La Liga leads the rest of the pack by a considerable ammount.
 
@@ -274,7 +276,7 @@ Interestingly enough, most penalties are conceded when the goalkeepers is losing
 
 I'm not sure what to say about the gulf in save percentages. 
 
-```{r}
+```{r, warning=F}
 df_cleaned %>%
     separate(score_at_this_time, c("team_1_score", "team_2_score"), remove = F) %>%
     mutate(
