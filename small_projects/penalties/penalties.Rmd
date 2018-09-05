@@ -43,7 +43,7 @@ Manually copying the data gave me good insight into errors to fix.
 
 * Dates: I increased my problems by using regex as a solution. The fix wasn't complete, but I just added an extra column to mark which dates are not yet in the ISO 8601 format.
 
-With that out of the way, I stored the cleaned data (here's a [link]()) and began my exploration. I had a simple format: pose a question and find an answer.
+With that out of the way, I stored the cleaned data (here's a [link](https://github.com/gfleetwood/soccer-analytics/blob/master/small_projects/penalties/penalties_cleaned.csv)) and began my exploration. I had a simple format: pose a question and find an answer.
 
 ```{r, warning=F}
 df_cleaned <- df %>%

@@ -272,7 +272,7 @@ head(df) %&gt;%
 <li><p>Minute Penalty Concended: A simple find and replace sufficed.</p></li>
 <li><p>Dates: I increased my problems by using regex as a solution. The fix wasn’t complete, but I just added an extra column to mark which dates are not yet in the ISO 8601 format.</p></li>
 </ul>
-<p>With that out of the way, I stored the cleaned data (here’s a <a href>link</a>) and began my exploration. I had a simple format: pose a question and find an answer.</p>
+<p>With that out of the way, I stored the cleaned data (here’s a <a href="https://github.com/gfleetwood/soccer-analytics/blob/master/small_projects/penalties/penalties_cleaned.csv">link</a>) and began my exploration. I had a simple format: pose a question and find an answer.</p>
 <pre class="r"><code>df_cleaned &lt;- df %&gt;%
     mutate(Season = case_when(
         Season == &quot;13-Dec&quot; ~ &quot;12/13&quot;,
