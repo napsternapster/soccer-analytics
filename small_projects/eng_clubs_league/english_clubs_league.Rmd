@@ -1,0 +1,143 @@
+---
+title: "The English Clubs League"
+output: 
+    html_document:
+        code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+This past week saw the introduction of the [UEFA Nations League](https://www.uefa.com/uefanationsleague/news/newsid=2079553.html), a competition devised to decrease the number of "meaningless" friendlies during international breaks. The buildup to the first game bemusingly involved a number of English Language commentators/podcasters/pundits trying to present the simple tournament format as some sort of Gordian Knot. It was this and a bit of curiosity that made me wonder how last season's results in English football would have looked under the rules of the Nations League. I decided to find out.
+
+You can find the data and all the code [here]().
+
+## Methodology & Results
+
+The format places European nations in four leagues with four groups within each league. The natural English parallel had the Premier League, Championship, League One, and League Two as the four leagues. With the exception of the Premiership (four groups of five teams), the other leagues have four groups of six teams. 
+
+To form the groups I web scraped the final tables for the 2016/2017 season, and made manual adjustments to reflect relegated and promoted teams.
+
+Demoted from Premier League: Hull, Middlesborough, Sunderland
+
+Promoted from Championship: Newcastle, Brighton, Huddersfield
+
+Demoted from Championship: Blackburn, Wigan, Rotherhamm
+
+Promoted from League One: Sheffield, Bolton, Millwall
+
+Demoted From League One: Port Vale, Swindon, Conventry, Chesterfield
+
+Promoted from League Two: Portsmouth, Plymouth, Doncaster, Blackpool
+
+Demoted from League Two: Hartlepool, Leyton Orient
+
+Promoted from National League: Lincoln City, Forest Green Rovers
+
+To elaborate a bit further, this adjusted table would have places 17-20 in the Premier League taken by Newcastle, Brighton, and Huddersfield. Their vacated places in the Championship were then filled by Hull, Middlesborough, and Sunderland.
+
+Teams were placed in groups by league position. The top four in the Premier League were in groups 1-4 in that order, then fifth place joined first place in group 1, sixth place was in group 2 with second place, seventh in group 3 with third place, and so on for all the teams in the Premier League and the other three leagues.
+
+After that I web scraped the results for teams across the four leagues for the 2017/2018 season. This served as the lookup table for the head to head clashes between teams in the same group. Let's take a look at the results from the Premier League. 
+
+If the 2017/2018 season had followed the format of the UEFA Nations League, then Chelsea, Tottenham, Manchester City, and Liverpool would have advanced to the playoffs to fight for the title. At the other end Stoke, Crystal Palace, Swansea, and Southampton would have been relegated.
+
+```{r, warning=FALSE, message=FALSE}
+library(tidyverse)
+library(knitr)
+
+df_tables <- read_csv("pl_to_l2_1617_tables_fixed.csv") %>% select(1, 9)
+names(df_tables) <- c('team', 'competition')
+df_tables <- df_tables %>%
+    mutate(
+        team = str_replace_all(team, "'", ""),
+        competition = str_replace_all(competition, "'", ""),
+        group = c(rep(1:4, 5), rep(1:4, 6), rep(1:4, 6), rep(1:4, 6))
+        )
+    
+df_results <- read_csv("pl_to_l2_1718_results.csv")
+
+# Calculate the final table within each group based on head to head matchups
+calc_pts <- function(team, results){
+    
+    group <- data.frame(team = team)
+    
+    #Generate all possible head and head matchups and exclude those with the same team on both sides
+    match_ups <- expand.grid(group$team, group$team) %>% filter(Var1 != Var2)
+    
+    scores <- match_ups %>% 
+        mutate(
+            pts = map2(
+                Var1, Var2,
+                function(x, y) results %>% filter(team_1==x, team_2 == y) %>%
+                    mutate(
+                        result = case_when(
+                            team_1_score > team_2_score ~ '3-0',
+                            team_1_score < team_2_score ~ '0-3',
+                            team_1_score == team_2_score ~ '1-1'
+                        )
+                           ) %>% pull(result)
+                ) %>% unlist()
+            ) %>% separate(pts, c('pts1', 'pts2'))
+    
+    pts_sums <- rbind(
+    scores %>% select(Var1, pts1),
+    scores %>% select(Var2, pts2) %>% rename(Var1 = Var2, pts1 = pts2)
+    ) %>% 
+        group_by(Var1) %>% summarise(points = sum(as.integer(pts1)))
+    
+    team_pts_sums <- group %>% left_join(pts_sums, c('team' = 'Var1'))
+    
+    return(team_pts_sums$points)
+}
+
+eng_clubs_league <- df_tables %>%
+    group_by(competition, group) %>%
+    mutate(
+        points = calc_pts(team, df_results),
+        sorting_var = case_when(competition == "eng-premier-league" ~ 1,
+                                competition == "eng-championship" ~ 2,
+                                competition == "eng-league-one" ~ 3,
+                                competition == "eng-league-two" ~ 4
+                                )
+        ) %>%
+    ungroup() %>%
+    arrange(sorting_var, group, desc(points)) %>% 
+    select(-sorting_var)
+
+write_csv(eng_clubs_league, 'eng_clubs_league.csv')
+
+eng_clubs_league %>% 
+    filter(
+        competition == "eng-premier-league", 
+        group == 1
+            ) %>% knitr::kable()
+
+eng_clubs_league %>% 
+    filter(
+        competition == "eng-premier-league", 
+        group == 2
+            )  %>% knitr::kable()
+
+eng_clubs_league %>% 
+    filter(
+        competition == "eng-premier-league", 
+        group == 3
+            )  %>% knitr::kable()
+
+eng_clubs_league %>% 
+    filter(
+        competition == "eng-premier-league", 
+        group == 4
+            )  %>% knitr::kable()
+```
+
+Here's the full data.
+
+```{r}
+eng_clubs_league  %>% knitr::kable()
+```
+

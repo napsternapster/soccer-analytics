@@ -62,6 +62,8 @@ mc <- mc[!is.na(mc)]
 df_test_report <- map_df(change_indices, manager_change_comparison, df = df_test) %>% 
     mutate(season = ssn, manager_change = mc) %>% 
     select(team, season, manager_change, manager_prev_avg_pts, manager_new_avg_pts)
+
+df_test_report
 ```
 
 Then I expanded my analysis to the entire Brazilian data set. In Brazil there were an average of 28 sackings per year across 12 years. The most sacked and hired managers were…unknown - missing data led in both categories. Below that Dorival Junior and Ney Franco were the most sacked, while Ney Franco and Cuca (and Dorival Junior in third) were the most frequent replacements.
@@ -156,4 +158,4 @@ t.test(
 
 So the new manager bump is a thing, or rather, [to slightly channel Charles Babbage](https://www.uh.edu/engines/epi879.htm), a change of manager often leads to an improvement in results. Chalk one more up for the real football men in the battle against the evil number wizards.
 
-You can find everything on GitHub.
+You can find [everything on GitHub](https://github.com/gfleetwood/soccer-analytics/tree/master/small_projects/new-manager-bump).
