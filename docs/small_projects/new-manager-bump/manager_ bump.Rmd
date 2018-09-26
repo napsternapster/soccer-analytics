@@ -1,0 +1,161 @@
+---
+title: "Soccer Cliches: The New Manager Bump"
+output: 
+    html_document:
+        code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+Cliches are part and parcel of many aspects of life - including sports. Soccer has its own varied collection of phrases trotted out each weekend by commentators and pundits. One of these is the concept of the new manager bump, the belief that a change of coach  leads to a temporary improvement in results.
+I decided to see what the data had to say on the matter. I scraped 12 years of Brazilian Serie A league data, and 22 years of English Premiership data to fuel my analysis. Why use Brazilian data to look at what is - as far as I know - a quintessential English phrase? The Premier League is far too sane when it comes to changing managers. On the other hand, Brazilian coaches are fired at the drop of a hat, and this chaos provided an interesting counterbalance for the question at hand.
+
+## Imports
+
+There's not much to say on the scraping here, except to perhaps explain why I scraped the data I did. Currently both the Brazilian and English first divisions have 20 teams who play 38 games a season. This format extended back 22 years for England and 12 for Brazil. Basically it was a matter of convenience.
+
+```{r, warning=F, message=F}
+library(tidyverse)
+library(janitor)
+source("helper_functions.R")
+
+df <- read_csv("./data/br_results_refined.csv")
+df_eng <- read_csv("./data/eng_results_refined.csv")
+head(df, 5)
+head(df_eng, 5)
+```
+
+## Methodology
+
+Once I scraped and cleaned the data, I had to define what would qualify as a bump. I quickly settled on intra-season five game comparisons, i.e. the average points collected by the old coach in his last five games versus those gained by the new coach in his first five games. The data didn't always comply when it came to using this definition, but I thought it was good enough. (To elaborate a bit more, one coach was fired four games into a new campaign, so his average points would be based on four rather than five games.)
+
+I did a test for one Brazilian team in one season with two managerial changes.
+
+```{r, warning=F}
+club <- 'Santos FC'
+ssn <- 2017
+
+df_test <- df %>%  
+    filter(team_1 == club | team_2 == club, season == ssn) %>%
+    mutate(
+        manager = ifelse(team_1 == club, manager_1, manager_2),
+        manager_change = manager != lag(manager),
+        team = club,
+        result = case_when(
+        (team_1 == club) & (team_1_score > team_2_score) ~ 'W',
+        (team_2 == club) & (team_1_score < team_2_score) ~ 'W',
+        (team_1 == club) & (team_1_score < team_2_score) ~ 'L',
+        (team_2 == club) & (team_1_score > team_2_score) ~ 'L',
+        TRUE ~ 'D'
+        ),
+        points = case_when(result == 'W' ~ 3, result == 'L' ~ 0, TRUE ~ 1)
+    )
+
+change_indices = which(df_test$manager_change == TRUE)
+mc <- paste(df_test$manager, lag(df_test$manager), sep = ' -> ')[df_test$manager_change == TRUE]
+mc <- mc[!is.na(mc)]
+
+df_test_report <- map_df(change_indices, manager_change_comparison, df = df_test) %>% 
+    mutate(season = ssn, manager_change = mc) %>% 
+    select(team, season, manager_change, manager_prev_avg_pts, manager_new_avg_pts)
+
+df_test_report
+```
+
+Then I expanded my analysis to the entire Brazilian data set. In Brazil there were an average of 28 sackings per year across 12 years. The most sacked and hired managers were…unknown - missing data led in both categories. Below that Dorival Junior and Ney Franco were the most sacked, while Ney Franco and Cuca (and Dorival Junior in third) were the most frequent replacements.
+
+```{r, warning=F}
+ssn_clubs <- map_df(df$season %>% unique(), ssn_clubs_combinations, df = df)
+managerial_change_data <- map2_df(ssn_clubs$Var1, ssn_clubs$Var2, club_ssn_data, df = df)
+
+managerial_change_data %>%
+    separate(manager_change, c("sacked", "hired"), sep = ' -> ') %>%
+    group_by(sacked) %>%
+    summarise(n = n(), pts_avg = mean(manager_prev_avg_pts)) %>%
+    arrange(desc(n))
+
+managerial_change_data %>%
+    separate(manager_change, c("sacked", "hired"), sep = ' -> ') %>%
+    group_by(hired) %>%
+    summarise(n = n(), pts_avg = mean(manager_new_avg_pts)) %>%
+    arrange(desc(n))
+```
+
+## Results
+
+The first was a raw calculation of how many times the successor outperformed his predecessor. That came out at 66% in Brazil. The second was two one-sided t-tests - one paired and the other not. In Brazil both tests rejected the null hypothesis with the mean points collected of the new managers being 1.3 and that of the old managers being 0.93. The 0.37 difference seems small, but expanded out to 38 games that's an extra 14 points.
+
+There's a tiny disclaimer needed here that these tests are being run on an average of an average. That is, the average of the average number of points across (a max of) 5 games for hired managers in Brazil is 1.3. The sample sizes are more or less the same, though.
+
+```{r}
+managerial_change_data %>% 
+    mutate(compare = manager_new_avg_pts > manager_prev_avg_pts) %>% 
+    pull(compare) %>% 
+    mean()
+
+t.test(
+    managerial_change_data$manager_new_avg_pts,
+    managerial_change_data$manager_prev_avg_pts,
+    alternative = 'greater',
+    paired = T
+)
+
+t.test(
+    managerial_change_data$manager_new_avg_pts,
+    managerial_change_data$manager_prev_avg_pts,
+    alternative = 'greater',
+    paired = F
+)
+```
+
+Now for England. The average was 10 sackings per year across the 22 years of data. The most sacked and hired managers were again unknown. Below that Harry Redknapp and Roy Hodgson (both 5 times) were the most sacked, while Redknapp and Garry Megson (both 5 times) were the most frequent replacements.
+
+The new manager outperformed the old one 65% of the time. 
+
+Both t tests rejected the null hypothesis with the mean points collected of the new managers being 1.17 and that of the old managers being 0.81. The 0.36 difference expanded out to 38 games is also an extra 14 points.
+
+```{r,warning=F}
+ssn_clubs_eng <- map_df(df_eng$season %>% unique(), ssn_clubs_combinations, df = df_eng)
+managerial_change_data_eng <- map2_df(ssn_clubs_eng$Var1, ssn_clubs_eng$Var2, club_ssn_data, df = df_eng)
+
+managerial_change_data_eng %>%
+    separate(manager_change, c("sacked", "hired"), sep = ' -> ') %>%
+    group_by(sacked) %>%
+    summarise(n = n(), pts_avg = mean(manager_prev_avg_pts)) %>%
+    arrange(desc(n))
+
+managerial_change_data_eng %>%
+    separate(manager_change, c("sacked", "hired"), sep = ' -> ') %>%
+    group_by(hired) %>%
+    summarise(n = n(), pts_avg = mean(manager_new_avg_pts)) %>%
+    arrange(desc(n))
+
+managerial_change_data_eng %>% 
+    mutate(compare = manager_new_avg_pts > manager_prev_avg_pts) %>% 
+    pull(compare) %>% 
+    mean()
+
+t.test(
+    managerial_change_data_eng$manager_new_avg_pts,
+    managerial_change_data_eng$manager_prev_avg_pts,
+    alternative = 'greater',
+    paired = T
+)
+
+t.test(
+    managerial_change_data_eng$manager_new_avg_pts,
+    managerial_change_data_eng$manager_prev_avg_pts,
+    alternative = 'greater',
+    paired = F
+)
+```
+
+## Conclusion
+
+So the new manager bump is a thing, or rather, [to slightly channel Charles Babbage](https://www.uh.edu/engines/epi879.htm), a change of manager often leads to an improvement in results. Chalk one more up for the real football men in the battle against the evil number wizards.
+
+You can find [everything on GitHub](https://github.com/gfleetwood/soccer-analytics/tree/master/small_projects/new-manager-bump).

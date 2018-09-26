@@ -23,9 +23,17 @@ knitr::opts_chunk$set(echo = TRUE)
 <div class="col3">
 Twitter Lists: [1](https://twitter.com/neilcharles_uk/lists/football-analysis) | [2](https://twitter.com/centralwinger/lists/soccer-analytics)
 
+[Stats Zone](http://statszone.tiki-taka.co/)
+
+[12](https://twelve.football/analytics)
+
 [Info Gol](http://www.infogolapp.com/)
 
-https://understat.com
+[FC Python](https://fcpython.com/)
+
+[Understat](https://understat.com)
+
+[Football Science](https://www.footballscience.net)
 </div>
 
 <br/>
@@ -37,13 +45,9 @@ https://understat.com
 <div class="col3">
 [Spielverlagerung](http://spielverlagerung.com/)
 
-http://twelve.football/analytics
-
 [Sporting Logic](https://sportinglogicblog.wordpress.com)
 
 [Murdock](http://johnburnmurdoch.github.io/)
-
-Northyard Analytics
 
 [Hilltop Analytics](http://www.hilltop-analytics.com)
 
@@ -93,31 +97,27 @@ Northyard Analytics
 </div>
 <br/>
 
-## Selected Articles
+## Articles
 <br/>
 
 <div class="col3">
+[Expected Goals Literature](https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit)
+
+[Vertical Passing](http://www.playedoffthepark.co.uk/vertical-passing-2-1-distance-and-clustering/)
+
+[Non-Shot xG Models](https://thepowerofgoals.blogspot.co.uk/2018/05/non-shot-xg-models.html)
+
+[Defenders & Chance Quality](http://eightyfivepoints.blogspot.co.uk/2017/09/bodies-on-line-quantifying-how.html?m=1)
+
+[1v1 Defending](http://www.optasportspro.com/about/optapro-blog/posts/2018/guest-blog-a-new-metric-for-evaluating-1v1-ability/)
+
 [IMPECT](http://bundesligafanatic.com/impect-packing-the-future-of-football-analytics-is-here/)
 
 [Age Curves](https://www.reddit.com/r/soccer/comments/80sfoc/what_the_hell_is_happening_in_atlético_madrid/duy9do3/)
 
-https://thepowerofgoals.blogspot.co.uk/2018/05/non-shot-xg-models.html
-
-https://differentgame.wordpress.com/2018/06/08/the-differentgame-handbook-of-the-premier-league-for-kids/
-
-http://www.optasportspro.com/about/optapro-blog/posts/2018/guest-blog-a-new-metric-for-evaluating-1v1-ability/
-
 [When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
 
-https://docs.google.com/document/d/1OY0dxqXIBgncj0UDgb97zOtczC-b6JUknPFWgD77ng4/edit
-
-https://www.nytimes.com/2017/11/25/sports/soccer/burnley-arsenal-premier-league.html?smid=tw-share
-
-http://www.playedoffthepark.co.uk/vertical-passing-2-1-distance-and-clustering/
-
 [Masey Ratings](http://pena.lt/y/2014/11/27/english-premier-league/)
-
-http://eightyfivepoints.blogspot.co.uk/2017/09/bodies-on-line-quantifying-how.html?m=1
 
 [xG Explained](http://www.footballwhispers.com/blog/expected-goals-questions-answered)
 
@@ -173,7 +173,7 @@ http://eightyfivepoints.blogspot.co.uk/2017/09/bodies-on-line-quantifying-how.ht
 
 [Network Theory](https://www.technologyreview.com/s/530791/how-network-theory-is-revealing-previously-unknown-patterns-in-sports/)
 
-[Bayesian officiating](http://www.thefootballramble.com/indepth/entry/bayesian-officiating-a-chance-for-improvement)
+[Bayesian Officiating](http://www.thefootballramble.com/indepth/entry/bayesian-officiating-a-chance-for-improvement)
 
 [Attacking Effectiveness](https://experimental361.com/2013/01/21/attacking-effectiveness-europe/)
 
@@ -197,8 +197,6 @@ http://eightyfivepoints.blogspot.co.uk/2017/09/bodies-on-line-quantifying-how.ht
 
 [Shooting's Geometry](http://sports.nordicbet.com/en/the-geometry-of-shooting/)
 
-https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/
-
 [Complex Systems: Guardiola Case Study](http://www.togsoccer.com/single-post/2016/09/21/Complex-Systems-Pep-Guardiola-Case-Study)
 </div>
 <br/>
@@ -207,35 +205,35 @@ https://2plus2equals11.com/2015/12/16/on-single-match-expected-goal-totals/
 <br/>
 
 <div class="col3">
+[Automatic Offside Calls](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3129&rep=rep1&type=pdf)
+
+[GK Action Bias](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1091662)
+
+[Randomness](https://arxiv.org/abs/1701.05976)
+
+[Performance & Success](https://arxiv.org/pdf/1705.00885v3.pdf)
+
+[The Pressing Game](http://www.sloansportsconference.com/wp-content/uploads/2016/02/1475-Other-Sports.pdf)
+
+[Corner Kicks](https://www.researchgate.net/publication/271937330_Analysis_of_corner_kicks_in_relation_to_match_status_in_the_2006_World_Cup?enrichId=rgreq-d27be46a857891e3dfde8ac3d3468c94-XXX&enrichSource=Y292ZXJQYWdlOzI3MTkzNzMzMDtBUzoyMDgwNzEyMjY4NTk1MjBAMTQyNjYxOTQ1NDc5Mw%3D%3D&el=1_x_3)
+
+[Weighted Centroids](https://revistas.unal.edu.co/index.php/ingeinv/article/view/43602/50508)
+
+[Unique Styles](https://arxiv.org/abs/1409.0308)
+
+[Temporal Analysis](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047678)
+
+[Bivariate Discrete Distributions](https://www.researchgate.net/publication/4791355_Modelling_soccer_matches_using_bivariate_discrete_distributions_with_general_dependence_structure)
+
+[Reinforcement Learning](https://pdfs.semanticscholar.org/bf3d/7833663df0ba9d935a8b3b7a0ff337942c20.pdf)
+
+[Goalkeepers & Freekicks](https://www.reddit.com/r/soccer/comments/8ot1aj/the_ability_of_goalkeepers_to_save_freekicks_with/)
+
+[Attacking & Markov Chains](http://nessis.org/nessis11/rudd.pdf)
+
+[Quality VS Quantity Of Chances](http://www.sloansportsconference.com/wp-content/uploads/2015/02/SSAC15-RP-Finalist-Quality-vs-Quantity.pdf)
+
 [When Do Players Peak](http://content.iospress.com/articles/journal-of-sports-analytics/jsa0021)
-
-http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.420.3129&rep=rep1&type=pdf
-
-https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1091662
-
-https://arxiv.org/abs/1701.05976
-
-https://arxiv.org/pdf/1705.00885v3.pdf
-
-http://www.sloansportsconference.com/wp-content/uploads/2016/02/1475-Other-Sports.pdf
-
-https://www.researchgate.net/publication/271937330_Analysis_of_corner_kicks_in_relation_to_match_status_in_the_2006_World_Cup?enrichId=rgreq-d27be46a857891e3dfde8ac3d3468c94-XXX&enrichSource=Y292ZXJQYWdlOzI3MTkzNzMzMDtBUzoyMDgwNzEyMjY4NTk1MjBAMTQyNjYxOTQ1NDc5Mw%3D%3D&el=1_x_3
-
-https://revistas.unal.edu.co/index.php/ingeinv/article/view/43602/50508
-
-http://nessis.org/nessis11/rudd.pdf
-
-https://www.researchgate.net/publication/4791355_Modelling_soccer_matches_using_bivariate_discrete_distributions_with_general_dependence_structure
-
-https://pdfs.semanticscholar.org/bf3d/7833663df0ba9d935a8b3b7a0ff337942c20.pdf
-
-http://www.sloansportsconference.com/wp-content/uploads/2015/02/SSAC15-RP-Finalist-Quality-vs-Quantity.pdf
-
-https://arxiv.org/abs/1409.0308
-
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0047678
-
-https://www.reddit.com/r/soccer/comments/8ot1aj/the_ability_of_goalkeepers_to_save_freekicks_with/
 </div>
 <br/>
 
@@ -243,7 +241,7 @@ https://www.reddit.com/r/soccer/comments/8ot1aj/the_ability_of_goalkeepers_to_sa
 <br/>
 
 <div class="col3">
-[Streaming Realtime Analytics](https://iwringer.wordpress.com/2014/06/20/glimpse-of-the-future-overlaying-realtime-analytics-on-football-broadcasts/)
+[Streaming Real Time Analytics](https://iwringer.wordpress.com/2014/06/20/glimpse-of-the-future-overlaying-realtime-analytics-on-football-broadcasts/)
 
 [Markov Chains](http://www.metacafe.com/watch/7337475/2011_nessis_talk_by_sarah_rudd/)
 

@@ -21,7 +21,9 @@ knitr::opts_chunk$set(echo = TRUE)
 <br/>
 
 <div class="col3">
-https://www.transfermarkt.co.uk/
+[Transfer Market](https://www.transfermarkt.co.uk/)
+
+[Stratabet Data](https://www.stratabet.com/2018/05/31/stratabetdata_accessforbloggers/)
 
 Statsbomb: [1](https://statsbomb.com/resource-centre/) | [2](https://github.com/FCrSTATS/StatsBomb_WomensData) | [3](https://github.com/statsbomb/StatsBombR) | [4](https://github.com/FCrSTATS/SBpitch/blob/master/README.md)
 
@@ -39,7 +41,7 @@ WC 2018: [1](https://gitlab.com/djh_or/2018-world-cup-stats) | [2](https://githu
 
 [Whoscored Scraper](https://github.com/brianlan/Whoscored/blob/master/crawl_player_match_level_data.py)
 
-[World Football](http://usa.worldfootball.net/) | http://www.rsssf.com/
+[World Football](http://usa.worldfootball.net/) | [RSSSF](http://www.rsssf.com/)
 
 [Kaggle](https://www.kaggle.com/hugomathien/soccer)
 
@@ -69,11 +71,7 @@ Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://gi
 
 [Tavares](https://github.com/rjtavares/football-crunching)
 
-https://github.com/Torvaney/ggsoccer
-
-https://github.com/ryurko/fcscrapR
-
-https://fcpython.com/
+packages: [ggsoccer](https://github.com/Torvaney/ggsoccer) | [fcsrapR](https://github.com/ryurko/fcscrapR)
 
 [xG Model](https://github.com/KubaMichalczyk/ExpectedGoalsModel/blob/master/expected_goals_model.md)
 
@@ -93,21 +91,27 @@ https://fcpython.com/
 
 [Swarm Plots](http://pena.lt/y/2017/07/17/radar-alternatives-football-data/)
 
-https://github.com/KubaMichalczyk/Tracking-Data/blob/master/convex_hull_animation.R
-
 ## Projects
 <br/>
 
 <div class="col3">
+[Chalkboard](http://apps.hilltop-analytics.com/chalkboard/)
+
+[Decision Making](https://devpost.com/software/modeling-decision-making-in-the-final-third)
+
+[Dixon Coles](https://github.com/huffyhenry/dixon-coles-worldcup)
+
+[Ball Modeling](https://trinket.io/glowscript/57ec47ae64)
+
+[Cann Table](http://canntable.com)
+
+[Player Tracking](https://twitter.com/SportsDataChal/status/740675516093566980)
+
 [Crosses In Scipy](https://twitter.com/Samirak93/status/905107479880581120)
 
+[Tracking Data](https://github.com/KubaMichalczyk/Tracking-Data)
+
 [XG Simulator](https://torvaney.github.io/projects/xG.html)
-
-https://github.com/huffyhenry/dixon-coles-worldcup
-
-https://twelve.football/analytics
-
-https://trinket.io/glowscript/57ec47ae64
 
 [Positional Data Visualization](https://github.com/JoGall/soccermatics)
 
@@ -120,14 +124,6 @@ Objective Football: [1](https://objective-football.blogspot.co.uk/2016/08/201617
 [Player Tracking](https://samirak93.wordpress.com/2016/01/05/player-tracking-using-corel-video-studio/)
 
 [Chalkboard](https://github.com/neilcharles/chalkboard)
-
-https://mytinyshinys.shinyapps.io/premierLeague/
-
-http://canntable.com
-
-http://statszone.tiki-taka.co/
-
-https://twitter.com/SportsDataChal/status/740675516093566980
 
 [South American WC Qualifiers](https://public.tableau.com/profile/mathijs.steneker#!/vizhome/xGmapeliminatorias/Matchstats)
 

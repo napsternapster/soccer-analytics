@@ -1,0 +1,2037 @@
+team_1,team_2,score,competition,game_week,team_1_score,team_2_score
+Arsenal FC,Leicester City,4-3,eng-premier-league,1,4,3
+Watford FC,Liverpool FC,3-3,eng-premier-league,1,3,3
+Chelsea FC,Burnley FC,2-3,eng-premier-league,1,2,3
+Crystal Palace,Huddersfield Town,0-3,eng-premier-league,1,0,3
+Everton FC,Stoke City,1-0,eng-premier-league,1,1,0
+Southampton FC,Swansea City,0-0,eng-premier-league,1,0,0
+West Bromwich Albion,AFC Bournemouth,1-0,eng-premier-league,1,1,0
+Brighton & Hove Albion,Manchester City,0-2,eng-premier-league,1,0,2
+Newcastle United,Tottenham Hotspur,0-2,eng-premier-league,1,0,2
+Manchester United,West Ham United,4-0,eng-premier-league,1,4,0
+Swansea City,Manchester United,0-4,eng-premier-league,2,0,4
+AFC Bournemouth,Watford FC,0-2,eng-premier-league,2,0,2
+Burnley FC,West Bromwich Albion,0-1,eng-premier-league,2,0,1
+Leicester City,Brighton & Hove Albion,2-0,eng-premier-league,2,2,0
+Liverpool FC,Crystal Palace,1-0,eng-premier-league,2,1,0
+Southampton FC,West Ham United,3-2,eng-premier-league,2,3,2
+Stoke City,Arsenal FC,1-0,eng-premier-league,2,1,0
+Huddersfield Town,Newcastle United,1-0,eng-premier-league,2,1,0
+Tottenham Hotspur,Chelsea FC,1-2,eng-premier-league,2,1,2
+Manchester City,Everton FC,1-1,eng-premier-league,2,1,1
+AFC Bournemouth,Manchester City,1-2,eng-premier-league,3,1,2
+Crystal Palace,Swansea City,0-2,eng-premier-league,3,0,2
+Huddersfield Town,Southampton FC,0-0,eng-premier-league,3,0,0
+Newcastle United,West Ham United,3-0,eng-premier-league,3,3,0
+Watford FC,Brighton & Hove Albion,0-0,eng-premier-league,3,0,0
+Manchester United,Leicester City,2-0,eng-premier-league,3,2,0
+Chelsea FC,Everton FC,2-0,eng-premier-league,3,2,0
+West Bromwich Albion,Stoke City,1-1,eng-premier-league,3,1,1
+Liverpool FC,Arsenal FC,4-0,eng-premier-league,3,4,0
+Tottenham Hotspur,Burnley FC,1-1,eng-premier-league,3,1,1
+Manchester City,Liverpool FC,5-0,eng-premier-league,4,5,0
+Arsenal FC,AFC Bournemouth,3-0,eng-premier-league,4,3,0
+Brighton & Hove Albion,West Bromwich Albion,3-1,eng-premier-league,4,3,1
+Everton FC,Tottenham Hotspur,0-3,eng-premier-league,4,0,3
+Leicester City,Chelsea FC,1-2,eng-premier-league,4,1,2
+Southampton FC,Watford FC,0-2,eng-premier-league,4,0,2
+Stoke City,Manchester United,2-2,eng-premier-league,4,2,2
+Burnley FC,Crystal Palace,1-0,eng-premier-league,4,1,0
+Swansea City,Newcastle United,0-1,eng-premier-league,4,0,1
+West Ham United,Huddersfield Town,2-0,eng-premier-league,4,2,0
+AFC Bournemouth,Brighton & Hove Albion,2-1,eng-premier-league,5,2,1
+Crystal Palace,Southampton FC,0-1,eng-premier-league,5,0,1
+Huddersfield Town,Leicester City,1-1,eng-premier-league,5,1,1
+Liverpool FC,Burnley FC,1-1,eng-premier-league,5,1,1
+Newcastle United,Stoke City,2-1,eng-premier-league,5,2,1
+Watford FC,Manchester City,0-6,eng-premier-league,5,0,6
+West Bromwich Albion,West Ham United,0-0,eng-premier-league,5,0,0
+Tottenham Hotspur,Swansea City,0-0,eng-premier-league,5,0,0
+Chelsea FC,Arsenal FC,0-0,eng-premier-league,5,0,0
+Manchester United,Everton FC,4-0,eng-premier-league,5,4,0
+West Ham United,Tottenham Hotspur,2-3,eng-premier-league,6,2,3
+Burnley FC,Huddersfield Town,0-0,eng-premier-league,6,0,0
+Everton FC,AFC Bournemouth,2-1,eng-premier-league,6,2,1
+Manchester City,Crystal Palace,5-0,eng-premier-league,6,5,0
+Southampton FC,Manchester United,0-1,eng-premier-league,6,0,1
+Stoke City,Chelsea FC,0-4,eng-premier-league,6,0,4
+Swansea City,Watford FC,1-2,eng-premier-league,6,1,2
+Leicester City,Liverpool FC,2-3,eng-premier-league,6,2,3
+Brighton & Hove Albion,Newcastle United,1-0,eng-premier-league,6,1,0
+Arsenal FC,West Bromwich Albion,2-0,eng-premier-league,6,2,0
+Huddersfield Town,Tottenham Hotspur,0-4,eng-premier-league,7,0,4
+AFC Bournemouth,Leicester City,0-0,eng-premier-league,7,0,0
+Manchester United,Crystal Palace,4-0,eng-premier-league,7,4,0
+Stoke City,Southampton FC,2-1,eng-premier-league,7,2,1
+West Bromwich Albion,Watford FC,2-2,eng-premier-league,7,2,2
+West Ham United,Swansea City,1-0,eng-premier-league,7,1,0
+Chelsea FC,Manchester City,0-1,eng-premier-league,7,0,1
+Arsenal FC,Brighton & Hove Albion,2-0,eng-premier-league,7,2,0
+Everton FC,Burnley FC,0-1,eng-premier-league,7,0,1
+Newcastle United,Liverpool FC,1-1,eng-premier-league,7,1,1
+Liverpool FC,Manchester United,0-0,eng-premier-league,8,0,0
+Burnley FC,West Ham United,1-1,eng-premier-league,8,1,1
+Crystal Palace,Chelsea FC,2-1,eng-premier-league,8,2,1
+Manchester City,Stoke City,7-2,eng-premier-league,8,7,2
+Swansea City,Huddersfield Town,2-0,eng-premier-league,8,2,0
+Tottenham Hotspur,AFC Bournemouth,1-0,eng-premier-league,8,1,0
+Watford FC,Arsenal FC,2-1,eng-premier-league,8,2,1
+Brighton & Hove Albion,Everton FC,1-1,eng-premier-league,8,1,1
+Southampton FC,Newcastle United,2-2,eng-premier-league,8,2,2
+Leicester City,West Bromwich Albion,1-1,eng-premier-league,8,1,1
+West Ham United,Brighton & Hove Albion,0-3,eng-premier-league,9,0,3
+Chelsea FC,Watford FC,4-2,eng-premier-league,9,4,2
+Huddersfield Town,Manchester United,2-1,eng-premier-league,9,2,1
+Manchester City,Burnley FC,3-0,eng-premier-league,9,3,0
+Newcastle United,Crystal Palace,1-0,eng-premier-league,9,1,0
+Stoke City,AFC Bournemouth,1-2,eng-premier-league,9,1,2
+Swansea City,Leicester City,1-2,eng-premier-league,9,1,2
+Southampton FC,West Bromwich Albion,1-0,eng-premier-league,9,1,0
+Everton FC,Arsenal FC,2-5,eng-premier-league,9,2,5
+Tottenham Hotspur,Liverpool FC,4-1,eng-premier-league,9,4,1
+Manchester United,Tottenham Hotspur,1-0,eng-premier-league,10,1,0
+Arsenal FC,Swansea City,2-1,eng-premier-league,10,2,1
+Crystal Palace,West Ham United,2-2,eng-premier-league,10,2,2
+Liverpool FC,Huddersfield Town,3-0,eng-premier-league,10,3,0
+Watford FC,Stoke City,0-1,eng-premier-league,10,0,1
+West Bromwich Albion,Manchester City,2-3,eng-premier-league,10,2,3
+AFC Bournemouth,Chelsea FC,0-1,eng-premier-league,10,0,1
+Brighton & Hove Albion,Southampton FC,1-1,eng-premier-league,10,1,1
+Leicester City,Everton FC,2-0,eng-premier-league,10,2,0
+Burnley FC,Newcastle United,1-0,eng-premier-league,10,1,0
+Stoke City,Leicester City,2-2,eng-premier-league,11,2,2
+Huddersfield Town,West Bromwich Albion,1-0,eng-premier-league,11,1,0
+Newcastle United,AFC Bournemouth,0-1,eng-premier-league,11,0,1
+Southampton FC,Burnley FC,0-1,eng-premier-league,11,0,1
+Swansea City,Brighton & Hove Albion,0-1,eng-premier-league,11,0,1
+West Ham United,Liverpool FC,1-4,eng-premier-league,11,1,4
+Tottenham Hotspur,Crystal Palace,1-0,eng-premier-league,11,1,0
+Manchester City,Arsenal FC,3-1,eng-premier-league,11,3,1
+Chelsea FC,Manchester United,1-0,eng-premier-league,11,1,0
+Everton FC,Watford FC,3-2,eng-premier-league,11,3,2
+Arsenal FC,Tottenham Hotspur,2-0,eng-premier-league,12,2,0
+AFC Bournemouth,Huddersfield Town,4-0,eng-premier-league,12,4,0
+Burnley FC,Swansea City,2-0,eng-premier-league,12,2,0
+Crystal Palace,Everton FC,2-2,eng-premier-league,12,2,2
+Leicester City,Manchester City,0-2,eng-premier-league,12,0,2
+Liverpool FC,Southampton FC,3-0,eng-premier-league,12,3,0
+West Bromwich Albion,Chelsea FC,0-4,eng-premier-league,12,0,4
+Manchester United,Newcastle United,4-1,eng-premier-league,12,4,1
+Watford FC,West Ham United,2-0,eng-premier-league,12,2,0
+Brighton & Hove Albion,Stoke City,2-2,eng-premier-league,12,2,2
+West Ham United,Leicester City,1-1,eng-premier-league,13,1,1
+Crystal Palace,Stoke City,2-1,eng-premier-league,13,2,1
+Manchester United,Brighton & Hove Albion,1-0,eng-premier-league,13,1,0
+Newcastle United,Watford FC,0-3,eng-premier-league,13,0,3
+Swansea City,AFC Bournemouth,0-0,eng-premier-league,13,0,0
+Tottenham Hotspur,West Bromwich Albion,1-1,eng-premier-league,13,1,1
+Liverpool FC,Chelsea FC,1-1,eng-premier-league,13,1,1
+Southampton FC,Everton FC,4-1,eng-premier-league,13,4,1
+Burnley FC,Arsenal FC,0-1,eng-premier-league,13,0,1
+Huddersfield Town,Manchester City,1-2,eng-premier-league,13,1,2
+Brighton & Hove Albion,Crystal Palace,0-0,eng-premier-league,14,0,0
+Leicester City,Tottenham Hotspur,2-1,eng-premier-league,14,2,1
+Watford FC,Manchester United,2-4,eng-premier-league,14,2,4
+West Bromwich Albion,Newcastle United,2-2,eng-premier-league,14,2,2
+AFC Bournemouth,Burnley FC,1-2,eng-premier-league,14,1,2
+Arsenal FC,Huddersfield Town,5-0,eng-premier-league,14,5,0
+Chelsea FC,Swansea City,1-0,eng-premier-league,14,1,0
+Everton FC,West Ham United,4-0,eng-premier-league,14,4,0
+Manchester City,Southampton FC,2-1,eng-premier-league,14,2,1
+Stoke City,Liverpool FC,0-3,eng-premier-league,14,0,3
+Chelsea FC,Newcastle United,3-1,eng-premier-league,15,3,1
+Brighton & Hove Albion,Liverpool FC,1-5,eng-premier-league,15,1,5
+Everton FC,Huddersfield Town,2-0,eng-premier-league,15,2,0
+Leicester City,Burnley FC,1-0,eng-premier-league,15,1,0
+Stoke City,Swansea City,2-1,eng-premier-league,15,2,1
+Watford FC,Tottenham Hotspur,1-1,eng-premier-league,15,1,1
+West Bromwich Albion,Crystal Palace,0-0,eng-premier-league,15,0,0
+Arsenal FC,Manchester United,1-3,eng-premier-league,15,1,3
+AFC Bournemouth,Southampton FC,1-1,eng-premier-league,15,1,1
+Manchester City,West Ham United,2-1,eng-premier-league,15,2,1
+West Ham United,Chelsea FC,1-0,eng-premier-league,16,1,0
+Burnley FC,Watford FC,1-0,eng-premier-league,16,1,0
+Crystal Palace,AFC Bournemouth,2-2,eng-premier-league,16,2,2
+Huddersfield Town,Brighton & Hove Albion,2-0,eng-premier-league,16,2,0
+Swansea City,West Bromwich Albion,1-0,eng-premier-league,16,1,0
+Tottenham Hotspur,Stoke City,5-1,eng-premier-league,16,5,1
+Newcastle United,Leicester City,2-3,eng-premier-league,16,2,3
+Southampton FC,Arsenal FC,1-1,eng-premier-league,16,1,1
+Liverpool FC,Everton FC,1-1,eng-premier-league,16,1,1
+Manchester United,Manchester City,1-2,eng-premier-league,16,1,2
+Burnley FC,Stoke City,1-0,eng-premier-league,17,1,0
+Crystal Palace,Watford FC,2-1,eng-premier-league,17,2,1
+Huddersfield Town,Chelsea FC,1-3,eng-premier-league,17,1,3
+Swansea City,Manchester City,0-4,eng-premier-league,17,0,4
+Newcastle United,Everton FC,0-1,eng-premier-league,17,0,1
+Southampton FC,Leicester City,1-4,eng-premier-league,17,1,4
+Manchester United,AFC Bournemouth,1-0,eng-premier-league,17,1,0
+West Ham United,Arsenal FC,0-0,eng-premier-league,17,0,0
+Liverpool FC,West Bromwich Albion,0-0,eng-premier-league,17,0,0
+Tottenham Hotspur,Brighton & Hove Albion,2-0,eng-premier-league,17,2,0
+Leicester City,Crystal Palace,0-3,eng-premier-league,18,0,3
+Arsenal FC,Newcastle United,1-0,eng-premier-league,18,1,0
+Brighton & Hove Albion,Burnley FC,0-0,eng-premier-league,18,0,0
+Chelsea FC,Southampton FC,1-0,eng-premier-league,18,1,0
+Watford FC,Huddersfield Town,1-4,eng-premier-league,18,1,4
+Stoke City,West Ham United,0-3,eng-premier-league,18,0,3
+Manchester City,Tottenham Hotspur,4-1,eng-premier-league,18,4,1
+West Bromwich Albion,Manchester United,1-2,eng-premier-league,18,1,2
+AFC Bournemouth,Liverpool FC,0-4,eng-premier-league,18,0,4
+Everton FC,Swansea City,3-1,eng-premier-league,18,3,1
+Arsenal FC,Liverpool FC,3-3,eng-premier-league,19,3,3
+Everton FC,Chelsea FC,0-0,eng-premier-league,19,0,0
+Brighton & Hove Albion,Watford FC,1-0,eng-premier-league,19,1,0
+Manchester City,AFC Bournemouth,4-0,eng-premier-league,19,4,0
+Southampton FC,Huddersfield Town,1-1,eng-premier-league,19,1,1
+Stoke City,West Bromwich Albion,3-1,eng-premier-league,19,3,1
+Swansea City,Crystal Palace,1-1,eng-premier-league,19,1,1
+West Ham United,Newcastle United,2-3,eng-premier-league,19,2,3
+Burnley FC,Tottenham Hotspur,0-3,eng-premier-league,19,0,3
+Leicester City,Manchester United,2-2,eng-premier-league,19,2,2
+Tottenham Hotspur,Southampton FC,5-2,eng-premier-league,20,5,2
+AFC Bournemouth,West Ham United,3-3,eng-premier-league,20,3,3
+Chelsea FC,Brighton & Hove Albion,2-0,eng-premier-league,20,2,0
+Huddersfield Town,Stoke City,1-1,eng-premier-league,20,1,1
+Manchester United,Burnley FC,2-2,eng-premier-league,20,2,2
+Watford FC,Leicester City,2-1,eng-premier-league,20,2,1
+West Bromwich Albion,Everton FC,0-0,eng-premier-league,20,0,0
+Liverpool FC,Swansea City,5-0,eng-premier-league,20,5,0
+Newcastle United,Manchester City,0-1,eng-premier-league,20,0,1
+Crystal Palace,Arsenal FC,2-3,eng-premier-league,20,2,3
+AFC Bournemouth,Everton FC,2-1,eng-premier-league,21,2,1
+Chelsea FC,Stoke City,5-0,eng-premier-league,21,5,0
+Huddersfield Town,Burnley FC,0-0,eng-premier-league,21,0,0
+Liverpool FC,Leicester City,2-1,eng-premier-league,21,2,1
+Newcastle United,Brighton & Hove Albion,0-0,eng-premier-league,21,0,0
+Watford FC,Swansea City,1-2,eng-premier-league,21,1,2
+Manchester United,Southampton FC,0-0,eng-premier-league,21,0,0
+Crystal Palace,Manchester City,0-0,eng-premier-league,21,0,0
+West Bromwich Albion,Arsenal FC,1-1,eng-premier-league,21,1,1
+Tottenham Hotspur,West Ham United,1-1,eng-premier-league,21,1,1
+Brighton & Hove Albion,AFC Bournemouth,2-2,eng-premier-league,22,2,2
+Burnley FC,Liverpool FC,1-2,eng-premier-league,22,1,2
+Leicester City,Huddersfield Town,3-0,eng-premier-league,22,3,0
+Stoke City,Newcastle United,0-1,eng-premier-league,22,0,1
+Everton FC,Manchester United,0-2,eng-premier-league,22,0,2
+Southampton FC,Crystal Palace,1-2,eng-premier-league,22,1,2
+Swansea City,Tottenham Hotspur,0-2,eng-premier-league,22,0,2
+West Ham United,West Bromwich Albion,2-1,eng-premier-league,22,2,1
+Manchester City,Watford FC,3-1,eng-premier-league,22,3,1
+Arsenal FC,Chelsea FC,2-2,eng-premier-league,22,2,2
+Chelsea FC,Leicester City,0-0,eng-premier-league,23,0,0
+Crystal Palace,Burnley FC,1-0,eng-premier-league,23,1,0
+Huddersfield Town,West Ham United,1-4,eng-premier-league,23,1,4
+Newcastle United,Swansea City,1-1,eng-premier-league,23,1,1
+Watford FC,Southampton FC,2-2,eng-premier-league,23,2,2
+West Bromwich Albion,Brighton & Hove Albion,2-0,eng-premier-league,23,2,0
+Tottenham Hotspur,Everton FC,4-0,eng-premier-league,23,4,0
+AFC Bournemouth,Arsenal FC,2-1,eng-premier-league,23,2,1
+Liverpool FC,Manchester City,4-3,eng-premier-league,23,4,3
+Manchester United,Stoke City,3-0,eng-premier-league,23,3,0
+Brighton & Hove Albion,Chelsea FC,0-4,eng-premier-league,24,0,4
+Arsenal FC,Crystal Palace,4-1,eng-premier-league,24,4,1
+Burnley FC,Manchester United,0-1,eng-premier-league,24,0,1
+Everton FC,West Bromwich Albion,1-1,eng-premier-league,24,1,1
+Leicester City,Watford FC,2-0,eng-premier-league,24,2,0
+Stoke City,Huddersfield Town,2-0,eng-premier-league,24,2,0
+West Ham United,AFC Bournemouth,1-1,eng-premier-league,24,1,1
+Manchester City,Newcastle United,3-1,eng-premier-league,24,3,1
+Southampton FC,Tottenham Hotspur,1-1,eng-premier-league,24,1,1
+Swansea City,Liverpool FC,1-0,eng-premier-league,24,1,0
+Swansea City,Arsenal FC,3-1,eng-premier-league,25,3,1
+West Ham United,Crystal Palace,1-1,eng-premier-league,25,1,1
+Huddersfield Town,Liverpool FC,0-3,eng-premier-league,25,0,3
+Chelsea FC,AFC Bournemouth,0-3,eng-premier-league,25,0,3
+Everton FC,Leicester City,2-1,eng-premier-league,25,2,1
+Newcastle United,Burnley FC,1-1,eng-premier-league,25,1,1
+Southampton FC,Brighton & Hove Albion,1-1,eng-premier-league,25,1,1
+Manchester City,West Bromwich Albion,3-0,eng-premier-league,25,3,0
+Stoke City,Watford FC,0-0,eng-premier-league,25,0,0
+Tottenham Hotspur,Manchester United,2-0,eng-premier-league,25,2,0
+Burnley FC,Manchester City,1-1,eng-premier-league,26,1,1
+AFC Bournemouth,Stoke City,2-1,eng-premier-league,26,2,1
+Brighton & Hove Albion,West Ham United,3-1,eng-premier-league,26,3,1
+Leicester City,Swansea City,1-1,eng-premier-league,26,1,1
+Manchester United,Huddersfield Town,2-0,eng-premier-league,26,2,0
+West Bromwich Albion,Southampton FC,2-3,eng-premier-league,26,2,3
+Arsenal FC,Everton FC,5-1,eng-premier-league,26,5,1
+Crystal Palace,Newcastle United,1-1,eng-premier-league,26,1,1
+Liverpool FC,Tottenham Hotspur,2-2,eng-premier-league,26,2,2
+Watford FC,Chelsea FC,4-1,eng-premier-league,26,4,1
+Tottenham Hotspur,Arsenal FC,1-0,eng-premier-league,27,1,0
+Everton FC,Crystal Palace,3-1,eng-premier-league,27,3,1
+Stoke City,Brighton & Hove Albion,1-1,eng-premier-league,27,1,1
+Swansea City,Burnley FC,1-0,eng-premier-league,27,1,0
+West Ham United,Watford FC,2-0,eng-premier-league,27,2,0
+Manchester City,Leicester City,5-1,eng-premier-league,27,5,1
+Huddersfield Town,AFC Bournemouth,4-1,eng-premier-league,27,4,1
+Newcastle United,Manchester United,1-0,eng-premier-league,27,1,0
+Southampton FC,Liverpool FC,0-2,eng-premier-league,27,0,2
+Chelsea FC,West Bromwich Albion,3-0,eng-premier-league,27,3,0
+Leicester City,Stoke City,1-1,eng-premier-league,28,1,1
+AFC Bournemouth,Newcastle United,2-2,eng-premier-league,28,2,2
+Brighton & Hove Albion,Swansea City,4-1,eng-premier-league,28,4,1
+Burnley FC,Southampton FC,1-1,eng-premier-league,28,1,1
+Liverpool FC,West Ham United,4-1,eng-premier-league,28,4,1
+West Bromwich Albion,Huddersfield Town,1-2,eng-premier-league,28,1,2
+Watford FC,Everton FC,1-0,eng-premier-league,28,1,0
+Crystal Palace,Tottenham Hotspur,0-1,eng-premier-league,28,0,1
+Manchester United,Chelsea FC,2-1,eng-premier-league,28,2,1
+Arsenal FC,Manchester City,0-3,eng-premier-league,28,0,3
+Burnley FC,Everton FC,2-1,eng-premier-league,29,2,1
+Leicester City,AFC Bournemouth,1-1,eng-premier-league,29,1,1
+Southampton FC,Stoke City,0-0,eng-premier-league,29,0,0
+Swansea City,West Ham United,4-1,eng-premier-league,29,4,1
+Tottenham Hotspur,Huddersfield Town,2-0,eng-premier-league,29,2,0
+Watford FC,West Bromwich Albion,1-0,eng-premier-league,29,1,0
+Liverpool FC,Newcastle United,2-0,eng-premier-league,29,2,0
+Brighton & Hove Albion,Arsenal FC,2-1,eng-premier-league,29,2,1
+Manchester City,Chelsea FC,1-0,eng-premier-league,29,1,0
+Crystal Palace,Manchester United,2-3,eng-premier-league,29,2,3
+Manchester United,Liverpool FC,2-1,eng-premier-league,30,2,1
+Everton FC,Brighton & Hove Albion,2-0,eng-premier-league,30,2,0
+Huddersfield Town,Swansea City,0-0,eng-premier-league,30,0,0
+Newcastle United,Southampton FC,3-0,eng-premier-league,30,3,0
+West Bromwich Albion,Leicester City,1-4,eng-premier-league,30,1,4
+West Ham United,Burnley FC,0-3,eng-premier-league,30,0,3
+Chelsea FC,Crystal Palace,2-1,eng-premier-league,30,2,1
+Arsenal FC,Watford FC,3-0,eng-premier-league,30,3,0
+AFC Bournemouth,Tottenham Hotspur,1-4,eng-premier-league,30,1,4
+Stoke City,Manchester City,0-2,eng-premier-league,30,0,2
+AFC Bournemouth,West Bromwich Albion,2-1,eng-premier-league,31,2,1
+Huddersfield Town,Crystal Palace,0-2,eng-premier-league,31,0,2
+Stoke City,Everton FC,1-2,eng-premier-league,31,1,2
+Liverpool FC,Watford FC,5-0,eng-premier-league,31,5,0
+Burnley FC,Chelsea FC,1-2,eng-premier-league,31,1,2
+Swansea City,Southampton FC,0-1,eng-premier-league,31,0,1
+Leicester City,Arsenal FC,3-1,eng-premier-league,31,3,1
+Manchester City,Brighton & Hove Albion,3-1,eng-premier-league,31,3,1
+Tottenham Hotspur,Newcastle United,1-0,eng-premier-league,31,1,0
+West Ham United,Manchester United,0-0,eng-premier-league,31,0,0
+Crystal Palace,Liverpool FC,1-2,eng-premier-league,32,1,2
+Brighton & Hove Albion,Leicester City,0-2,eng-premier-league,32,0,2
+Manchester United,Swansea City,2-0,eng-premier-league,32,2,0
+Newcastle United,Huddersfield Town,1-0,eng-premier-league,32,1,0
+West Ham United,Southampton FC,3-0,eng-premier-league,32,3,0
+Watford FC,AFC Bournemouth,2-2,eng-premier-league,32,2,2
+West Bromwich Albion,Burnley FC,1-2,eng-premier-league,32,1,2
+Everton FC,Manchester City,1-3,eng-premier-league,32,1,3
+Arsenal FC,Stoke City,3-0,eng-premier-league,32,3,0
+Chelsea FC,Tottenham Hotspur,1-3,eng-premier-league,32,1,3
+Everton FC,Liverpool FC,0-0,eng-premier-league,33,0,0
+AFC Bournemouth,Crystal Palace,2-2,eng-premier-league,33,2,2
+Brighton & Hove Albion,Huddersfield Town,1-1,eng-premier-league,33,1,1
+Leicester City,Newcastle United,1-2,eng-premier-league,33,1,2
+Stoke City,Tottenham Hotspur,1-2,eng-premier-league,33,1,2
+Watford FC,Burnley FC,1-2,eng-premier-league,33,1,2
+West Bromwich Albion,Swansea City,1-1,eng-premier-league,33,1,1
+Manchester City,Manchester United,2-3,eng-premier-league,33,2,3
+Arsenal FC,Southampton FC,3-2,eng-premier-league,33,3,2
+Chelsea FC,West Ham United,1-1,eng-premier-league,33,1,1
+Southampton FC,Chelsea FC,2-3,eng-premier-league,34,2,3
+Burnley FC,Leicester City,2-1,eng-premier-league,34,2,1
+Crystal Palace,Brighton & Hove Albion,3-2,eng-premier-league,34,3,2
+Huddersfield Town,Watford FC,1-0,eng-premier-league,34,1,0
+Swansea City,Everton FC,1-1,eng-premier-league,34,1,1
+Liverpool FC,AFC Bournemouth,3-0,eng-premier-league,34,3,0
+Tottenham Hotspur,Manchester City,1-3,eng-premier-league,34,1,3
+Newcastle United,Arsenal FC,2-1,eng-premier-league,34,2,1
+Manchester United,West Bromwich Albion,0-1,eng-premier-league,34,0,1
+West Ham United,Stoke City,1-1,eng-premier-league,34,1,1
+Brighton & Hove Albion,Tottenham Hotspur,1-1,eng-premier-league,35,1,1
+AFC Bournemouth,Manchester United,0-2,eng-premier-league,35,0,2
+Leicester City,Southampton FC,0-0,eng-premier-league,35,0,0
+West Bromwich Albion,Liverpool FC,2-2,eng-premier-league,35,2,2
+Watford FC,Crystal Palace,0-0,eng-premier-league,35,0,0
+Arsenal FC,West Ham United,4-1,eng-premier-league,35,4,1
+Stoke City,Burnley FC,1-1,eng-premier-league,35,1,1
+Manchester City,Swansea City,5-0,eng-premier-league,35,5,0
+Everton FC,Newcastle United,1-0,eng-premier-league,35,1,0
+Chelsea FC,Huddersfield Town,1-1,eng-premier-league,35,1,1
+Liverpool FC,Stoke City,0-0,eng-premier-league,36,0,0
+Burnley FC,Brighton & Hove Albion,0-0,eng-premier-league,36,0,0
+Crystal Palace,Leicester City,5-0,eng-premier-league,36,5,0
+Huddersfield Town,Everton FC,0-2,eng-premier-league,36,0,2
+Newcastle United,West Bromwich Albion,0-1,eng-premier-league,36,0,1
+Southampton FC,AFC Bournemouth,2-1,eng-premier-league,36,2,1
+Swansea City,Chelsea FC,0-1,eng-premier-league,36,0,1
+West Ham United,Manchester City,1-4,eng-premier-league,36,1,4
+Manchester United,Arsenal FC,2-1,eng-premier-league,36,2,1
+Tottenham Hotspur,Watford FC,2-0,eng-premier-league,36,2,0
+Brighton & Hove Albion,Manchester United,1-0,eng-premier-league,37,1,0
+Stoke City,Crystal Palace,1-2,eng-premier-league,37,1,2
+AFC Bournemouth,Swansea City,1-0,eng-premier-league,37,1,0
+Leicester City,West Ham United,0-2,eng-premier-league,37,0,2
+Watford FC,Newcastle United,2-1,eng-premier-league,37,2,1
+West Bromwich Albion,Tottenham Hotspur,1-0,eng-premier-league,37,1,0
+Everton FC,Southampton FC,1-1,eng-premier-league,37,1,1
+Manchester City,Huddersfield Town,0-0,eng-premier-league,37,0,0
+Arsenal FC,Burnley FC,5-0,eng-premier-league,37,5,0
+Chelsea FC,Liverpool FC,1-0,eng-premier-league,37,1,0
+Burnley FC,AFC Bournemouth,1-2,eng-premier-league,38,1,2
+Crystal Palace,West Bromwich Albion,2-0,eng-premier-league,38,2,0
+Huddersfield Town,Arsenal FC,0-1,eng-premier-league,38,0,1
+Liverpool FC,Brighton & Hove Albion,4-0,eng-premier-league,38,4,0
+Manchester United,Watford FC,1-0,eng-premier-league,38,1,0
+Newcastle United,Chelsea FC,3-0,eng-premier-league,38,3,0
+Southampton FC,Manchester City,0-1,eng-premier-league,38,0,1
+Swansea City,Stoke City,1-2,eng-premier-league,38,1,2
+Tottenham Hotspur,Leicester City,5-4,eng-premier-league,38,5,4
+West Ham United,Everton FC,3-1,eng-premier-league,38,3,1
+Sunderland AFC,Derby County,1-1,eng-championship,1,1,1
+Nottingham Forest,Millwall FC,1-0,eng-championship,1,1,0
+Bristol City,Barnsley FC,3-1,eng-championship,1,3,1
+Burton Albion,Cardiff City,0-1,eng-championship,1,0,1
+Fulham FC,Norwich City,1-1,eng-championship,1,1,1
+Ipswich Town,Birmingham City,1-0,eng-championship,1,1,0
+Preston North End,Sheffield Wednesday,1-0,eng-championship,1,1,0
+Queens Park Rangers,Reading FC,2-0,eng-championship,1,2,0
+Sheffield United,Brentford FC,1-0,eng-championship,1,1,0
+Wolverhampton Wanderers,Middlesbrough FC,1-0,eng-championship,1,1,0
+Aston Villa,Hull City,1-1,eng-championship,1,1,1
+Bolton Wanderers,Leeds United,2-3,eng-championship,1,2,3
+Barnsley FC,Ipswich Town,1-2,eng-championship,2,1,2
+Birmingham City,Bristol City,2-1,eng-championship,2,2,1
+Brentford FC,Nottingham Forest,3-4,eng-championship,2,3,4
+Cardiff City,Aston Villa,3-0,eng-championship,2,3,0
+Derby County,Wolverhampton Wanderers,0-2,eng-championship,2,0,2
+Hull City,Burton Albion,4-1,eng-championship,2,4,1
+Leeds United,Preston North End,0-0,eng-championship,2,0,0
+Millwall FC,Bolton Wanderers,1-1,eng-championship,2,1,1
+Reading FC,Fulham FC,1-1,eng-championship,2,1,1
+Sheffield Wednesday,Queens Park Rangers,1-1,eng-championship,2,1,1
+Middlesbrough FC,Sheffield United,1-0,eng-championship,2,1,0
+Norwich City,Sunderland AFC,1-3,eng-championship,2,1,3
+Barnsley FC,Nottingham Forest,2-1,eng-championship,3,2,1
+Birmingham City,Bolton Wanderers,0-0,eng-championship,3,0,0
+Brentford FC,Bristol City,2-2,eng-championship,3,2,2
+Cardiff City,Sheffield United,2-0,eng-championship,3,2,0
+Derby County,Preston North End,1-0,eng-championship,3,1,0
+Hull City,Wolverhampton Wanderers,2-3,eng-championship,3,2,3
+Leeds United,Fulham FC,0-0,eng-championship,3,0,0
+Middlesbrough FC,Burton Albion,2-0,eng-championship,3,2,0
+Millwall FC,Ipswich Town,3-4,eng-championship,3,3,4
+Reading FC,Aston Villa,2-1,eng-championship,3,2,1
+Norwich City,Queens Park Rangers,2-0,eng-championship,3,2,0
+Sheffield Wednesday,Sunderland AFC,1-1,eng-championship,3,1,1
+Burton Albion,Birmingham City,2-1,eng-championship,4,2,1
+Sheffield United,Barnsley FC,1-0,eng-championship,4,1,0
+Aston Villa,Norwich City,4-2,eng-championship,4,4,2
+Bolton Wanderers,Derby County,1-2,eng-championship,4,1,2
+Bristol City,Millwall FC,0-0,eng-championship,4,0,0
+Fulham FC,Sheffield Wednesday,0-1,eng-championship,4,0,1
+Ipswich Town,Brentford FC,2-0,eng-championship,4,2,0
+Nottingham Forest,Middlesbrough FC,2-1,eng-championship,4,2,1
+Preston North End,Reading FC,1-0,eng-championship,4,1,0
+Queens Park Rangers,Hull City,2-1,eng-championship,4,2,1
+Wolverhampton Wanderers,Cardiff City,1-2,eng-championship,4,1,2
+Sunderland AFC,Leeds United,0-2,eng-championship,4,0,2
+Bristol City,Aston Villa,1-1,eng-championship,5,1,1
+Hull City,Bolton Wanderers,4-0,eng-championship,5,4,0
+Barnsley FC,Sunderland AFC,3-0,eng-championship,5,3,0
+Birmingham City,Reading FC,0-2,eng-championship,5,0,2
+Brentford FC,Wolverhampton Wanderers,0-0,eng-championship,5,0,0
+Burton Albion,Sheffield Wednesday,1-1,eng-championship,5,1,1
+Cardiff City,Queens Park Rangers,2-1,eng-championship,5,2,1
+Ipswich Town,Fulham FC,0-2,eng-championship,5,0,2
+Middlesbrough FC,Preston North End,0-0,eng-championship,5,0,0
+Millwall FC,Norwich City,4-0,eng-championship,5,4,0
+Sheffield United,Derby County,3-1,eng-championship,5,3,1
+Nottingham Forest,Leeds United,0-2,eng-championship,5,0,2
+Derby County,Hull City,5-0,eng-championship,6,5,0
+Aston Villa,Brentford FC,0-0,eng-championship,6,0,0
+Bolton Wanderers,Middlesbrough FC,0-3,eng-championship,6,0,3
+Fulham FC,Cardiff City,1-1,eng-championship,6,1,1
+Leeds United,Burton Albion,5-0,eng-championship,6,5,0
+Norwich City,Birmingham City,1-0,eng-championship,6,1,0
+Preston North End,Barnsley FC,1-1,eng-championship,6,1,1
+Queens Park Rangers,Ipswich Town,2-1,eng-championship,6,2,1
+Reading FC,Bristol City,0-1,eng-championship,6,0,1
+Sunderland AFC,Sheffield United,1-2,eng-championship,6,1,2
+Wolverhampton Wanderers,Millwall FC,1-0,eng-championship,6,1,0
+Sheffield Wednesday,Nottingham Forest,3-1,eng-championship,6,3,1
+Aston Villa,Middlesbrough FC,0-0,eng-championship,7,0,0
+Leeds United,Birmingham City,2-0,eng-championship,7,2,0
+Norwich City,Burton Albion,0-0,eng-championship,7,0,0
+Preston North End,Cardiff City,3-0,eng-championship,7,3,0
+Queens Park Rangers,Millwall FC,2-2,eng-championship,7,2,2
+Sheffield Wednesday,Brentford FC,2-1,eng-championship,7,2,1
+Sunderland AFC,Nottingham Forest,0-1,eng-championship,7,0,1
+Wolverhampton Wanderers,Bristol City,3-3,eng-championship,7,3,3
+Bolton Wanderers,Sheffield United,0-1,eng-championship,7,0,1
+Fulham FC,Hull City,2-1,eng-championship,7,2,1
+Derby County,Ipswich Town,0-1,eng-championship,7,0,1
+Reading FC,Barnsley FC,3-0,eng-championship,7,3,0
+Birmingham City,Preston North End,1-3,eng-championship,8,1,3
+Brentford FC,Reading FC,1-1,eng-championship,8,1,1
+Bristol City,Derby County,4-1,eng-championship,8,4,1
+Burton Albion,Fulham FC,2-1,eng-championship,8,2,1
+Cardiff City,Sheffield Wednesday,1-1,eng-championship,8,1,1
+Hull City,Sunderland AFC,1-1,eng-championship,8,1,1
+Ipswich Town,Bolton Wanderers,2-0,eng-championship,8,2,0
+Middlesbrough FC,Queens Park Rangers,3-2,eng-championship,8,3,2
+Millwall FC,Leeds United,1-0,eng-championship,8,1,0
+Nottingham Forest,Wolverhampton Wanderers,1-2,eng-championship,8,1,2
+Sheffield United,Norwich City,0-1,eng-championship,8,0,1
+Barnsley FC,Aston Villa,0-3,eng-championship,8,0,3
+Bolton Wanderers,Brentford FC,0-3,eng-championship,9,0,3
+Derby County,Birmingham City,1-1,eng-championship,9,1,1
+Fulham FC,Middlesbrough FC,1-1,eng-championship,9,1,1
+Leeds United,Ipswich Town,3-2,eng-championship,9,3,2
+Norwich City,Bristol City,0-0,eng-championship,9,0,0
+Preston North End,Millwall FC,0-0,eng-championship,9,0,0
+Queens Park Rangers,Burton Albion,0-0,eng-championship,9,0,0
+Reading FC,Hull City,1-1,eng-championship,9,1,1
+Sunderland AFC,Cardiff City,1-2,eng-championship,9,1,2
+Wolverhampton Wanderers,Barnsley FC,2-1,eng-championship,9,2,1
+Aston Villa,Nottingham Forest,2-1,eng-championship,9,2,1
+Sheffield Wednesday,Sheffield United,2-4,eng-championship,9,2,4
+Barnsley FC,Queens Park Rangers,1-1,eng-championship,10,1,1
+Brentford FC,Derby County,1-1,eng-championship,10,1,1
+Bristol City,Bolton Wanderers,2-0,eng-championship,10,2,0
+Burton Albion,Aston Villa,0-4,eng-championship,10,0,4
+Cardiff City,Leeds United,3-1,eng-championship,10,3,1
+Hull City,Preston North End,1-2,eng-championship,10,1,2
+Ipswich Town,Sunderland AFC,5-2,eng-championship,10,5,2
+Middlesbrough FC,Norwich City,0-1,eng-championship,10,0,1
+Millwall FC,Reading FC,2-1,eng-championship,10,2,1
+Nottingham Forest,Fulham FC,1-3,eng-championship,10,1,3
+Birmingham City,Sheffield Wednesday,1-0,eng-championship,10,1,0
+Sheffield United,Wolverhampton Wanderers,2-0,eng-championship,10,2,0
+Queens Park Rangers,Fulham FC,1-2,eng-championship,11,1,2
+Aston Villa,Bolton Wanderers,1-0,eng-championship,11,1,0
+Burton Albion,Wolverhampton Wanderers,0-4,eng-championship,11,0,4
+Cardiff City,Derby County,0-0,eng-championship,11,0,0
+Hull City,Birmingham City,6-1,eng-championship,11,6,1
+Ipswich Town,Bristol City,1-3,eng-championship,11,1,3
+Middlesbrough FC,Brentford FC,2-2,eng-championship,11,2,2
+Millwall FC,Barnsley FC,1-3,eng-championship,11,1,3
+Nottingham Forest,Sheffield United,2-1,eng-championship,11,2,1
+Preston North End,Sunderland AFC,2-2,eng-championship,11,2,2
+Reading FC,Norwich City,1-2,eng-championship,11,1,2
+Sheffield Wednesday,Leeds United,3-0,eng-championship,11,3,0
+Birmingham City,Cardiff City,1-0,eng-championship,12,1,0
+Bristol City,Burton Albion,0-0,eng-championship,12,0,0
+Barnsley FC,Middlesbrough FC,2-2,eng-championship,12,2,2
+Bolton Wanderers,Sheffield Wednesday,2-1,eng-championship,12,2,1
+Brentford FC,Millwall FC,1-0,eng-championship,12,1,0
+Fulham FC,Preston North End,2-2,eng-championship,12,2,2
+Leeds United,Reading FC,0-1,eng-championship,12,0,1
+Norwich City,Hull City,1-1,eng-championship,12,1,1
+Sheffield United,Ipswich Town,1-0,eng-championship,12,1,0
+Sunderland AFC,Queens Park Rangers,1-1,eng-championship,12,1,1
+Wolverhampton Wanderers,Aston Villa,2-0,eng-championship,12,2,0
+Derby County,Nottingham Forest,2-0,eng-championship,12,2,0
+Aston Villa,Fulham FC,2-1,eng-championship,13,2,1
+Barnsley FC,Hull City,0-1,eng-championship,13,0,1
+Bolton Wanderers,Queens Park Rangers,1-1,eng-championship,13,1,1
+Brentford FC,Sunderland AFC,3-3,eng-championship,13,3,3
+Bristol City,Leeds United,0-3,eng-championship,13,0,3
+Derby County,Sheffield Wednesday,2-0,eng-championship,13,2,0
+Middlesbrough FC,Cardiff City,0-1,eng-championship,13,0,1
+Nottingham Forest,Burton Albion,2-0,eng-championship,13,2,0
+Sheffield United,Reading FC,2-1,eng-championship,13,2,1
+Wolverhampton Wanderers,Preston North End,3-2,eng-championship,13,3,2
+Millwall FC,Birmingham City,2-0,eng-championship,13,2,0
+Ipswich Town,Norwich City,0-1,eng-championship,13,0,1
+Leeds United,Sheffield United,1-2,eng-championship,14,1,2
+Sheffield Wednesday,Barnsley FC,1-1,eng-championship,14,1,1
+Burton Albion,Ipswich Town,1-2,eng-championship,14,1,2
+Cardiff City,Millwall FC,0-0,eng-championship,14,0,0
+Fulham FC,Bolton Wanderers,1-1,eng-championship,14,1,1
+Norwich City,Derby County,1-2,eng-championship,14,1,2
+Preston North End,Brentford FC,2-3,eng-championship,14,2,3
+Queens Park Rangers,Wolverhampton Wanderers,2-1,eng-championship,14,2,1
+Reading FC,Middlesbrough FC,0-2,eng-championship,14,0,2
+Sunderland AFC,Bristol City,1-2,eng-championship,14,1,2
+Hull City,Nottingham Forest,2-3,eng-championship,14,2,3
+Birmingham City,Aston Villa,0-0,eng-championship,14,0,0
+Burton Albion,Barnsley FC,2-4,eng-championship,15,2,4
+Cardiff City,Ipswich Town,3-1,eng-championship,15,3,1
+Fulham FC,Bristol City,0-2,eng-championship,15,0,2
+Hull City,Middlesbrough FC,1-3,eng-championship,15,1,3
+Leeds United,Derby County,1-2,eng-championship,15,1,2
+Norwich City,Wolverhampton Wanderers,0-2,eng-championship,15,0,2
+Queens Park Rangers,Sheffield United,1-0,eng-championship,15,1,0
+Sheffield Wednesday,Millwall FC,2-1,eng-championship,15,2,1
+Sunderland AFC,Bolton Wanderers,3-3,eng-championship,15,3,3
+Reading FC,Nottingham Forest,3-1,eng-championship,15,3,1
+Birmingham City,Brentford FC,0-2,eng-championship,15,0,2
+Preston North End,Aston Villa,0-2,eng-championship,15,0,2
+Wolverhampton Wanderers,Fulham FC,2-0,eng-championship,16,2,0
+Bristol City,Cardiff City,2-1,eng-championship,16,2,1
+Aston Villa,Sheffield Wednesday,1-2,eng-championship,16,1,2
+Barnsley FC,Birmingham City,2-0,eng-championship,16,2,0
+Bolton Wanderers,Norwich City,2-1,eng-championship,16,2,1
+Derby County,Reading FC,2-4,eng-championship,16,2,4
+Ipswich Town,Preston North End,3-0,eng-championship,16,3,0
+Millwall FC,Burton Albion,0-1,eng-championship,16,0,1
+Nottingham Forest,Queens Park Rangers,4-0,eng-championship,16,4,0
+Sheffield United,Hull City,4-1,eng-championship,16,4,1
+Brentford FC,Leeds United,3-1,eng-championship,16,3,1
+Middlesbrough FC,Sunderland AFC,1-0,eng-championship,16,1,0
+Burton Albion,Sheffield United,1-3,eng-championship,17,1,3
+Preston North End,Bolton Wanderers,0-0,eng-championship,17,0,0
+Birmingham City,Nottingham Forest,1-0,eng-championship,17,1,0
+Cardiff City,Brentford FC,2-0,eng-championship,17,2,0
+Hull City,Ipswich Town,2-2,eng-championship,17,2,2
+Norwich City,Barnsley FC,1-1,eng-championship,17,1,1
+Queens Park Rangers,Aston Villa,1-2,eng-championship,17,1,2
+Reading FC,Wolverhampton Wanderers,0-2,eng-championship,17,0,2
+Sheffield Wednesday,Bristol City,0-0,eng-championship,17,0,0
+Sunderland AFC,Millwall FC,2-2,eng-championship,17,2,2
+Fulham FC,Derby County,1-1,eng-championship,17,1,1
+Leeds United,Middlesbrough FC,2-1,eng-championship,17,2,1
+Aston Villa,Sunderland AFC,2-1,eng-championship,18,2,1
+Barnsley FC,Cardiff City,0-1,eng-championship,18,0,1
+Brentford FC,Burton Albion,1-1,eng-championship,18,1,1
+Bristol City,Preston North End,1-2,eng-championship,18,1,2
+Derby County,Queens Park Rangers,2-0,eng-championship,18,2,0
+Millwall FC,Hull City,0-0,eng-championship,18,0,0
+Nottingham Forest,Norwich City,1-0,eng-championship,18,1,0
+Sheffield United,Fulham FC,4-5,eng-championship,18,4,5
+Bolton Wanderers,Reading FC,2-2,eng-championship,18,2,2
+Ipswich Town,Sheffield Wednesday,2-2,eng-championship,18,2,2
+Middlesbrough FC,Birmingham City,2-0,eng-championship,18,2,0
+Wolverhampton Wanderers,Leeds United,4-1,eng-championship,18,4,1
+Barnsley FC,Leeds United,0-2,eng-championship,19,0,2
+Aston Villa,Ipswich Town,2-0,eng-championship,19,2,0
+Burton Albion,Sunderland AFC,0-2,eng-championship,19,0,2
+Fulham FC,Millwall FC,1-0,eng-championship,19,1,0
+Hull City,Bristol City,2-3,eng-championship,19,2,3
+Middlesbrough FC,Derby County,0-3,eng-championship,19,0,3
+Norwich City,Preston North End,1-1,eng-championship,19,1,1
+Reading FC,Sheffield Wednesday,0-0,eng-championship,19,0,0
+Wolverhampton Wanderers,Bolton Wanderers,5-1,eng-championship,19,5,1
+Sheffield United,Birmingham City,1-1,eng-championship,19,1,1
+Nottingham Forest,Cardiff City,0-2,eng-championship,19,0,2
+Queens Park Rangers,Brentford FC,2-2,eng-championship,19,2,2
+Cardiff City,Norwich City,3-1,eng-championship,20,3,1
+Leeds United,Aston Villa,1-1,eng-championship,20,1,1
+Bolton Wanderers,Barnsley FC,3-1,eng-championship,20,3,1
+Brentford FC,Fulham FC,3-1,eng-championship,20,3,1
+Derby County,Burton Albion,1-0,eng-championship,20,1,0
+Ipswich Town,Nottingham Forest,4-2,eng-championship,20,4,2
+Millwall FC,Sheffield United,3-1,eng-championship,20,3,1
+Preston North End,Queens Park Rangers,1-0,eng-championship,20,1,0
+Sheffield Wednesday,Hull City,2-2,eng-championship,20,2,2
+Sunderland AFC,Reading FC,1-3,eng-championship,20,1,3
+Bristol City,Middlesbrough FC,2-1,eng-championship,20,2,1
+Birmingham City,Wolverhampton Wanderers,0-1,eng-championship,20,0,1
+Sheffield United,Bristol City,1-2,eng-championship,21,1,2
+Aston Villa,Millwall FC,0-0,eng-championship,21,0,0
+Barnsley FC,Derby County,0-3,eng-championship,21,0,3
+Burton Albion,Preston North End,1-2,eng-championship,21,1,2
+Fulham FC,Birmingham City,1-0,eng-championship,21,1,0
+Hull City,Brentford FC,3-2,eng-championship,21,3,2
+Middlesbrough FC,Ipswich Town,2-0,eng-championship,21,2,0
+Nottingham Forest,Bolton Wanderers,3-2,eng-championship,21,3,2
+Queens Park Rangers,Leeds United,1-3,eng-championship,21,1,3
+Wolverhampton Wanderers,Sunderland AFC,0-0,eng-championship,21,0,0
+Norwich City,Sheffield Wednesday,3-1,eng-championship,21,3,1
+Reading FC,Cardiff City,2-2,eng-championship,21,2,2
+Sheffield Wednesday,Wolverhampton Wanderers,0-1,eng-championship,22,0,1
+Birmingham City,Queens Park Rangers,1-2,eng-championship,22,1,2
+Bolton Wanderers,Burton Albion,0-1,eng-championship,22,0,1
+Brentford FC,Barnsley FC,0-0,eng-championship,22,0,0
+Bristol City,Nottingham Forest,2-1,eng-championship,22,2,1
+Derby County,Aston Villa,2-0,eng-championship,22,2,0
+Ipswich Town,Reading FC,2-0,eng-championship,22,2,0
+Leeds United,Norwich City,1-0,eng-championship,22,1,0
+Millwall FC,Middlesbrough FC,2-1,eng-championship,22,2,1
+Preston North End,Sheffield United,1-0,eng-championship,22,1,0
+Sunderland AFC,Fulham FC,1-0,eng-championship,22,1,0
+Cardiff City,Hull City,1-0,eng-championship,22,1,0
+Norwich City,Brentford FC,1-2,eng-championship,23,1,2
+Bolton Wanderers,Cardiff City,2-0,eng-championship,23,2,0
+Derby County,Millwall FC,3-0,eng-championship,23,3,0
+Fulham FC,Barnsley FC,2-1,eng-championship,23,2,1
+Leeds United,Hull City,1-0,eng-championship,23,1,0
+Preston North End,Nottingham Forest,1-1,eng-championship,23,1,1
+Queens Park Rangers,Bristol City,1-1,eng-championship,23,1,1
+Reading FC,Burton Albion,1-2,eng-championship,23,1,2
+Sheffield Wednesday,Middlesbrough FC,1-2,eng-championship,23,1,2
+Sunderland AFC,Birmingham City,1-1,eng-championship,23,1,1
+Wolverhampton Wanderers,Ipswich Town,1-0,eng-championship,23,1,0
+Aston Villa,Sheffield United,2-2,eng-championship,23,2,2
+Millwall FC,Wolverhampton Wanderers,2-2,eng-championship,24,2,2
+Barnsley FC,Preston North End,0-0,eng-championship,24,0,0
+Birmingham City,Norwich City,0-2,eng-championship,24,0,2
+Bristol City,Reading FC,2-0,eng-championship,24,2,0
+Burton Albion,Leeds United,1-2,eng-championship,24,1,2
+Cardiff City,Fulham FC,2-4,eng-championship,24,2,4
+Hull City,Derby County,0-0,eng-championship,24,0,0
+Ipswich Town,Queens Park Rangers,0-0,eng-championship,24,0,0
+Middlesbrough FC,Bolton Wanderers,2-0,eng-championship,24,2,0
+Nottingham Forest,Sheffield Wednesday,0-3,eng-championship,24,0,3
+Sheffield United,Sunderland AFC,3-0,eng-championship,24,3,0
+Brentford FC,Aston Villa,2-1,eng-championship,24,2,1
+Cardiff City,Preston North End,0-1,eng-championship,25,0,1
+Millwall FC,Queens Park Rangers,1-0,eng-championship,25,1,0
+Barnsley FC,Reading FC,1-1,eng-championship,25,1,1
+Birmingham City,Leeds United,1-0,eng-championship,25,1,0
+Brentford FC,Sheffield Wednesday,2-0,eng-championship,25,2,0
+Burton Albion,Norwich City,0-0,eng-championship,25,0,0
+Hull City,Fulham FC,2-2,eng-championship,25,2,2
+Ipswich Town,Derby County,1-2,eng-championship,25,1,2
+Middlesbrough FC,Aston Villa,0-1,eng-championship,25,0,1
+Nottingham Forest,Sunderland AFC,0-1,eng-championship,25,0,1
+Sheffield United,Bolton Wanderers,0-1,eng-championship,25,0,1
+Bristol City,Wolverhampton Wanderers,1-2,eng-championship,25,1,2
+Bolton Wanderers,Hull City,1-0,eng-championship,26,1,0
+Derby County,Sheffield United,1-1,eng-championship,26,1,1
+Leeds United,Nottingham Forest,0-0,eng-championship,26,0,0
+Norwich City,Millwall FC,2-1,eng-championship,26,2,1
+Preston North End,Middlesbrough FC,2-3,eng-championship,26,2,3
+Queens Park Rangers,Cardiff City,2-1,eng-championship,26,2,1
+Sheffield Wednesday,Burton Albion,0-3,eng-championship,26,0,3
+Sunderland AFC,Barnsley FC,0-1,eng-championship,26,0,1
+Aston Villa,Bristol City,5-0,eng-championship,26,5,0
+Fulham FC,Ipswich Town,4-1,eng-championship,26,4,1
+Wolverhampton Wanderers,Brentford FC,3-0,eng-championship,26,3,0
+Reading FC,Birmingham City,0-2,eng-championship,26,0,2
+Sheffield United,Sheffield Wednesday,0-0,eng-championship,27,0,0
+Cardiff City,Sunderland AFC,4-0,eng-championship,27,4,0
+Barnsley FC,Wolverhampton Wanderers,0-0,eng-championship,27,0,0
+Birmingham City,Derby County,0-3,eng-championship,27,0,3
+Brentford FC,Bolton Wanderers,2-0,eng-championship,27,2,0
+Bristol City,Norwich City,0-1,eng-championship,27,0,1
+Burton Albion,Queens Park Rangers,1-3,eng-championship,27,1,3
+Hull City,Reading FC,0-0,eng-championship,27,0,0
+Ipswich Town,Leeds United,1-0,eng-championship,27,1,0
+Middlesbrough FC,Fulham FC,0-1,eng-championship,27,0,1
+Millwall FC,Preston North End,1-1,eng-championship,27,1,1
+Nottingham Forest,Aston Villa,0-1,eng-championship,27,0,1
+Derby County,Bristol City,0-0,eng-championship,28,0,0
+Aston Villa,Barnsley FC,3-1,eng-championship,28,3,1
+Bolton Wanderers,Ipswich Town,1-1,eng-championship,28,1,1
+Fulham FC,Burton Albion,6-0,eng-championship,28,6,0
+Leeds United,Millwall FC,3-4,eng-championship,28,3,4
+Norwich City,Sheffield United,1-2,eng-championship,28,1,2
+Preston North End,Birmingham City,1-1,eng-championship,28,1,1
+Queens Park Rangers,Middlesbrough FC,0-3,eng-championship,28,0,3
+Reading FC,Brentford FC,0-1,eng-championship,28,0,1
+Sunderland AFC,Hull City,1-0,eng-championship,28,1,0
+Wolverhampton Wanderers,Nottingham Forest,0-2,eng-championship,28,0,2
+Sheffield Wednesday,Cardiff City,0-0,eng-championship,28,0,0
+Barnsley FC,Fulham FC,1-3,eng-championship,29,1,3
+Brentford FC,Norwich City,0-1,eng-championship,29,0,1
+Bristol City,Queens Park Rangers,2-0,eng-championship,29,2,0
+Ipswich Town,Wolverhampton Wanderers,0-1,eng-championship,29,0,1
+Birmingham City,Sunderland AFC,3-1,eng-championship,29,3,1
+Burton Albion,Reading FC,1-3,eng-championship,29,1,3
+Hull City,Leeds United,0-0,eng-championship,29,0,0
+Middlesbrough FC,Sheffield Wednesday,0-0,eng-championship,29,0,0
+Millwall FC,Derby County,0-0,eng-championship,29,0,0
+Nottingham Forest,Preston North End,0-3,eng-championship,29,0,3
+Sheffield United,Aston Villa,0-1,eng-championship,29,0,1
+Cardiff City,Bolton Wanderers,2-0,eng-championship,29,2,0
+Bolton Wanderers,Bristol City,1-0,eng-championship,30,1,0
+Aston Villa,Burton Albion,3-2,eng-championship,30,3,2
+Derby County,Brentford FC,3-0,eng-championship,30,3,0
+Fulham FC,Nottingham Forest,2-0,eng-championship,30,2,0
+Leeds United,Cardiff City,1-4,eng-championship,30,1,4
+Norwich City,Middlesbrough FC,1-0,eng-championship,30,1,0
+Preston North End,Hull City,2-1,eng-championship,30,2,1
+Queens Park Rangers,Barnsley FC,1-0,eng-championship,30,1,0
+Reading FC,Millwall FC,0-2,eng-championship,30,0,2
+Sheffield Wednesday,Birmingham City,1-3,eng-championship,30,1,3
+Sunderland AFC,Ipswich Town,0-2,eng-championship,30,0,2
+Wolverhampton Wanderers,Sheffield United,3-0,eng-championship,30,3,0
+Millwall FC,Cardiff City,1-1,eng-championship,31,1,1
+Barnsley FC,Sheffield Wednesday,1-1,eng-championship,31,1,1
+Sheffield United,Leeds United,2-1,eng-championship,31,2,1
+Bolton Wanderers,Fulham FC,1-1,eng-championship,31,1,1
+Brentford FC,Preston North End,1-1,eng-championship,31,1,1
+Bristol City,Sunderland AFC,3-3,eng-championship,31,3,3
+Derby County,Norwich City,1-1,eng-championship,31,1,1
+Ipswich Town,Burton Albion,0-0,eng-championship,31,0,0
+Middlesbrough FC,Reading FC,2-1,eng-championship,31,2,1
+Nottingham Forest,Hull City,0-2,eng-championship,31,0,2
+Wolverhampton Wanderers,Queens Park Rangers,2-1,eng-championship,31,2,1
+Aston Villa,Birmingham City,2-0,eng-championship,31,2,0
+Sheffield Wednesday,Derby County,2-0,eng-championship,32,2,0
+Birmingham City,Millwall FC,0-1,eng-championship,32,0,1
+Burton Albion,Nottingham Forest,0-0,eng-championship,32,0,0
+Cardiff City,Middlesbrough FC,1-0,eng-championship,32,1,0
+Fulham FC,Aston Villa,2-0,eng-championship,32,2,0
+Preston North End,Wolverhampton Wanderers,1-1,eng-championship,32,1,1
+Queens Park Rangers,Bolton Wanderers,2-0,eng-championship,32,2,0
+Sunderland AFC,Brentford FC,0-2,eng-championship,32,0,2
+Norwich City,Ipswich Town,1-1,eng-championship,32,1,1
+Leeds United,Bristol City,2-2,eng-championship,32,2,2
+Hull City,Barnsley FC,1-1,eng-championship,32,1,1
+Reading FC,Sheffield United,1-3,eng-championship,32,1,3
+Aston Villa,Preston North End,1-1,eng-championship,33,1,1
+Barnsley FC,Burton Albion,1-2,eng-championship,33,1,2
+Brentford FC,Birmingham City,5-0,eng-championship,33,5,0
+Middlesbrough FC,Hull City,3-1,eng-championship,33,3,1
+Millwall FC,Sheffield Wednesday,2-1,eng-championship,33,2,1
+Nottingham Forest,Reading FC,1-1,eng-championship,33,1,1
+Sheffield United,Queens Park Rangers,2-1,eng-championship,33,2,1
+Bolton Wanderers,Sunderland AFC,1-0,eng-championship,33,1,0
+Bristol City,Fulham FC,1-1,eng-championship,33,1,1
+Derby County,Leeds United,2-2,eng-championship,33,2,2
+Ipswich Town,Cardiff City,0-1,eng-championship,33,0,1
+Wolverhampton Wanderers,Norwich City,2-2,eng-championship,33,2,2
+Hull City,Sheffield United,1-0,eng-championship,34,1,0
+Birmingham City,Barnsley FC,0-2,eng-championship,34,0,2
+Burton Albion,Millwall FC,0-1,eng-championship,34,0,1
+Leeds United,Brentford FC,1-0,eng-championship,34,1,0
+Norwich City,Bolton Wanderers,0-0,eng-championship,34,0,0
+Preston North End,Ipswich Town,0-1,eng-championship,34,0,1
+Queens Park Rangers,Nottingham Forest,2-5,eng-championship,34,2,5
+Reading FC,Derby County,3-3,eng-championship,34,3,3
+Sheffield Wednesday,Aston Villa,2-4,eng-championship,34,2,4
+Sunderland AFC,Middlesbrough FC,3-3,eng-championship,34,3,3
+Fulham FC,Wolverhampton Wanderers,2-0,eng-championship,34,2,0
+Cardiff City,Bristol City,1-0,eng-championship,34,1,0
+Middlesbrough FC,Leeds United,3-0,eng-championship,35,3,0
+Bolton Wanderers,Preston North End,1-3,eng-championship,35,1,3
+Bristol City,Sheffield Wednesday,4-0,eng-championship,35,4,0
+Derby County,Fulham FC,1-2,eng-championship,35,1,2
+Millwall FC,Sunderland AFC,1-1,eng-championship,35,1,1
+Nottingham Forest,Birmingham City,2-1,eng-championship,35,2,1
+Aston Villa,Queens Park Rangers,1-3,eng-championship,35,1,3
+Barnsley FC,Norwich City,1-1,eng-championship,35,1,1
+Brentford FC,Cardiff City,1-3,eng-championship,35,1,3
+Ipswich Town,Hull City,0-3,eng-championship,35,0,3
+Sheffield United,Burton Albion,2-0,eng-championship,35,2,0
+Wolverhampton Wanderers,Reading FC,3-0,eng-championship,35,3,0
+Birmingham City,Middlesbrough FC,0-1,eng-championship,36,0,1
+Burton Albion,Brentford FC,0-2,eng-championship,36,0,2
+Cardiff City,Barnsley FC,2-1,eng-championship,36,2,1
+Fulham FC,Sheffield United,3-0,eng-championship,36,3,0
+Hull City,Millwall FC,1-2,eng-championship,36,1,2
+Norwich City,Nottingham Forest,0-0,eng-championship,36,0,0
+Preston North End,Bristol City,2-1,eng-championship,36,2,1
+Queens Park Rangers,Derby County,1-1,eng-championship,36,1,1
+Sheffield Wednesday,Ipswich Town,1-2,eng-championship,36,1,2
+Sunderland AFC,Aston Villa,0-3,eng-championship,36,0,3
+Reading FC,Bolton Wanderers,1-1,eng-championship,36,1,1
+Leeds United,Wolverhampton Wanderers,0-3,eng-championship,36,0,3
+Burton Albion,Bristol City,0-0,eng-championship,37,0,0
+Cardiff City,Birmingham City,3-2,eng-championship,37,3,2
+Hull City,Norwich City,4-3,eng-championship,37,4,3
+Ipswich Town,Sheffield United,0-0,eng-championship,37,0,0
+Middlesbrough FC,Barnsley FC,3-1,eng-championship,37,3,1
+Millwall FC,Brentford FC,1-0,eng-championship,37,1,0
+Preston North End,Fulham FC,1-2,eng-championship,37,1,2
+Queens Park Rangers,Sunderland AFC,1-0,eng-championship,37,1,0
+Reading FC,Leeds United,2-2,eng-championship,37,2,2
+Sheffield Wednesday,Bolton Wanderers,1-1,eng-championship,37,1,1
+Aston Villa,Wolverhampton Wanderers,4-1,eng-championship,37,4,1
+Nottingham Forest,Derby County,0-0,eng-championship,37,0,0
+Fulham FC,Queens Park Rangers,2-2,eng-championship,38,2,2
+Barnsley FC,Millwall FC,0-2,eng-championship,38,0,2
+Birmingham City,Hull City,3-0,eng-championship,38,3,0
+Brentford FC,Middlesbrough FC,1-1,eng-championship,38,1,1
+Bristol City,Ipswich Town,1-0,eng-championship,38,1,0
+Leeds United,Sheffield Wednesday,1-2,eng-championship,38,1,2
+Norwich City,Reading FC,3-2,eng-championship,38,3,2
+Sheffield United,Nottingham Forest,0-0,eng-championship,38,0,0
+Sunderland AFC,Preston North End,0-2,eng-championship,38,0,2
+Wolverhampton Wanderers,Burton Albion,3-1,eng-championship,38,3,1
+Bolton Wanderers,Aston Villa,1-0,eng-championship,38,1,0
+Derby County,Cardiff City,3-1,eng-championship,38,3,1
+Millwall FC,Nottingham Forest,2-0,eng-championship,39,2,0
+Barnsley FC,Bristol City,2-2,eng-championship,39,2,2
+Brentford FC,Sheffield United,1-1,eng-championship,39,1,1
+Cardiff City,Burton Albion,3-1,eng-championship,39,3,1
+Leeds United,Bolton Wanderers,2-1,eng-championship,39,2,1
+Norwich City,Fulham FC,0-2,eng-championship,39,0,2
+Sheffield Wednesday,Preston North End,4-1,eng-championship,39,4,1
+Middlesbrough FC,Wolverhampton Wanderers,1-2,eng-championship,39,1,2
+Reading FC,Queens Park Rangers,1-0,eng-championship,39,1,0
+Derby County,Sunderland AFC,1-4,eng-championship,39,1,4
+Birmingham City,Ipswich Town,1-0,eng-championship,39,1,0
+Hull City,Aston Villa,0-0,eng-championship,39,0,0
+Preston North End,Derby County,0-1,eng-championship,40,0,1
+Bristol City,Brentford FC,0-1,eng-championship,40,0,1
+Burton Albion,Middlesbrough FC,1-1,eng-championship,40,1,1
+Ipswich Town,Millwall FC,2-2,eng-championship,40,2,2
+Queens Park Rangers,Norwich City,4-1,eng-championship,40,4,1
+Sunderland AFC,Sheffield Wednesday,1-3,eng-championship,40,1,3
+Sheffield United,Cardiff City,1-1,eng-championship,40,1,1
+Aston Villa,Reading FC,3-0,eng-championship,40,3,0
+Fulham FC,Leeds United,2-0,eng-championship,40,2,0
+Wolverhampton Wanderers,Hull City,2-2,eng-championship,40,2,2
+Bolton Wanderers,Birmingham City,0-1,eng-championship,40,0,1
+Nottingham Forest,Barnsley FC,3-0,eng-championship,40,3,0
+Cardiff City,Wolverhampton Wanderers,0-1,eng-championship,41,0,1
+Barnsley FC,Sheffield United,3-2,eng-championship,41,3,2
+Norwich City,Aston Villa,3-1,eng-championship,41,3,1
+Birmingham City,Burton Albion,1-1,eng-championship,41,1,1
+Brentford FC,Ipswich Town,1-0,eng-championship,41,1,0
+Derby County,Bolton Wanderers,3-0,eng-championship,41,3,0
+Hull City,Queens Park Rangers,4-0,eng-championship,41,4,0
+Leeds United,Sunderland AFC,1-1,eng-championship,41,1,1
+Middlesbrough FC,Nottingham Forest,2-0,eng-championship,41,2,0
+Millwall FC,Bristol City,2-0,eng-championship,41,2,0
+Reading FC,Preston North End,1-0,eng-championship,41,1,0
+Sheffield Wednesday,Fulham FC,0-1,eng-championship,41,0,1
+Aston Villa,Cardiff City,1-0,eng-championship,42,1,0
+Bristol City,Birmingham City,3-1,eng-championship,42,3,1
+Burton Albion,Hull City,0-5,eng-championship,42,0,5
+Fulham FC,Reading FC,1-0,eng-championship,42,1,0
+Ipswich Town,Barnsley FC,1-0,eng-championship,42,1,0
+Nottingham Forest,Brentford FC,0-1,eng-championship,42,0,1
+Preston North End,Leeds United,3-1,eng-championship,42,3,1
+Queens Park Rangers,Sheffield Wednesday,4-2,eng-championship,42,4,2
+Sheffield United,Middlesbrough FC,2-1,eng-championship,42,2,1
+Sunderland AFC,Norwich City,1-1,eng-championship,42,1,1
+Bolton Wanderers,Millwall FC,0-2,eng-championship,42,0,2
+Wolverhampton Wanderers,Derby County,2-0,eng-championship,42,2,0
+Aston Villa,Leeds United,1-0,eng-championship,43,1,0
+Sheffield United,Millwall FC,1-1,eng-championship,43,1,1
+Barnsley FC,Bolton Wanderers,2-2,eng-championship,43,2,2
+Burton Albion,Derby County,3-1,eng-championship,43,3,1
+Hull City,Sheffield Wednesday,0-1,eng-championship,43,0,1
+Middlesbrough FC,Bristol City,2-1,eng-championship,43,2,1
+Norwich City,Cardiff City,0-2,eng-championship,43,0,2
+Nottingham Forest,Ipswich Town,2-1,eng-championship,43,2,1
+Queens Park Rangers,Preston North End,1-2,eng-championship,43,1,2
+Reading FC,Sunderland AFC,2-2,eng-championship,43,2,2
+Fulham FC,Brentford FC,1-1,eng-championship,43,1,1
+Wolverhampton Wanderers,Birmingham City,2-0,eng-championship,43,2,0
+Millwall FC,Fulham FC,0-3,eng-championship,44,0,3
+Birmingham City,Sheffield United,2-1,eng-championship,44,2,1
+Bolton Wanderers,Wolverhampton Wanderers,0-4,eng-championship,44,0,4
+Brentford FC,Queens Park Rangers,2-1,eng-championship,44,2,1
+Bristol City,Hull City,5-5,eng-championship,44,5,5
+Derby County,Middlesbrough FC,1-2,eng-championship,44,1,2
+Ipswich Town,Aston Villa,0-4,eng-championship,44,0,4
+Leeds United,Barnsley FC,2-1,eng-championship,44,2,1
+Preston North End,Norwich City,0-0,eng-championship,44,0,0
+Sheffield Wednesday,Reading FC,3-0,eng-championship,44,3,0
+Sunderland AFC,Burton Albion,1-2,eng-championship,44,1,2
+Cardiff City,Nottingham Forest,2-1,eng-championship,44,2,1
+Fulham FC,Sunderland AFC,2-1,eng-championship,45,2,1
+Aston Villa,Derby County,1-1,eng-championship,45,1,1
+Barnsley FC,Brentford FC,2-0,eng-championship,45,2,0
+Burton Albion,Bolton Wanderers,2-0,eng-championship,45,2,0
+Hull City,Cardiff City,0-2,eng-championship,45,0,2
+Norwich City,Leeds United,2-1,eng-championship,45,2,1
+Nottingham Forest,Bristol City,0-0,eng-championship,45,0,0
+Queens Park Rangers,Birmingham City,3-1,eng-championship,45,3,1
+Reading FC,Ipswich Town,0-4,eng-championship,45,0,4
+Sheffield United,Preston North End,0-1,eng-championship,45,0,1
+Wolverhampton Wanderers,Sheffield Wednesday,0-0,eng-championship,45,0,0
+Middlesbrough FC,Millwall FC,2-0,eng-championship,45,2,0
+Birmingham City,Fulham FC,3-1,eng-championship,46,3,1
+Bolton Wanderers,Nottingham Forest,3-2,eng-championship,46,3,2
+Brentford FC,Hull City,1-1,eng-championship,46,1,1
+Bristol City,Sheffield United,2-3,eng-championship,46,2,3
+Cardiff City,Reading FC,0-0,eng-championship,46,0,0
+Derby County,Barnsley FC,4-1,eng-championship,46,4,1
+Ipswich Town,Middlesbrough FC,2-2,eng-championship,46,2,2
+Leeds United,Queens Park Rangers,2-0,eng-championship,46,2,0
+Millwall FC,Aston Villa,1-0,eng-championship,46,1,0
+Preston North End,Burton Albion,2-1,eng-championship,46,2,1
+Sheffield Wednesday,Norwich City,5-1,eng-championship,46,5,1
+Sunderland AFC,Wolverhampton Wanderers,3-0,eng-championship,46,3,0
+Bradford City,Blackpool FC,2-1,eng-league-one,1,2,1
+Bury FC,Walsall FC,1-0,eng-league-one,1,1,0
+Charlton Athletic,Bristol Rovers,1-0,eng-league-one,1,1,0
+Doncaster Rovers,Gillingham FC,0-0,eng-league-one,1,0,0
+Fleetwood Town,Rotherham United,2-0,eng-league-one,1,2,0
+Milton Keynes Dons,Wigan Athletic,0-1,eng-league-one,1,0,1
+Oldham Athletic,Oxford United,0-2,eng-league-one,1,0,2
+Peterborough United,Plymouth Argyle,2-1,eng-league-one,1,2,1
+Portsmouth FC,Rochdale AFC,2-0,eng-league-one,1,2,0
+Scunthorpe United,AFC Wimbledon,1-1,eng-league-one,1,1,1
+Shrewsbury Town,Northampton Town,1-0,eng-league-one,1,1,0
+Southend United,Blackburn Rovers,2-1,eng-league-one,1,2,1
+AFC Wimbledon,Shrewsbury Town,0-1,eng-league-one,2,0,1
+Blackburn Rovers,Doncaster Rovers,1-3,eng-league-one,2,1,3
+Blackpool FC,Milton Keynes Dons,1-0,eng-league-one,2,1,0
+Bristol Rovers,Peterborough United,1-4,eng-league-one,2,1,4
+Gillingham FC,Bradford City,0-1,eng-league-one,2,0,1
+Northampton Town,Fleetwood Town,0-1,eng-league-one,2,0,1
+Oxford United,Portsmouth FC,3-0,eng-league-one,2,3,0
+Plymouth Argyle,Charlton Athletic,2-0,eng-league-one,2,2,0
+Rochdale AFC,Scunthorpe United,1-1,eng-league-one,2,1,1
+Rotherham United,Southend United,5-0,eng-league-one,2,5,0
+Walsall FC,Oldham Athletic,2-1,eng-league-one,2,2,1
+Wigan Athletic,Bury FC,4-1,eng-league-one,2,4,1
+Bradford City,Blackburn Rovers,0-1,eng-league-one,3,0,1
+Bury FC,Bristol Rovers,2-3,eng-league-one,3,2,3
+Charlton Athletic,Northampton Town,4-1,eng-league-one,3,4,1
+Doncaster Rovers,Blackpool FC,3-3,eng-league-one,3,3,3
+Fleetwood Town,AFC Wimbledon,2-0,eng-league-one,3,2,0
+Milton Keynes Dons,Gillingham FC,1-0,eng-league-one,3,1,0
+Oldham Athletic,Wigan Athletic,0-2,eng-league-one,3,0,2
+Peterborough United,Rotherham United,2-1,eng-league-one,3,2,1
+Portsmouth FC,Walsall FC,1-1,eng-league-one,3,1,1
+Scunthorpe United,Oxford United,1-0,eng-league-one,3,1,0
+Shrewsbury Town,Rochdale AFC,3-2,eng-league-one,3,3,2
+Southend United,Plymouth Argyle,1-1,eng-league-one,3,1,1
+AFC Wimbledon,Doncaster Rovers,2-0,eng-league-one,4,2,0
+Blackburn Rovers,Milton Keynes Dons,4-1,eng-league-one,4,4,1
+Blackpool FC,Oldham Athletic,2-1,eng-league-one,4,2,1
+Bristol Rovers,Fleetwood Town,3-1,eng-league-one,4,3,1
+Gillingham FC,Southend United,3-3,eng-league-one,4,3,3
+Northampton Town,Peterborough United,1-4,eng-league-one,4,1,4
+Oxford United,Shrewsbury Town,1-1,eng-league-one,4,1,1
+Plymouth Argyle,Scunthorpe United,0-4,eng-league-one,4,0,4
+Rochdale AFC,Bury FC,0-0,eng-league-one,4,0,0
+Rotherham United,Charlton Athletic,0-2,eng-league-one,4,0,2
+Walsall FC,Bradford City,3-3,eng-league-one,4,3,3
+Wigan Athletic,Portsmouth FC,1-1,eng-league-one,4,1,1
+Bradford City,Bristol Rovers,3-1,eng-league-one,5,3,1
+Blackpool FC,AFC Wimbledon,1-0,eng-league-one,5,1,0
+Bury FC,Scunthorpe United,0-1,eng-league-one,5,0,1
+Doncaster Rovers,Peterborough United,0-0,eng-league-one,5,0,0
+Gillingham FC,Shrewsbury Town,1-2,eng-league-one,5,1,2
+Milton Keynes Dons,Oxford United,1-1,eng-league-one,5,1,1
+Oldham Athletic,Charlton Athletic,3-4,eng-league-one,5,3,4
+Southend United,Rochdale AFC,0-0,eng-league-one,5,0,0
+Walsall FC,Plymouth Argyle,2-1,eng-league-one,5,2,1
+Portsmouth FC,Rotherham United,0-1,eng-league-one,5,0,1
+Wigan Athletic,Northampton Town,1-0,eng-league-one,5,1,0
+Blackburn Rovers,Fleetwood Town,2-2,eng-league-one,5,2,2
+AFC Wimbledon,Portsmouth FC,0-2,eng-league-one,6,0,2
+Bristol Rovers,Walsall FC,2-1,eng-league-one,6,2,1
+Charlton Athletic,Southend United,2-1,eng-league-one,6,2,1
+Fleetwood Town,Oldham Athletic,2-2,eng-league-one,6,2,2
+Northampton Town,Doncaster Rovers,1-0,eng-league-one,6,1,0
+Oxford United,Gillingham FC,3-0,eng-league-one,6,3,0
+Peterborough United,Bradford City,1-3,eng-league-one,6,1,3
+Plymouth Argyle,Milton Keynes Dons,0-1,eng-league-one,6,0,1
+Rochdale AFC,Blackburn Rovers,0-3,eng-league-one,6,0,3
+Rotherham United,Bury FC,3-2,eng-league-one,6,3,2
+Scunthorpe United,Blackpool FC,0-0,eng-league-one,6,0,0
+Shrewsbury Town,Wigan Athletic,1-0,eng-league-one,6,1,0
+AFC Wimbledon,Gillingham FC,1-1,eng-league-one,7,1,1
+Bristol Rovers,Oldham Athletic,2-3,eng-league-one,7,2,3
+Charlton Athletic,Wigan Athletic,0-3,eng-league-one,7,0,3
+Fleetwood Town,Bury FC,3-2,eng-league-one,7,3,2
+Northampton Town,Portsmouth FC,3-1,eng-league-one,7,3,1
+Oxford United,Bradford City,2-2,eng-league-one,7,2,2
+Peterborough United,Milton Keynes Dons,2-0,eng-league-one,7,2,0
+Plymouth Argyle,Blackpool FC,1-3,eng-league-one,7,1,3
+Rochdale AFC,Doncaster Rovers,2-1,eng-league-one,7,2,1
+Rotherham United,Walsall FC,5-1,eng-league-one,7,5,1
+Scunthorpe United,Blackburn Rovers,0-1,eng-league-one,7,0,1
+Shrewsbury Town,Southend United,1-0,eng-league-one,7,1,0
+Blackburn Rovers,AFC Wimbledon,0-1,eng-league-one,8,0,1
+Blackpool FC,Oxford United,3-1,eng-league-one,8,3,1
+Bradford City,Rotherham United,1-0,eng-league-one,8,1,0
+Bury FC,Plymouth Argyle,0-0,eng-league-one,8,0,0
+Gillingham FC,Charlton Athletic,1-0,eng-league-one,8,1,0
+Milton Keynes Dons,Rochdale AFC,3-2,eng-league-one,8,3,2
+Oldham Athletic,Shrewsbury Town,1-2,eng-league-one,8,1,2
+Portsmouth FC,Fleetwood Town,4-1,eng-league-one,8,4,1
+Southend United,Northampton Town,2-2,eng-league-one,8,2,2
+Walsall FC,Peterborough United,1-1,eng-league-one,8,1,1
+Wigan Athletic,Bristol Rovers,3-0,eng-league-one,8,3,0
+Doncaster Rovers,Scunthorpe United,0-1,eng-league-one,8,0,1
+AFC Wimbledon,Milton Keynes Dons,0-2,eng-league-one,9,0,2
+Bristol Rovers,Blackpool FC,3-1,eng-league-one,9,3,1
+Charlton Athletic,Bury FC,1-1,eng-league-one,9,1,1
+Fleetwood Town,Southend United,2-4,eng-league-one,9,2,4
+Northampton Town,Bradford City,0-1,eng-league-one,9,0,1
+Oxford United,Walsall FC,1-2,eng-league-one,9,1,2
+Peterborough United,Wigan Athletic,3-2,eng-league-one,9,3,2
+Plymouth Argyle,Doncaster Rovers,0-3,eng-league-one,9,0,3
+Rochdale AFC,Gillingham FC,3-0,eng-league-one,9,3,0
+Rotherham United,Oldham Athletic,5-1,eng-league-one,9,5,1
+Scunthorpe United,Portsmouth FC,2-0,eng-league-one,9,2,0
+Shrewsbury Town,Blackburn Rovers,1-1,eng-league-one,9,1,1
+Blackburn Rovers,Rotherham United,2-0,eng-league-one,10,2,0
+Blackpool FC,Rochdale AFC,0-0,eng-league-one,10,0,0
+Bradford City,Fleetwood Town,0-3,eng-league-one,10,0,3
+Bury FC,Oxford United,3-0,eng-league-one,10,3,0
+Doncaster Rovers,Shrewsbury Town,1-2,eng-league-one,10,1,2
+Gillingham FC,Scunthorpe United,0-0,eng-league-one,10,0,0
+Milton Keynes Dons,Northampton Town,0-0,eng-league-one,10,0,0
+Oldham Athletic,Peterborough United,3-2,eng-league-one,10,3,2
+Portsmouth FC,Bristol Rovers,3-0,eng-league-one,10,3,0
+Southend United,AFC Wimbledon,1-0,eng-league-one,10,1,0
+Walsall FC,Charlton Athletic,2-2,eng-league-one,10,2,2
+Wigan Athletic,Plymouth Argyle,1-0,eng-league-one,10,1,0
+AFC Wimbledon,Rochdale AFC,0-0,eng-league-one,11,0,0
+Blackburn Rovers,Gillingham FC,1-0,eng-league-one,11,1,0
+Bradford City,Doncaster Rovers,2-0,eng-league-one,11,2,0
+Bristol Rovers,Plymouth Argyle,2-1,eng-league-one,11,2,1
+Bury FC,Milton Keynes Dons,0-2,eng-league-one,11,0,2
+Fleetwood Town,Charlton Athletic,1-3,eng-league-one,11,1,3
+Peterborough United,Oxford United,1-4,eng-league-one,11,1,4
+Portsmouth FC,Oldham Athletic,1-2,eng-league-one,11,1,2
+Rotherham United,Northampton Town,1-0,eng-league-one,11,1,0
+Shrewsbury Town,Scunthorpe United,2-0,eng-league-one,11,2,0
+Southend United,Blackpool FC,2-1,eng-league-one,11,2,1
+Wigan Athletic,Walsall FC,2-0,eng-league-one,11,2,0
+Doncaster Rovers,Southend United,4-1,eng-league-one,12,4,1
+Milton Keynes Dons,Bradford City,1-4,eng-league-one,12,1,4
+Northampton Town,Bristol Rovers,0-6,eng-league-one,12,0,6
+Oxford United,AFC Wimbledon,3-0,eng-league-one,12,3,0
+Plymouth Argyle,Fleetwood Town,1-2,eng-league-one,12,1,2
+Rochdale AFC,Rotherham United,0-1,eng-league-one,12,0,1
+Scunthorpe United,Wigan Athletic,1-2,eng-league-one,12,1,2
+Walsall FC,Shrewsbury Town,1-1,eng-league-one,12,1,1
+Gillingham FC,Portsmouth FC,0-1,eng-league-one,12,0,1
+Oldham Athletic,Bury FC,2-1,eng-league-one,12,2,1
+Blackpool FC,Blackburn Rovers,2-4,eng-league-one,12,2,4
+Charlton Athletic,Peterborough United,2-2,eng-league-one,12,2,2
+Bristol Rovers,Oxford United,0-1,eng-league-one,13,0,1
+Bury FC,Bradford City,3-1,eng-league-one,13,3,1
+Charlton Athletic,Doncaster Rovers,1-0,eng-league-one,13,1,0
+Fleetwood Town,Rochdale AFC,2-2,eng-league-one,13,2,2
+Northampton Town,AFC Wimbledon,0-1,eng-league-one,13,0,1
+Oldham Athletic,Blackburn Rovers,1-0,eng-league-one,13,1,0
+Peterborough United,Gillingham FC,0-1,eng-league-one,13,0,1
+Plymouth Argyle,Shrewsbury Town,1-1,eng-league-one,13,1,1
+Portsmouth FC,Milton Keynes Dons,2-0,eng-league-one,13,2,0
+Rotherham United,Scunthorpe United,2-0,eng-league-one,13,2,0
+Walsall FC,Blackpool FC,1-1,eng-league-one,13,1,1
+Wigan Athletic,Southend United,3-0,eng-league-one,13,3,0
+AFC Wimbledon,Rotherham United,3-1,eng-league-one,14,3,1
+Blackburn Rovers,Plymouth Argyle,1-1,eng-league-one,14,1,1
+Blackpool FC,Bury FC,2-1,eng-league-one,14,2,1
+Bradford City,Oldham Athletic,1-1,eng-league-one,14,1,1
+Doncaster Rovers,Portsmouth FC,2-1,eng-league-one,14,2,1
+Gillingham FC,Wigan Athletic,1-1,eng-league-one,14,1,1
+Milton Keynes Dons,Walsall FC,1-1,eng-league-one,14,1,1
+Oxford United,Charlton Athletic,1-1,eng-league-one,14,1,1
+Rochdale AFC,Northampton Town,2-2,eng-league-one,14,2,2
+Scunthorpe United,Fleetwood Town,1-1,eng-league-one,14,1,1
+Shrewsbury Town,Bristol Rovers,4-0,eng-league-one,14,4,0
+Southend United,Peterborough United,1-1,eng-league-one,14,1,1
+AFC Wimbledon,Plymouth Argyle,0-1,eng-league-one,15,0,1
+Blackburn Rovers,Portsmouth FC,3-0,eng-league-one,15,3,0
+Blackpool FC,Wigan Athletic,1-3,eng-league-one,15,1,3
+Bradford City,Charlton Athletic,0-1,eng-league-one,15,0,1
+Doncaster Rovers,Walsall FC,0-3,eng-league-one,15,0,3
+Gillingham FC,Northampton Town,1-2,eng-league-one,15,1,2
+Milton Keynes Dons,Oldham Athletic,4-4,eng-league-one,15,4,4
+Oxford United,Rotherham United,3-3,eng-league-one,15,3,3
+Rochdale AFC,Bristol Rovers,1-0,eng-league-one,15,1,0
+Scunthorpe United,Peterborough United,2-1,eng-league-one,15,2,1
+Shrewsbury Town,Fleetwood Town,1-0,eng-league-one,15,1,0
+Southend United,Bury FC,1-0,eng-league-one,15,1,0
+Northampton Town,Blackpool FC,1-0,eng-league-one,16,1,0
+Bristol Rovers,Milton Keynes Dons,2-0,eng-league-one,16,2,0
+Bury FC,Doncaster Rovers,0-1,eng-league-one,16,0,1
+Charlton Athletic,AFC Wimbledon,1-0,eng-league-one,16,1,0
+Fleetwood Town,Oxford United,2-0,eng-league-one,16,2,0
+Oldham Athletic,Scunthorpe United,2-3,eng-league-one,16,2,3
+Peterborough United,Shrewsbury Town,1-0,eng-league-one,16,1,0
+Plymouth Argyle,Rochdale AFC,1-1,eng-league-one,16,1,1
+Portsmouth FC,Bradford City,0-1,eng-league-one,16,0,1
+Rotherham United,Gillingham FC,1-3,eng-league-one,16,1,3
+Walsall FC,Southend United,0-1,eng-league-one,16,0,1
+Wigan Athletic,Blackburn Rovers,0-0,eng-league-one,16,0,0
+Doncaster Rovers,Rotherham United,1-1,eng-league-one,17,1,1
+Blackpool FC,Portsmouth FC,2-3,eng-league-one,17,2,3
+Bradford City,Plymouth Argyle,0-1,eng-league-one,17,0,1
+Gillingham FC,Bury FC,1-1,eng-league-one,17,1,1
+Milton Keynes Dons,Fleetwood Town,1-0,eng-league-one,17,1,0
+Oxford United,Northampton Town,1-2,eng-league-one,17,1,2
+Scunthorpe United,Bristol Rovers,1-0,eng-league-one,17,1,0
+AFC Wimbledon,Peterborough United,2-2,eng-league-one,17,2,2
+Southend United,Oldham Athletic,2-0,eng-league-one,17,2,0
+Blackburn Rovers,Walsall FC,3-1,eng-league-one,17,3,1
+Rochdale AFC,Wigan Athletic,1-4,eng-league-one,17,1,4
+Shrewsbury Town,Charlton Athletic,0-2,eng-league-one,17,0,2
+Bristol Rovers,AFC Wimbledon,1-3,eng-league-one,18,1,3
+Bury FC,Blackburn Rovers,0-3,eng-league-one,18,0,3
+Charlton Athletic,Milton Keynes Dons,2-2,eng-league-one,18,2,2
+Fleetwood Town,Doncaster Rovers,0-0,eng-league-one,18,0,0
+Northampton Town,Scunthorpe United,0-3,eng-league-one,18,0,3
+Oldham Athletic,Rochdale AFC,3-1,eng-league-one,18,3,1
+Peterborough United,Blackpool FC,0-1,eng-league-one,18,0,1
+Plymouth Argyle,Oxford United,0-4,eng-league-one,18,0,4
+Portsmouth FC,Southend United,1-0,eng-league-one,18,1,0
+Rotherham United,Shrewsbury Town,1-2,eng-league-one,18,1,2
+Walsall FC,Gillingham FC,0-1,eng-league-one,18,0,1
+Wigan Athletic,Bradford City,1-2,eng-league-one,18,1,2
+Blackpool FC,Gillingham FC,1-1,eng-league-one,19,1,1
+Bradford City,Scunthorpe United,1-2,eng-league-one,19,1,2
+Bury FC,Shrewsbury Town,1-0,eng-league-one,19,1,0
+Charlton Athletic,Rochdale AFC,2-1,eng-league-one,19,2,1
+Milton Keynes Dons,Southend United,1-1,eng-league-one,19,1,1
+Oldham Athletic,AFC Wimbledon,0-0,eng-league-one,19,0,0
+Oxford United,Blackburn Rovers,2-4,eng-league-one,19,2,4
+Peterborough United,Portsmouth FC,2-1,eng-league-one,19,2,1
+Plymouth Argyle,Northampton Town,2-0,eng-league-one,19,2,0
+Walsall FC,Fleetwood Town,4-2,eng-league-one,19,4,2
+Wigan Athletic,Doncaster Rovers,3-0,eng-league-one,19,3,0
+Bristol Rovers,Rotherham United,2-1,eng-league-one,19,2,1
+AFC Wimbledon,Walsall FC,1-2,eng-league-one,20,1,2
+Blackburn Rovers,Bristol Rovers,2-1,eng-league-one,20,2,1
+Doncaster Rovers,Milton Keynes Dons,2-1,eng-league-one,20,2,1
+Fleetwood Town,Blackpool FC,0-0,eng-league-one,20,0,0
+Gillingham FC,Oldham Athletic,0-0,eng-league-one,20,0,0
+Northampton Town,Bury FC,0-0,eng-league-one,20,0,0
+Portsmouth FC,Plymouth Argyle,1-0,eng-league-one,20,1,0
+Rochdale AFC,Peterborough United,2-0,eng-league-one,20,2,0
+Rotherham United,Wigan Athletic,1-3,eng-league-one,20,1,3
+Scunthorpe United,Charlton Athletic,2-0,eng-league-one,20,2,0
+Shrewsbury Town,Bradford City,0-1,eng-league-one,20,0,1
+Southend United,Oxford United,1-1,eng-league-one,20,1,1
+Blackpool FC,Rotherham United,1-2,eng-league-one,21,1,2
+Bradford City,Rochdale AFC,4-3,eng-league-one,21,4,3
+Bristol Rovers,Southend United,3-0,eng-league-one,21,3,0
+Charlton Athletic,Portsmouth FC,0-1,eng-league-one,21,0,1
+Milton Keynes Dons,Shrewsbury Town,1-1,eng-league-one,21,1,1
+Oldham Athletic,Northampton Town,5-1,eng-league-one,21,5,1
+Oxford United,Doncaster Rovers,1-0,eng-league-one,21,1,0
+Peterborough United,Blackburn Rovers,2-3,eng-league-one,21,2,3
+Plymouth Argyle,Gillingham FC,2-1,eng-league-one,21,2,1
+Walsall FC,Scunthorpe United,1-0,eng-league-one,21,1,0
+Wigan Athletic,Fleetwood Town,2-0,eng-league-one,21,2,0
+Bury FC,AFC Wimbledon,2-1,eng-league-one,21,2,1
+AFC Wimbledon,Wigan Athletic,0-4,eng-league-one,22,0,4
+Blackburn Rovers,Charlton Athletic,2-0,eng-league-one,22,2,0
+Doncaster Rovers,Oldham Athletic,1-1,eng-league-one,22,1,1
+Gillingham FC,Bristol Rovers,4-1,eng-league-one,22,4,1
+Northampton Town,Walsall FC,2-1,eng-league-one,22,2,1
+Portsmouth FC,Bury FC,1-0,eng-league-one,22,1,0
+Rochdale AFC,Oxford United,0-0,eng-league-one,22,0,0
+Rotherham United,Plymouth Argyle,1-1,eng-league-one,22,1,1
+Scunthorpe United,Milton Keynes Dons,2-2,eng-league-one,22,2,2
+Shrewsbury Town,Blackpool FC,1-0,eng-league-one,22,1,0
+Southend United,Bradford City,1-2,eng-league-one,22,1,2
+Fleetwood Town,Peterborough United,2-3,eng-league-one,22,2,3
+Fleetwood Town,Gillingham FC,0-2,eng-league-one,23,0,2
+Northampton Town,Blackburn Rovers,1-1,eng-league-one,23,1,1
+AFC Wimbledon,Bradford City,2-1,eng-league-one,23,2,1
+Bristol Rovers,Doncaster Rovers,0-1,eng-league-one,23,0,1
+Charlton Athletic,Blackpool FC,1-1,eng-league-one,23,1,1
+Oxford United,Wigan Athletic,0-7,eng-league-one,23,0,7
+Peterborough United,Bury FC,3-0,eng-league-one,23,3,0
+Plymouth Argyle,Oldham Athletic,4-1,eng-league-one,23,4,1
+Rochdale AFC,Walsall FC,1-1,eng-league-one,23,1,1
+Rotherham United,Milton Keynes Dons,2-1,eng-league-one,23,2,1
+Scunthorpe United,Southend United,3-1,eng-league-one,23,3,1
+Shrewsbury Town,Portsmouth FC,2-0,eng-league-one,23,2,0
+Gillingham FC,Oxford United,1-1,eng-league-one,24,1,1
+Southend United,Charlton Athletic,3-1,eng-league-one,24,3,1
+Blackburn Rovers,Rochdale AFC,2-0,eng-league-one,24,2,0
+Blackpool FC,Scunthorpe United,2-3,eng-league-one,24,2,3
+Bradford City,Peterborough United,1-3,eng-league-one,24,1,3
+Bury FC,Rotherham United,0-3,eng-league-one,24,0,3
+Doncaster Rovers,Northampton Town,3-0,eng-league-one,24,3,0
+Milton Keynes Dons,Plymouth Argyle,0-1,eng-league-one,24,0,1
+Oldham Athletic,Fleetwood Town,1-2,eng-league-one,24,1,2
+Portsmouth FC,AFC Wimbledon,2-1,eng-league-one,24,2,1
+Walsall FC,Bristol Rovers,0-0,eng-league-one,24,0,0
+Wigan Athletic,Shrewsbury Town,0-0,eng-league-one,24,0,0
+Doncaster Rovers,Rochdale AFC,2-0,eng-league-one,25,2,0
+Wigan Athletic,Charlton Athletic,0-0,eng-league-one,25,0,0
+Blackburn Rovers,Scunthorpe United,2-2,eng-league-one,25,2,2
+Blackpool FC,Plymouth Argyle,2-2,eng-league-one,25,2,2
+Bradford City,Oxford United,3-2,eng-league-one,25,3,2
+Bury FC,Fleetwood Town,0-2,eng-league-one,25,0,2
+Gillingham FC,AFC Wimbledon,2-2,eng-league-one,25,2,2
+Milton Keynes Dons,Peterborough United,1-0,eng-league-one,25,1,0
+Oldham Athletic,Bristol Rovers,1-1,eng-league-one,25,1,1
+Portsmouth FC,Northampton Town,3-1,eng-league-one,25,3,1
+Southend United,Shrewsbury Town,1-2,eng-league-one,25,1,2
+Walsall FC,Rotherham United,1-2,eng-league-one,25,1,2
+AFC Wimbledon,Southend United,2-0,eng-league-one,26,2,0
+Bristol Rovers,Portsmouth FC,2-1,eng-league-one,26,2,1
+Charlton Athletic,Gillingham FC,1-2,eng-league-one,26,1,2
+Fleetwood Town,Bradford City,1-2,eng-league-one,26,1,2
+Northampton Town,Wigan Athletic,0-1,eng-league-one,26,0,1
+Oxford United,Milton Keynes Dons,3-1,eng-league-one,26,3,1
+Peterborough United,Doncaster Rovers,1-1,eng-league-one,26,1,1
+Plymouth Argyle,Walsall FC,1-0,eng-league-one,26,1,0
+Rochdale AFC,Blackpool FC,1-2,eng-league-one,26,1,2
+Rotherham United,Blackburn Rovers,1-1,eng-league-one,26,1,1
+Scunthorpe United,Bury FC,1-0,eng-league-one,26,1,0
+Shrewsbury Town,Oldham Athletic,1-0,eng-league-one,26,1,0
+Northampton Town,Southend United,3-1,eng-league-one,27,3,1
+Charlton Athletic,Oldham Athletic,1-0,eng-league-one,27,1,0
+Oxford United,Blackpool FC,1-0,eng-league-one,27,1,0
+Plymouth Argyle,Bury FC,3-0,eng-league-one,27,3,0
+Rotherham United,Bradford City,2-0,eng-league-one,27,2,0
+Scunthorpe United,Doncaster Rovers,1-1,eng-league-one,27,1,1
+Fleetwood Town,Portsmouth FC,1-2,eng-league-one,27,1,2
+Shrewsbury Town,Gillingham FC,1-1,eng-league-one,27,1,1
+Rochdale AFC,Milton Keynes Dons,0-0,eng-league-one,27,0,0
+AFC Wimbledon,Blackburn Rovers,0-3,eng-league-one,27,0,3
+Peterborough United,Walsall FC,2-1,eng-league-one,27,2,1
+Bristol Rovers,Wigan Athletic,1-1,eng-league-one,27,1,1
+Blackburn Rovers,Shrewsbury Town,3-1,eng-league-one,28,3,1
+Blackpool FC,Bristol Rovers,0-0,eng-league-one,28,0,0
+Bradford City,Northampton Town,1-2,eng-league-one,28,1,2
+Bury FC,Charlton Athletic,0-1,eng-league-one,28,0,1
+Doncaster Rovers,Plymouth Argyle,1-1,eng-league-one,28,1,1
+Gillingham FC,Rochdale AFC,2-1,eng-league-one,28,2,1
+Milton Keynes Dons,AFC Wimbledon,0-0,eng-league-one,28,0,0
+Oldham Athletic,Rotherham United,1-1,eng-league-one,28,1,1
+Portsmouth FC,Scunthorpe United,1-1,eng-league-one,28,1,1
+Southend United,Fleetwood Town,1-2,eng-league-one,28,1,2
+Walsall FC,Oxford United,2-1,eng-league-one,28,2,1
+Wigan Athletic,Peterborough United,0-0,eng-league-one,28,0,0
+AFC Wimbledon,Blackpool FC,2-0,eng-league-one,29,2,0
+Bristol Rovers,Bradford City,3-1,eng-league-one,29,3,1
+Charlton Athletic,Walsall FC,3-1,eng-league-one,29,3,1
+Fleetwood Town,Blackburn Rovers,1-2,eng-league-one,29,1,2
+Northampton Town,Milton Keynes Dons,2-1,eng-league-one,29,2,1
+Oxford United,Bury FC,1-2,eng-league-one,29,1,2
+Peterborough United,Oldham Athletic,3-0,eng-league-one,29,3,0
+Plymouth Argyle,Wigan Athletic,1-3,eng-league-one,29,1,3
+Rotherham United,Portsmouth FC,1-0,eng-league-one,29,1,0
+Scunthorpe United,Gillingham FC,1-3,eng-league-one,29,1,3
+Shrewsbury Town,Doncaster Rovers,2-2,eng-league-one,29,2,2
+Rochdale AFC,Southend United,0-0,eng-league-one,29,0,0
+Blackburn Rovers,Northampton Town,1-1,eng-league-one,30,1,1
+Bradford City,AFC Wimbledon,0-4,eng-league-one,30,0,4
+Doncaster Rovers,Bristol Rovers,1-3,eng-league-one,30,1,3
+Gillingham FC,Fleetwood Town,2-1,eng-league-one,30,2,1
+Oldham Athletic,Plymouth Argyle,1-2,eng-league-one,30,1,2
+Portsmouth FC,Shrewsbury Town,0-1,eng-league-one,30,0,1
+Southend United,Scunthorpe United,3-2,eng-league-one,30,3,2
+Walsall FC,Rochdale AFC,0-3,eng-league-one,30,0,3
+Blackpool FC,Charlton Athletic,1-0,eng-league-one,30,1,0
+Bury FC,Peterborough United,0-1,eng-league-one,30,0,1
+Milton Keynes Dons,Rotherham United,3-2,eng-league-one,30,3,2
+Wigan Athletic,Oxford United,1-0,eng-league-one,30,1,0
+Bristol Rovers,Shrewsbury Town,1-2,eng-league-one,31,1,2
+Bury FC,Blackpool FC,1-1,eng-league-one,31,1,1
+Charlton Athletic,Oxford United,2-3,eng-league-one,31,2,3
+Fleetwood Town,Scunthorpe United,2-3,eng-league-one,31,2,3
+Northampton Town,Rochdale AFC,0-1,eng-league-one,31,0,1
+Oldham Athletic,Bradford City,2-1,eng-league-one,31,2,1
+Peterborough United,Southend United,0-1,eng-league-one,31,0,1
+Plymouth Argyle,Blackburn Rovers,2-0,eng-league-one,31,2,0
+Portsmouth FC,Doncaster Rovers,2-2,eng-league-one,31,2,2
+Rotherham United,AFC Wimbledon,2-0,eng-league-one,31,2,0
+Walsall FC,Milton Keynes Dons,1-0,eng-league-one,31,1,0
+Wigan Athletic,Gillingham FC,2-0,eng-league-one,31,2,0
+AFC Wimbledon,Northampton Town,1-3,eng-league-one,32,1,3
+Blackburn Rovers,Oldham Athletic,2-2,eng-league-one,32,2,2
+Blackpool FC,Walsall FC,2-2,eng-league-one,32,2,2
+Bradford City,Bury FC,2-2,eng-league-one,32,2,2
+Doncaster Rovers,Charlton Athletic,1-1,eng-league-one,32,1,1
+Gillingham FC,Peterborough United,1-1,eng-league-one,32,1,1
+Milton Keynes Dons,Portsmouth FC,1-2,eng-league-one,32,1,2
+Oxford United,Bristol Rovers,1-2,eng-league-one,32,1,2
+Scunthorpe United,Rotherham United,1-2,eng-league-one,32,1,2
+Shrewsbury Town,Plymouth Argyle,1-2,eng-league-one,32,1,2
+Southend United,Wigan Athletic,3-1,eng-league-one,32,3,1
+Rochdale AFC,Fleetwood Town,0-2,eng-league-one,32,0,2
+Bristol Rovers,Rochdale AFC,3-2,eng-league-one,33,3,2
+Bury FC,Southend United,0-0,eng-league-one,33,0,0
+Charlton Athletic,Bradford City,1-1,eng-league-one,33,1,1
+Fleetwood Town,Shrewsbury Town,1-2,eng-league-one,33,1,2
+Northampton Town,Gillingham FC,1-2,eng-league-one,33,1,2
+Oldham Athletic,Milton Keynes Dons,1-0,eng-league-one,33,1,0
+Peterborough United,Scunthorpe United,2-2,eng-league-one,33,2,2
+Plymouth Argyle,AFC Wimbledon,4-2,eng-league-one,33,4,2
+Portsmouth FC,Blackburn Rovers,1-2,eng-league-one,33,1,2
+Rotherham United,Oxford United,3-1,eng-league-one,33,3,1
+Walsall FC,Doncaster Rovers,4-2,eng-league-one,33,4,2
+Wigan Athletic,Blackpool FC,0-2,eng-league-one,33,0,2
+AFC Wimbledon,Bristol Rovers,1-0,eng-league-one,34,1,0
+Doncaster Rovers,Fleetwood Town,3-0,eng-league-one,34,3,0
+Gillingham FC,Walsall FC,0-0,eng-league-one,34,0,0
+Milton Keynes Dons,Charlton Athletic,1-2,eng-league-one,34,1,2
+Oxford United,Plymouth Argyle,0-1,eng-league-one,34,0,1
+Scunthorpe United,Northampton Town,2-2,eng-league-one,34,2,2
+Shrewsbury Town,Rotherham United,0-1,eng-league-one,34,0,1
+Southend United,Portsmouth FC,3-1,eng-league-one,34,3,1
+Blackpool FC,Peterborough United,1-1,eng-league-one,34,1,1
+Blackburn Rovers,Bury FC,2-0,eng-league-one,34,2,0
+Bradford City,Wigan Athletic,0-1,eng-league-one,34,0,1
+Rochdale AFC,Oldham Athletic,0-0,eng-league-one,34,0,0
+Bristol Rovers,Scunthorpe United,1-1,eng-league-one,35,1,1
+Bury FC,Gillingham FC,2-1,eng-league-one,35,2,1
+Charlton Athletic,Shrewsbury Town,0-2,eng-league-one,35,0,2
+Fleetwood Town,Milton Keynes Dons,1-1,eng-league-one,35,1,1
+Northampton Town,Oxford United,0-0,eng-league-one,35,0,0
+Peterborough United,AFC Wimbledon,1-1,eng-league-one,35,1,1
+Plymouth Argyle,Bradford City,1-0,eng-league-one,35,1,0
+Portsmouth FC,Blackpool FC,0-2,eng-league-one,35,0,2
+Rotherham United,Doncaster Rovers,2-1,eng-league-one,35,2,1
+Walsall FC,Blackburn Rovers,1-2,eng-league-one,35,1,2
+Wigan Athletic,Rochdale AFC,1-0,eng-league-one,35,1,0
+Oldham Athletic,Southend United,0-3,eng-league-one,35,0,3
+Milton Keynes Dons,Bristol Rovers,0-1,eng-league-one,36,0,1
+Scunthorpe United,Oldham Athletic,0-2,eng-league-one,36,0,2
+Southend United,Walsall FC,0-3,eng-league-one,36,0,3
+Blackburn Rovers,Wigan Athletic,2-2,eng-league-one,36,2,2
+AFC Wimbledon,Charlton Athletic,1-0,eng-league-one,36,1,0
+Blackpool FC,Northampton Town,3-0,eng-league-one,36,3,0
+Oxford United,Fleetwood Town,0-1,eng-league-one,36,0,1
+Bradford City,Portsmouth FC,3-1,eng-league-one,36,3,1
+Doncaster Rovers,Bury FC,3-3,eng-league-one,36,3,3
+Gillingham FC,Rotherham United,0-1,eng-league-one,36,0,1
+Rochdale AFC,Plymouth Argyle,1-1,eng-league-one,36,1,1
+Shrewsbury Town,Peterborough United,3-1,eng-league-one,36,3,1
+AFC Wimbledon,Oxford United,2-1,eng-league-one,37,2,1
+Blackburn Rovers,Blackpool FC,3-0,eng-league-one,37,3,0
+Bristol Rovers,Northampton Town,1-1,eng-league-one,37,1,1
+Bury FC,Oldham Athletic,2-2,eng-league-one,37,2,2
+Fleetwood Town,Plymouth Argyle,1-1,eng-league-one,37,1,1
+Peterborough United,Charlton Athletic,4-1,eng-league-one,37,4,1
+Portsmouth FC,Gillingham FC,1-3,eng-league-one,37,1,3
+Rotherham United,Rochdale AFC,0-1,eng-league-one,37,0,1
+Shrewsbury Town,Walsall FC,2-0,eng-league-one,37,2,0
+Southend United,Doncaster Rovers,0-0,eng-league-one,37,0,0
+Wigan Athletic,Scunthorpe United,3-3,eng-league-one,37,3,3
+Bradford City,Milton Keynes Dons,2-0,eng-league-one,37,2,0
+Blackpool FC,Southend United,1-1,eng-league-one,38,1,1
+Charlton Athletic,Fleetwood Town,0-0,eng-league-one,38,0,0
+Milton Keynes Dons,Bury FC,2-1,eng-league-one,38,2,1
+Northampton Town,Rotherham United,0-3,eng-league-one,38,0,3
+Oldham Athletic,Portsmouth FC,0-2,eng-league-one,38,0,2
+Oxford United,Peterborough United,2-1,eng-league-one,38,2,1
+Plymouth Argyle,Bristol Rovers,3-2,eng-league-one,38,3,2
+Rochdale AFC,AFC Wimbledon,1-1,eng-league-one,38,1,1
+Scunthorpe United,Shrewsbury Town,1-2,eng-league-one,38,1,2
+Doncaster Rovers,Bradford City,2-0,eng-league-one,38,2,0
+Walsall FC,Wigan Athletic,0-3,eng-league-one,38,0,3
+Gillingham FC,Blackburn Rovers,0-0,eng-league-one,38,0,0
+Bradford City,Gillingham FC,1-0,eng-league-one,39,1,0
+Bury FC,Wigan Athletic,0-2,eng-league-one,39,0,2
+Charlton Athletic,Plymouth Argyle,2-0,eng-league-one,39,2,0
+Fleetwood Town,Northampton Town,2-0,eng-league-one,39,2,0
+Milton Keynes Dons,Blackpool FC,0-0,eng-league-one,39,0,0
+Peterborough United,Bristol Rovers,1-1,eng-league-one,39,1,1
+Scunthorpe United,Rochdale AFC,1-1,eng-league-one,39,1,1
+Shrewsbury Town,AFC Wimbledon,1-0,eng-league-one,39,1,0
+Southend United,Rotherham United,2-0,eng-league-one,39,2,0
+Portsmouth FC,Oxford United,3-0,eng-league-one,39,3,0
+Oldham Athletic,Walsall FC,1-1,eng-league-one,39,1,1
+Doncaster Rovers,Blackburn Rovers,0-1,eng-league-one,39,0,1
+Blackburn Rovers,Bradford City,2-0,eng-league-one,40,2,0
+Gillingham FC,Milton Keynes Dons,1-2,eng-league-one,40,1,2
+Oxford United,Scunthorpe United,1-1,eng-league-one,40,1,1
+Wigan Athletic,Oldham Athletic,3-0,eng-league-one,40,3,0
+AFC Wimbledon,Fleetwood Town,0-1,eng-league-one,40,0,1
+Blackpool FC,Doncaster Rovers,1-2,eng-league-one,40,1,2
+Bristol Rovers,Bury FC,2-1,eng-league-one,40,2,1
+Northampton Town,Charlton Athletic,0-4,eng-league-one,40,0,4
+Plymouth Argyle,Southend United,4-0,eng-league-one,40,4,0
+Rochdale AFC,Shrewsbury Town,3-1,eng-league-one,40,3,1
+Rotherham United,Peterborough United,1-1,eng-league-one,40,1,1
+Walsall FC,Portsmouth FC,0-1,eng-league-one,40,0,1
+Charlton Athletic,Rotherham United,3-1,eng-league-one,41,3,1
+Fleetwood Town,Bristol Rovers,2-0,eng-league-one,41,2,0
+Milton Keynes Dons,Blackburn Rovers,1-2,eng-league-one,41,1,2
+Oldham Athletic,Blackpool FC,2-1,eng-league-one,41,2,1
+Peterborough United,Northampton Town,2-0,eng-league-one,41,2,0
+Shrewsbury Town,Oxford United,3-2,eng-league-one,41,3,2
+Southend United,Gillingham FC,4-0,eng-league-one,41,4,0
+Portsmouth FC,Wigan Athletic,2-1,eng-league-one,41,2,1
+Bury FC,Rochdale AFC,0-2,eng-league-one,41,0,2
+Bradford City,Walsall FC,1-1,eng-league-one,41,1,1
+Doncaster Rovers,AFC Wimbledon,0-0,eng-league-one,41,0,0
+Scunthorpe United,Plymouth Argyle,2-0,eng-league-one,41,2,0
+Northampton Town,Shrewsbury Town,1-1,eng-league-one,42,1,1
+AFC Wimbledon,Scunthorpe United,1-1,eng-league-one,42,1,1
+Blackburn Rovers,Southend United,1-0,eng-league-one,42,1,0
+Blackpool FC,Bradford City,5-0,eng-league-one,42,5,0
+Bristol Rovers,Charlton Athletic,1-1,eng-league-one,42,1,1
+Gillingham FC,Doncaster Rovers,0-0,eng-league-one,42,0,0
+Oxford United,Oldham Athletic,0-0,eng-league-one,42,0,0
+Plymouth Argyle,Peterborough United,2-1,eng-league-one,42,2,1
+Rochdale AFC,Portsmouth FC,3-3,eng-league-one,42,3,3
+Rotherham United,Fleetwood Town,3-2,eng-league-one,42,3,2
+Walsall FC,Bury FC,1-0,eng-league-one,42,1,0
+Wigan Athletic,Milton Keynes Dons,5-1,eng-league-one,42,5,1
+Bradford City,Shrewsbury Town,0-0,eng-league-one,43,0,0
+Blackpool FC,Fleetwood Town,2-1,eng-league-one,43,2,1
+Bristol Rovers,Blackburn Rovers,1-1,eng-league-one,43,1,1
+Bury FC,Northampton Town,2-3,eng-league-one,43,2,3
+Charlton Athletic,Scunthorpe United,0-1,eng-league-one,43,0,1
+Milton Keynes Dons,Doncaster Rovers,1-2,eng-league-one,43,1,2
+Oldham Athletic,Gillingham FC,1-1,eng-league-one,43,1,1
+Oxford United,Southend United,2-0,eng-league-one,43,2,0
+Peterborough United,Rochdale AFC,0-1,eng-league-one,43,0,1
+Plymouth Argyle,Portsmouth FC,0-0,eng-league-one,43,0,0
+Walsall FC,AFC Wimbledon,2-3,eng-league-one,43,2,3
+Wigan Athletic,Rotherham United,0-0,eng-league-one,43,0,0
+Blackburn Rovers,Peterborough United,3-1,eng-league-one,44,3,1
+AFC Wimbledon,Oldham Athletic,2-2,eng-league-one,44,2,2
+Doncaster Rovers,Oxford United,0-1,eng-league-one,44,0,1
+Fleetwood Town,Wigan Athletic,0-4,eng-league-one,44,0,4
+Gillingham FC,Blackpool FC,0-3,eng-league-one,44,0,3
+Northampton Town,Plymouth Argyle,2-0,eng-league-one,44,2,0
+Portsmouth FC,Charlton Athletic,0-1,eng-league-one,44,0,1
+Rochdale AFC,Bradford City,1-1,eng-league-one,44,1,1
+Rotherham United,Bristol Rovers,2-0,eng-league-one,44,2,0
+Scunthorpe United,Walsall FC,1-0,eng-league-one,44,1,0
+Shrewsbury Town,Bury FC,1-1,eng-league-one,44,1,1
+Southend United,Milton Keynes Dons,4-0,eng-league-one,44,4,0
+Blackpool FC,Shrewsbury Town,1-1,eng-league-one,45,1,1
+Bradford City,Southend United,0-2,eng-league-one,45,0,2
+Bristol Rovers,Gillingham FC,1-1,eng-league-one,45,1,1
+Bury FC,Portsmouth FC,1-0,eng-league-one,45,1,0
+Charlton Athletic,Blackburn Rovers,1-0,eng-league-one,45,1,0
+Milton Keynes Dons,Scunthorpe United,0-2,eng-league-one,45,0,2
+Oldham Athletic,Doncaster Rovers,0-0,eng-league-one,45,0,0
+Oxford United,Rochdale AFC,2-1,eng-league-one,45,2,1
+Peterborough United,Fleetwood Town,2-0,eng-league-one,45,2,0
+Plymouth Argyle,Rotherham United,2-1,eng-league-one,45,2,1
+Walsall FC,Northampton Town,1-0,eng-league-one,45,1,0
+Wigan Athletic,AFC Wimbledon,1-1,eng-league-one,45,1,1
+AFC Wimbledon,Bury FC,2-2,eng-league-one,46,2,2
+Blackburn Rovers,Oxford United,2-1,eng-league-one,46,2,1
+Doncaster Rovers,Wigan Athletic,0-1,eng-league-one,46,0,1
+Fleetwood Town,Walsall FC,2-0,eng-league-one,46,2,0
+Gillingham FC,Plymouth Argyle,5-2,eng-league-one,46,5,2
+Northampton Town,Oldham Athletic,2-2,eng-league-one,46,2,2
+Portsmouth FC,Peterborough United,2-0,eng-league-one,46,2,0
+Rochdale AFC,Charlton Athletic,1-0,eng-league-one,46,1,0
+Rotherham United,Blackpool FC,1-0,eng-league-one,46,1,0
+Scunthorpe United,Bradford City,1-1,eng-league-one,46,1,1
+Shrewsbury Town,Milton Keynes Dons,0-1,eng-league-one,46,0,1
+Southend United,Bristol Rovers,0-0,eng-league-one,46,0,0
+Accrington Stanley,Colchester United,3-1,eng-league-two,1,3,1
+Carlisle United,Swindon Town,1-2,eng-league-two,1,1,2
+Chesterfield FC,Grimsby Town,1-3,eng-league-two,1,1,3
+Coventry City,Notts County,3-0,eng-league-two,1,3,0
+Crawley Town,Port Vale FC,1-3,eng-league-two,1,1,3
+Crewe Alexandra,Mansfield Town,2-2,eng-league-two,1,2,2
+Exeter City,Cambridge United,1-0,eng-league-two,1,1,0
+Forest Green Rovers,Barnet FC,2-2,eng-league-two,1,2,2
+Luton Town,Yeovil Town,8-2,eng-league-two,1,8,2
+Morecambe FC,Cheltenham Town,2-1,eng-league-two,1,2,1
+Stevenage FC,Newport County,3-3,eng-league-two,1,3,3
+Wycombe Wanderers,Lincoln City,2-2,eng-league-two,1,2,2
+Barnet FC,Luton Town,1-0,eng-league-two,2,1,0
+Cambridge United,Carlisle United,1-2,eng-league-two,2,1,2
+Cheltenham Town,Crawley Town,1-0,eng-league-two,2,1,0
+Colchester United,Stevenage FC,1-1,eng-league-two,2,1,1
+Grimsby Town,Coventry City,0-2,eng-league-two,2,0,2
+Lincoln City,Morecambe FC,1-1,eng-league-two,2,1,1
+Mansfield Town,Forest Green Rovers,2-0,eng-league-two,2,2,0
+Crewe Alexandra,Newport County,1-1,eng-league-two,2,1,1
+Notts County,Chesterfield FC,2-0,eng-league-two,2,2,0
+Port Vale FC,Wycombe Wanderers,2-3,eng-league-two,2,2,3
+Swindon Town,Exeter City,1-1,eng-league-two,2,1,1
+Yeovil Town,Accrington Stanley,3-2,eng-league-two,2,3,2
+Accrington Stanley,Mansfield Town,2-1,eng-league-two,3,2,1
+Carlisle United,Cheltenham Town,3-0,eng-league-two,3,3,0
+Chesterfield FC,Port Vale FC,2-0,eng-league-two,3,2,0
+Coventry City,Newport County,0-1,eng-league-two,3,0,1
+Crawley Town,Cambridge United,0-1,eng-league-two,3,0,1
+Crewe Alexandra,Barnet FC,1-0,eng-league-two,3,1,0
+Exeter City,Lincoln City,1-0,eng-league-two,3,1,0
+Forest Green Rovers,Yeovil Town,4-3,eng-league-two,3,4,3
+Luton Town,Colchester United,3-0,eng-league-two,3,3,0
+Morecambe FC,Swindon Town,0-1,eng-league-two,3,0,1
+Stevenage FC,Grimsby Town,3-1,eng-league-two,3,3,1
+Wycombe Wanderers,Notts County,2-4,eng-league-two,3,2,4
+Notts County,Accrington Stanley,2-2,eng-league-two,4,2,2
+Barnet FC,Stevenage FC,0-1,eng-league-two,4,0,1
+Cambridge United,Morecambe FC,0-0,eng-league-two,4,0,0
+Cheltenham Town,Exeter City,3-4,eng-league-two,4,3,4
+Colchester United,Forest Green Rovers,5-1,eng-league-two,4,5,1
+Grimsby Town,Wycombe Wanderers,2-3,eng-league-two,4,2,3
+Lincoln City,Carlisle United,4-1,eng-league-two,4,4,1
+Mansfield Town,Luton Town,2-2,eng-league-two,4,2,2
+Newport County,Chesterfield FC,4-1,eng-league-two,4,4,1
+Port Vale FC,Crewe Alexandra,0-1,eng-league-two,4,0,1
+Swindon Town,Crawley Town,0-3,eng-league-two,4,0,3
+Yeovil Town,Coventry City,2-0,eng-league-two,4,2,0
+Cambridge United,Colchester United,1-0,eng-league-two,5,1,0
+Carlisle United,Mansfield Town,1-1,eng-league-two,5,1,1
+Cheltenham Town,Stevenage FC,0-1,eng-league-two,5,0,1
+Chesterfield FC,Coventry City,0-0,eng-league-two,5,0,0
+Crawley Town,Yeovil Town,2-0,eng-league-two,5,2,0
+Exeter City,Newport County,1-0,eng-league-two,5,1,0
+Grimsby Town,Crewe Alexandra,1-0,eng-league-two,5,1,0
+Lincoln City,Luton Town,0-0,eng-league-two,5,0,0
+Morecambe FC,Accrington Stanley,1-2,eng-league-two,5,1,2
+Port Vale FC,Notts County,0-1,eng-league-two,5,0,1
+Swindon Town,Barnet FC,1-4,eng-league-two,5,1,4
+Wycombe Wanderers,Forest Green Rovers,3-1,eng-league-two,5,3,1
+Mansfield Town,Grimsby Town,4-1,eng-league-two,6,4,1
+Accrington Stanley,Carlisle United,3-0,eng-league-two,6,3,0
+Barnet FC,Cambridge United,3-1,eng-league-two,6,3,1
+Colchester United,Crawley Town,3-1,eng-league-two,6,3,1
+Coventry City,Port Vale FC,1-0,eng-league-two,6,1,0
+Crewe Alexandra,Chesterfield FC,5-1,eng-league-two,6,5,1
+Forest Green Rovers,Exeter City,1-3,eng-league-two,6,1,3
+Luton Town,Swindon Town,0-3,eng-league-two,6,0,3
+Newport County,Wycombe Wanderers,0-0,eng-league-two,6,0,0
+Notts County,Morecambe FC,2-0,eng-league-two,6,2,0
+Stevenage FC,Lincoln City,1-2,eng-league-two,6,1,2
+Yeovil Town,Cheltenham Town,0-0,eng-league-two,6,0,0
+Accrington Stanley,Grimsby Town,1-2,eng-league-two,7,1,2
+Colchester United,Chesterfield FC,1-1,eng-league-two,7,1,1
+Coventry City,Carlisle United,2-0,eng-league-two,7,2,0
+Crewe Alexandra,Cambridge United,0-1,eng-league-two,7,0,1
+Forest Green Rovers,Lincoln City,0-1,eng-league-two,7,0,1
+Luton Town,Port Vale FC,2-0,eng-league-two,7,2,0
+Mansfield Town,Wycombe Wanderers,0-0,eng-league-two,7,0,0
+Newport County,Cheltenham Town,1-0,eng-league-two,7,1,0
+Notts County,Swindon Town,1-0,eng-league-two,7,1,0
+Stevenage FC,Crawley Town,1-1,eng-league-two,7,1,1
+Yeovil Town,Morecambe FC,2-2,eng-league-two,7,2,2
+Barnet FC,Exeter City,1-2,eng-league-two,7,1,2
+Lincoln City,Mansfield Town,0-1,eng-league-two,8,0,1
+Cambridge United,Coventry City,2-1,eng-league-two,8,2,1
+Carlisle United,Barnet FC,1-1,eng-league-two,8,1,1
+Cheltenham Town,Colchester United,3-1,eng-league-two,8,3,1
+Chesterfield FC,Accrington Stanley,1-2,eng-league-two,8,1,2
+Crawley Town,Notts County,0-1,eng-league-two,8,0,1
+Exeter City,Crewe Alexandra,3-0,eng-league-two,8,3,0
+Grimsby Town,Yeovil Town,2-1,eng-league-two,8,2,1
+Morecambe FC,Newport County,2-1,eng-league-two,8,2,1
+Port Vale FC,Forest Green Rovers,1-1,eng-league-two,8,1,1
+Swindon Town,Stevenage FC,3-2,eng-league-two,8,3,2
+Wycombe Wanderers,Luton Town,1-2,eng-league-two,8,1,2
+Forest Green Rovers,Swindon Town,0-2,eng-league-two,9,0,2
+Accrington Stanley,Cheltenham Town,1-1,eng-league-two,9,1,1
+Barnet FC,Crawley Town,1-2,eng-league-two,9,1,2
+Colchester United,Wycombe Wanderers,1-2,eng-league-two,9,1,2
+Coventry City,Exeter City,2-0,eng-league-two,9,2,0
+Crewe Alexandra,Carlisle United,0-5,eng-league-two,9,0,5
+Luton Town,Chesterfield FC,1-0,eng-league-two,9,1,0
+Mansfield Town,Cambridge United,2-1,eng-league-two,9,2,1
+Newport County,Grimsby Town,1-0,eng-league-two,9,1,0
+Notts County,Lincoln City,4-1,eng-league-two,9,4,1
+Stevenage FC,Morecambe FC,2-1,eng-league-two,9,2,1
+Yeovil Town,Port Vale FC,1-1,eng-league-two,9,1,1
+Cambridge United,Forest Green Rovers,3-0,eng-league-two,10,3,0
+Carlisle United,Stevenage FC,0-2,eng-league-two,10,0,2
+Cheltenham Town,Mansfield Town,3-0,eng-league-two,10,3,0
+Chesterfield FC,Yeovil Town,2-3,eng-league-two,10,2,3
+Crawley Town,Newport County,1-2,eng-league-two,10,1,2
+Exeter City,Notts County,0-3,eng-league-two,10,0,3
+Grimsby Town,Colchester United,2-2,eng-league-two,10,2,2
+Lincoln City,Barnet FC,2-1,eng-league-two,10,2,1
+Morecambe FC,Luton Town,0-0,eng-league-two,10,0,0
+Port Vale FC,Accrington Stanley,1-2,eng-league-two,10,1,2
+Swindon Town,Coventry City,1-2,eng-league-two,10,1,2
+Wycombe Wanderers,Crewe Alexandra,3-2,eng-league-two,10,3,2
+Grimsby Town,Lincoln City,0-0,eng-league-two,11,0,0
+Mansfield Town,Notts County,3-1,eng-league-two,11,3,1
+Chesterfield FC,Cheltenham Town,0-2,eng-league-two,11,0,2
+Coventry City,Crewe Alexandra,1-0,eng-league-two,11,1,0
+Crawley Town,Carlisle United,0-1,eng-league-two,11,0,1
+Exeter City,Morecambe FC,4-1,eng-league-two,11,4,1
+Forest Green Rovers,Accrington Stanley,0-1,eng-league-two,11,0,1
+Luton Town,Newport County,3-1,eng-league-two,11,3,1
+Stevenage FC,Port Vale FC,2-0,eng-league-two,11,2,0
+Swindon Town,Cambridge United,2-0,eng-league-two,11,2,0
+Wycombe Wanderers,Barnet FC,3-1,eng-league-two,11,3,1
+Yeovil Town,Colchester United,0-1,eng-league-two,11,0,1
+Barnet FC,Coventry City,0-0,eng-league-two,12,0,0
+Accrington Stanley,Luton Town,0-2,eng-league-two,12,0,2
+Cambridge United,Wycombe Wanderers,1-3,eng-league-two,12,1,3
+Carlisle United,Exeter City,0-1,eng-league-two,12,0,1
+Cheltenham Town,Swindon Town,2-1,eng-league-two,12,2,1
+Colchester United,Mansfield Town,2-0,eng-league-two,12,2,0
+Crewe Alexandra,Stevenage FC,1-0,eng-league-two,12,1,0
+Lincoln City,Chesterfield FC,2-1,eng-league-two,12,2,1
+Morecambe FC,Crawley Town,0-1,eng-league-two,12,0,1
+Newport County,Yeovil Town,2-0,eng-league-two,12,2,0
+Notts County,Forest Green Rovers,1-1,eng-league-two,12,1,1
+Port Vale FC,Grimsby Town,1-2,eng-league-two,12,1,2
+Accrington Stanley,Coventry City,1-0,eng-league-two,13,1,0
+Chesterfield FC,Morecambe FC,0-2,eng-league-two,13,0,2
+Colchester United,Carlisle United,0-1,eng-league-two,13,0,1
+Forest Green Rovers,Newport County,0-4,eng-league-two,13,0,4
+Grimsby Town,Crawley Town,0-0,eng-league-two,13,0,0
+Lincoln City,Cambridge United,0-0,eng-league-two,13,0,0
+Luton Town,Stevenage FC,7-1,eng-league-two,13,7,1
+Mansfield Town,Swindon Town,1-3,eng-league-two,13,1,3
+Notts County,Barnet FC,2-1,eng-league-two,13,2,1
+Port Vale FC,Cheltenham Town,3-1,eng-league-two,13,3,1
+Wycombe Wanderers,Exeter City,0-0,eng-league-two,13,0,0
+Yeovil Town,Crewe Alexandra,2-0,eng-league-two,13,2,0
+Cambridge United,Yeovil Town,2-1,eng-league-two,14,2,1
+Carlisle United,Wycombe Wanderers,3-3,eng-league-two,14,3,3
+Cheltenham Town,Grimsby Town,2-3,eng-league-two,14,2,3
+Coventry City,Forest Green Rovers,0-1,eng-league-two,14,0,1
+Crawley Town,Chesterfield FC,0-2,eng-league-two,14,0,2
+Crewe Alexandra,Notts County,2-0,eng-league-two,14,2,0
+Exeter City,Luton Town,1-4,eng-league-two,14,1,4
+Morecambe FC,Port Vale FC,0-3,eng-league-two,14,0,3
+Newport County,Colchester United,1-2,eng-league-two,14,1,2
+Stevenage FC,Accrington Stanley,3-2,eng-league-two,14,3,2
+Swindon Town,Lincoln City,0-1,eng-league-two,14,0,1
+Barnet FC,Mansfield Town,1-1,eng-league-two,14,1,1
+Barnet FC,Yeovil Town,1-1,eng-league-two,15,1,1
+Cambridge United,Chesterfield FC,2-1,eng-league-two,15,2,1
+Carlisle United,Notts County,1-1,eng-league-two,15,1,1
+Cheltenham Town,Lincoln City,1-0,eng-league-two,15,1,0
+Coventry City,Colchester United,0-0,eng-league-two,15,0,0
+Crawley Town,Luton Town,0-0,eng-league-two,15,0,0
+Crewe Alexandra,Accrington Stanley,0-2,eng-league-two,15,0,2
+Exeter City,Port Vale FC,0-1,eng-league-two,15,0,1
+Morecambe FC,Grimsby Town,0-0,eng-league-two,15,0,0
+Newport County,Mansfield Town,1-1,eng-league-two,15,1,1
+Stevenage FC,Forest Green Rovers,1-2,eng-league-two,15,1,2
+Swindon Town,Wycombe Wanderers,1-0,eng-league-two,15,1,0
+Accrington Stanley,Barnet FC,4-1,eng-league-two,16,4,1
+Chesterfield FC,Carlisle United,2-2,eng-league-two,16,2,2
+Colchester United,Crewe Alexandra,3-1,eng-league-two,16,3,1
+Forest Green Rovers,Morecambe FC,2-0,eng-league-two,16,2,0
+Grimsby Town,Cambridge United,0-0,eng-league-two,16,0,0
+Lincoln City,Crawley Town,0-0,eng-league-two,16,0,0
+Luton Town,Coventry City,0-3,eng-league-two,16,0,3
+Mansfield Town,Exeter City,1-1,eng-league-two,16,1,1
+Notts County,Newport County,3-0,eng-league-two,16,3,0
+Port Vale FC,Swindon Town,0-3,eng-league-two,16,0,3
+Wycombe Wanderers,Cheltenham Town,3-3,eng-league-two,16,3,3
+Yeovil Town,Stevenage FC,3-0,eng-league-two,16,3,0
+Newport County,Port Vale FC,1-1,eng-league-two,17,1,1
+Barnet FC,Colchester United,0-1,eng-league-two,17,0,1
+Cambridge United,Accrington Stanley,0-0,eng-league-two,17,0,0
+Carlisle United,Yeovil Town,4-0,eng-league-two,17,4,0
+Cheltenham Town,Luton Town,2-2,eng-league-two,17,2,2
+Coventry City,Mansfield Town,0-1,eng-league-two,17,0,1
+Crawley Town,Forest Green Rovers,1-1,eng-league-two,17,1,1
+Crewe Alexandra,Lincoln City,1-4,eng-league-two,17,1,4
+Exeter City,Grimsby Town,2-0,eng-league-two,17,2,0
+Morecambe FC,Wycombe Wanderers,2-1,eng-league-two,17,2,1
+Stevenage FC,Notts County,1-1,eng-league-two,17,1,1
+Swindon Town,Chesterfield FC,2-2,eng-league-two,17,2,2
+Accrington Stanley,Newport County,1-1,eng-league-two,18,1,1
+Chesterfield FC,Exeter City,1-0,eng-league-two,18,1,0
+Colchester United,Morecambe FC,0-0,eng-league-two,18,0,0
+Forest Green Rovers,Crewe Alexandra,3-2,eng-league-two,18,3,2
+Grimsby Town,Carlisle United,0-1,eng-league-two,18,0,1
+Lincoln City,Coventry City,1-2,eng-league-two,18,1,2
+Luton Town,Cambridge United,7-0,eng-league-two,18,7,0
+Mansfield Town,Stevenage FC,1-0,eng-league-two,18,1,0
+Notts County,Cheltenham Town,3-1,eng-league-two,18,3,1
+Port Vale FC,Barnet FC,1-0,eng-league-two,18,1,0
+Wycombe Wanderers,Crawley Town,4-0,eng-league-two,18,4,0
+Yeovil Town,Swindon Town,1-2,eng-league-two,18,1,2
+Accrington Stanley,Wycombe Wanderers,1-0,eng-league-two,19,1,0
+Cheltenham Town,Cambridge United,0-0,eng-league-two,19,0,0
+Chesterfield FC,Forest Green Rovers,3-2,eng-league-two,19,3,2
+Colchester United,Lincoln City,1-0,eng-league-two,19,1,0
+Crawley Town,Exeter City,3-1,eng-league-two,19,3,1
+Grimsby Town,Swindon Town,3-2,eng-league-two,19,3,2
+Luton Town,Carlisle United,3-0,eng-league-two,19,3,0
+Morecambe FC,Crewe Alexandra,0-1,eng-league-two,19,0,1
+Newport County,Barnet FC,1-2,eng-league-two,19,1,2
+Port Vale FC,Mansfield Town,0-4,eng-league-two,19,0,4
+Stevenage FC,Coventry City,1-1,eng-league-two,19,1,1
+Yeovil Town,Notts County,1-1,eng-league-two,19,1,1
+Mansfield Town,Chesterfield FC,2-2,eng-league-two,20,2,2
+Barnet FC,Grimsby Town,0-2,eng-league-two,20,0,2
+Cambridge United,Stevenage FC,1-0,eng-league-two,20,1,0
+Carlisle United,Morecambe FC,1-1,eng-league-two,20,1,1
+Coventry City,Crawley Town,1-1,eng-league-two,20,1,1
+Crewe Alexandra,Luton Town,1-2,eng-league-two,20,1,2
+Exeter City,Accrington Stanley,2-0,eng-league-two,20,2,0
+Forest Green Rovers,Cheltenham Town,1-1,eng-league-two,20,1,1
+Lincoln City,Port Vale FC,3-1,eng-league-two,20,3,1
+Notts County,Colchester United,2-1,eng-league-two,20,2,1
+Swindon Town,Newport County,0-1,eng-league-two,20,0,1
+Wycombe Wanderers,Yeovil Town,2-1,eng-league-two,20,2,1
+Cheltenham Town,Crewe Alexandra,1-0,eng-league-two,21,1,0
+Chesterfield FC,Barnet FC,2-1,eng-league-two,21,2,1
+Colchester United,Exeter City,3-1,eng-league-two,21,3,1
+Crawley Town,Mansfield Town,2-0,eng-league-two,21,2,0
+Grimsby Town,Forest Green Rovers,1-0,eng-league-two,21,1,0
+Luton Town,Notts County,1-1,eng-league-two,21,1,1
+Morecambe FC,Coventry City,2-0,eng-league-two,21,2,0
+Newport County,Carlisle United,3-3,eng-league-two,21,3,3
+Port Vale FC,Cambridge United,2-0,eng-league-two,21,2,0
+Stevenage FC,Wycombe Wanderers,0-0,eng-league-two,21,0,0
+Yeovil Town,Lincoln City,0-2,eng-league-two,21,0,2
+Accrington Stanley,Swindon Town,2-1,eng-league-two,21,2,1
+Swindon Town,Colchester United,2-3,eng-league-two,22,2,3
+Barnet FC,Morecambe FC,2-1,eng-league-two,22,2,1
+Cambridge United,Newport County,1-2,eng-league-two,22,1,2
+Carlisle United,Port Vale FC,1-2,eng-league-two,22,1,2
+Coventry City,Cheltenham Town,2-1,eng-league-two,22,2,1
+Crewe Alexandra,Crawley Town,3-0,eng-league-two,22,3,0
+Exeter City,Stevenage FC,2-1,eng-league-two,22,2,1
+Forest Green Rovers,Luton Town,0-2,eng-league-two,22,0,2
+Lincoln City,Accrington Stanley,2-0,eng-league-two,22,2,0
+Mansfield Town,Yeovil Town,0-0,eng-league-two,22,0,0
+Notts County,Grimsby Town,0-0,eng-league-two,22,0,0
+Wycombe Wanderers,Chesterfield FC,1-0,eng-league-two,22,1,0
+Coventry City,Wycombe Wanderers,3-2,eng-league-two,23,3,2
+Accrington Stanley,Crawley Town,2-3,eng-league-two,23,2,3
+Barnet FC,Cheltenham Town,0-2,eng-league-two,23,0,2
+Colchester United,Port Vale FC,1-1,eng-league-two,23,1,1
+Crewe Alexandra,Swindon Town,0-3,eng-league-two,23,0,3
+Forest Green Rovers,Carlisle United,0-1,eng-league-two,23,0,1
+Luton Town,Grimsby Town,2-0,eng-league-two,23,2,0
+Mansfield Town,Morecambe FC,2-1,eng-league-two,23,2,1
+Newport County,Lincoln City,0-0,eng-league-two,23,0,0
+Notts County,Cambridge United,3-3,eng-league-two,23,3,3
+Stevenage FC,Chesterfield FC,5-1,eng-league-two,23,5,1
+Yeovil Town,Exeter City,3-1,eng-league-two,23,3,1
+Grimsby Town,Mansfield Town,1-1,eng-league-two,24,1,1
+Cambridge United,Barnet FC,1-0,eng-league-two,24,1,0
+Carlisle United,Accrington Stanley,3-1,eng-league-two,24,3,1
+Cheltenham Town,Yeovil Town,0-2,eng-league-two,24,0,2
+Chesterfield FC,Crewe Alexandra,0-2,eng-league-two,24,0,2
+Crawley Town,Colchester United,0-2,eng-league-two,24,0,2
+Lincoln City,Stevenage FC,3-0,eng-league-two,24,3,0
+Morecambe FC,Notts County,1-4,eng-league-two,24,1,4
+Port Vale FC,Coventry City,1-0,eng-league-two,24,1,0
+Swindon Town,Luton Town,0-5,eng-league-two,24,0,5
+Wycombe Wanderers,Newport County,2-0,eng-league-two,24,2,0
+Exeter City,Forest Green Rovers,2-0,eng-league-two,24,2,0
+Morecambe FC,Yeovil Town,4-3,eng-league-two,25,4,3
+Cambridge United,Crewe Alexandra,3-1,eng-league-two,25,3,1
+Carlisle United,Coventry City,0-1,eng-league-two,25,0,1
+Cheltenham Town,Newport County,1-1,eng-league-two,25,1,1
+Chesterfield FC,Colchester United,0-0,eng-league-two,25,0,0
+Crawley Town,Stevenage FC,1-0,eng-league-two,25,1,0
+Exeter City,Barnet FC,2-1,eng-league-two,25,2,1
+Grimsby Town,Accrington Stanley,0-3,eng-league-two,25,0,3
+Lincoln City,Forest Green Rovers,2-1,eng-league-two,25,2,1
+Port Vale FC,Luton Town,4-0,eng-league-two,25,4,0
+Swindon Town,Notts County,1-0,eng-league-two,25,1,0
+Wycombe Wanderers,Mansfield Town,1-2,eng-league-two,25,1,2
+Barnet FC,Swindon Town,1-2,eng-league-two,26,1,2
+Colchester United,Cambridge United,0-0,eng-league-two,26,0,0
+Coventry City,Chesterfield FC,1-0,eng-league-two,26,1,0
+Crewe Alexandra,Grimsby Town,2-0,eng-league-two,26,2,0
+Forest Green Rovers,Wycombe Wanderers,1-2,eng-league-two,26,1,2
+Luton Town,Lincoln City,4-2,eng-league-two,26,4,2
+Mansfield Town,Carlisle United,3-1,eng-league-two,26,3,1
+Newport County,Exeter City,2-1,eng-league-two,26,2,1
+Notts County,Port Vale FC,1-0,eng-league-two,26,1,0
+Stevenage FC,Cheltenham Town,4-1,eng-league-two,26,4,1
+Yeovil Town,Crawley Town,1-2,eng-league-two,26,1,2
+Accrington Stanley,Morecambe FC,1-0,eng-league-two,26,1,0
+Accrington Stanley,Chesterfield FC,4-0,eng-league-two,27,4,0
+Colchester United,Cheltenham Town,1-4,eng-league-two,27,1,4
+Forest Green Rovers,Port Vale FC,1-0,eng-league-two,27,1,0
+Newport County,Morecambe FC,1-1,eng-league-two,27,1,1
+Notts County,Crawley Town,1-2,eng-league-two,27,1,2
+Coventry City,Cambridge United,3-1,eng-league-two,27,3,1
+Luton Town,Wycombe Wanderers,2-3,eng-league-two,27,2,3
+Stevenage FC,Swindon Town,0-1,eng-league-two,27,0,1
+Yeovil Town,Grimsby Town,3-0,eng-league-two,27,3,0
+Crewe Alexandra,Exeter City,1-2,eng-league-two,27,1,2
+Barnet FC,Carlisle United,1-3,eng-league-two,27,1,3
+Mansfield Town,Lincoln City,1-1,eng-league-two,27,1,1
+Cambridge United,Mansfield Town,0-0,eng-league-two,28,0,0
+Carlisle United,Crewe Alexandra,1-0,eng-league-two,28,1,0
+Cheltenham Town,Accrington Stanley,0-2,eng-league-two,28,0,2
+Chesterfield FC,Luton Town,2-0,eng-league-two,28,2,0
+Crawley Town,Barnet FC,2-0,eng-league-two,28,2,0
+Exeter City,Coventry City,1-0,eng-league-two,28,1,0
+Grimsby Town,Newport County,1-2,eng-league-two,28,1,2
+Lincoln City,Notts County,2-2,eng-league-two,28,2,2
+Morecambe FC,Stevenage FC,1-1,eng-league-two,28,1,1
+Port Vale FC,Yeovil Town,1-1,eng-league-two,28,1,1
+Swindon Town,Forest Green Rovers,1-0,eng-league-two,28,1,0
+Wycombe Wanderers,Colchester United,3-1,eng-league-two,28,3,1
+Newport County,Crawley Town,2-1,eng-league-two,29,2,1
+Accrington Stanley,Port Vale FC,3-2,eng-league-two,29,3,2
+Barnet FC,Lincoln City,1-1,eng-league-two,29,1,1
+Colchester United,Grimsby Town,1-1,eng-league-two,29,1,1
+Coventry City,Swindon Town,3-1,eng-league-two,29,3,1
+Crewe Alexandra,Wycombe Wanderers,2-3,eng-league-two,29,2,3
+Forest Green Rovers,Cambridge United,5-2,eng-league-two,29,5,2
+Luton Town,Morecambe FC,1-0,eng-league-two,29,1,0
+Mansfield Town,Cheltenham Town,3-2,eng-league-two,29,3,2
+Notts County,Exeter City,1-2,eng-league-two,29,1,2
+Stevenage FC,Carlisle United,0-0,eng-league-two,29,0,0
+Yeovil Town,Chesterfield FC,1-2,eng-league-two,29,1,2
+Carlisle United,Forest Green Rovers,1-0,eng-league-two,30,1,0
+Cheltenham Town,Barnet FC,1-1,eng-league-two,30,1,1
+Chesterfield FC,Stevenage FC,0-1,eng-league-two,30,0,1
+Crawley Town,Accrington Stanley,2-1,eng-league-two,30,2,1
+Grimsby Town,Luton Town,0-1,eng-league-two,30,0,1
+Morecambe FC,Mansfield Town,1-2,eng-league-two,30,1,2
+Port Vale FC,Colchester United,2-2,eng-league-two,30,2,2
+Swindon Town,Crewe Alexandra,4-3,eng-league-two,30,4,3
+Lincoln City,Newport County,3-1,eng-league-two,30,3,1
+Cambridge United,Notts County,1-0,eng-league-two,30,1,0
+Wycombe Wanderers,Coventry City,0-1,eng-league-two,30,0,1
+Exeter City,Yeovil Town,0-0,eng-league-two,30,0,0
+Accrington Stanley,Stevenage FC,3-2,eng-league-two,31,3,2
+Chesterfield FC,Crawley Town,1-2,eng-league-two,31,1,2
+Colchester United,Newport County,2-0,eng-league-two,31,2,0
+Forest Green Rovers,Coventry City,2-1,eng-league-two,31,2,1
+Grimsby Town,Cheltenham Town,1-1,eng-league-two,31,1,1
+Lincoln City,Swindon Town,2-2,eng-league-two,31,2,2
+Luton Town,Exeter City,1-0,eng-league-two,31,1,0
+Mansfield Town,Barnet FC,3-1,eng-league-two,31,3,1
+Notts County,Crewe Alexandra,4-1,eng-league-two,31,4,1
+Port Vale FC,Morecambe FC,0-0,eng-league-two,31,0,0
+Wycombe Wanderers,Carlisle United,4-3,eng-league-two,31,4,3
+Yeovil Town,Cambridge United,2-0,eng-league-two,31,2,0
+Cambridge United,Lincoln City,0-0,eng-league-two,32,0,0
+Barnet FC,Notts County,1-0,eng-league-two,32,1,0
+Carlisle United,Colchester United,1-1,eng-league-two,32,1,1
+Cheltenham Town,Port Vale FC,5-1,eng-league-two,32,5,1
+Coventry City,Accrington Stanley,0-2,eng-league-two,32,0,2
+Crawley Town,Grimsby Town,3-0,eng-league-two,32,3,0
+Crewe Alexandra,Yeovil Town,0-0,eng-league-two,32,0,0
+Exeter City,Wycombe Wanderers,1-1,eng-league-two,32,1,1
+Stevenage FC,Luton Town,1-1,eng-league-two,32,1,1
+Swindon Town,Mansfield Town,1-0,eng-league-two,32,1,0
+Newport County,Forest Green Rovers,3-3,eng-league-two,32,3,3
+Morecambe FC,Chesterfield FC,2-2,eng-league-two,32,2,2
+Grimsby Town,Morecambe FC,0-2,eng-league-two,33,0,2
+Accrington Stanley,Crewe Alexandra,1-0,eng-league-two,33,1,0
+Chesterfield FC,Cambridge United,2-3,eng-league-two,33,2,3
+Colchester United,Coventry City,2-1,eng-league-two,33,2,1
+Forest Green Rovers,Stevenage FC,3-1,eng-league-two,33,3,1
+Lincoln City,Cheltenham Town,1-0,eng-league-two,33,1,0
+Luton Town,Crawley Town,4-1,eng-league-two,33,4,1
+Mansfield Town,Newport County,5-0,eng-league-two,33,5,0
+Notts County,Carlisle United,2-1,eng-league-two,33,2,1
+Wycombe Wanderers,Swindon Town,3-2,eng-league-two,33,3,2
+Yeovil Town,Barnet FC,2-0,eng-league-two,33,2,0
+Port Vale FC,Exeter City,0-1,eng-league-two,33,0,1
+Barnet FC,Accrington Stanley,1-1,eng-league-two,34,1,1
+Cambridge United,Grimsby Town,3-1,eng-league-two,34,3,1
+Carlisle United,Chesterfield FC,2-0,eng-league-two,34,2,0
+Cheltenham Town,Wycombe Wanderers,0-2,eng-league-two,34,0,2
+Crawley Town,Lincoln City,3-1,eng-league-two,34,3,1
+Crewe Alexandra,Colchester United,1-0,eng-league-two,34,1,0
+Exeter City,Mansfield Town,0-1,eng-league-two,34,0,1
+Morecambe FC,Forest Green Rovers,1-1,eng-league-two,34,1,1
+Newport County,Notts County,0-0,eng-league-two,34,0,0
+Stevenage FC,Yeovil Town,4-1,eng-league-two,34,4,1
+Swindon Town,Port Vale FC,3-2,eng-league-two,34,3,2
+Coventry City,Luton Town,2-2,eng-league-two,34,2,2
+Accrington Stanley,Cambridge United,1-0,eng-league-two,35,1,0
+Chesterfield FC,Swindon Town,2-1,eng-league-two,35,2,1
+Colchester United,Barnet FC,0-1,eng-league-two,35,0,1
+Forest Green Rovers,Crawley Town,2-0,eng-league-two,35,2,0
+Grimsby Town,Exeter City,0-1,eng-league-two,35,0,1
+Lincoln City,Crewe Alexandra,1-4,eng-league-two,35,1,4
+Luton Town,Cheltenham Town,2-2,eng-league-two,35,2,2
+Mansfield Town,Coventry City,1-1,eng-league-two,35,1,1
+Notts County,Stevenage FC,2-0,eng-league-two,35,2,0
+Port Vale FC,Newport County,0-0,eng-league-two,35,0,0
+Wycombe Wanderers,Morecambe FC,2-4,eng-league-two,35,2,4
+Yeovil Town,Carlisle United,0-1,eng-league-two,35,0,1
+Cambridge United,Luton Town,1-1,eng-league-two,36,1,1
+Carlisle United,Grimsby Town,2-0,eng-league-two,36,2,0
+Cheltenham Town,Notts County,1-1,eng-league-two,36,1,1
+Barnet FC,Port Vale FC,1-1,eng-league-two,36,1,1
+Crewe Alexandra,Forest Green Rovers,3-1,eng-league-two,36,3,1
+Morecambe FC,Colchester United,0-0,eng-league-two,36,0,0
+Crawley Town,Wycombe Wanderers,2-3,eng-league-two,36,2,3
+Stevenage FC,Mansfield Town,1-1,eng-league-two,36,1,1
+Swindon Town,Yeovil Town,2-2,eng-league-two,36,2,2
+Exeter City,Chesterfield FC,2-1,eng-league-two,36,2,1
+Coventry City,Lincoln City,2-4,eng-league-two,36,2,4
+Newport County,Accrington Stanley,2-1,eng-league-two,36,2,1
+Chesterfield FC,Lincoln City,1-3,eng-league-two,37,1,3
+Coventry City,Barnet FC,1-0,eng-league-two,37,1,0
+Crawley Town,Morecambe FC,1-1,eng-league-two,37,1,1
+Exeter City,Carlisle United,1-1,eng-league-two,37,1,1
+Forest Green Rovers,Notts County,1-2,eng-league-two,37,1,2
+Grimsby Town,Port Vale FC,1-1,eng-league-two,37,1,1
+Luton Town,Accrington Stanley,1-2,eng-league-two,37,1,2
+Mansfield Town,Colchester United,1-1,eng-league-two,37,1,1
+Stevenage FC,Crewe Alexandra,2-2,eng-league-two,37,2,2
+Swindon Town,Cheltenham Town,0-3,eng-league-two,37,0,3
+Wycombe Wanderers,Cambridge United,1-1,eng-league-two,37,1,1
+Yeovil Town,Newport County,0-2,eng-league-two,37,0,2
+Lincoln City,Grimsby Town,3-1,eng-league-two,38,3,1
+Notts County,Mansfield Town,1-1,eng-league-two,38,1,1
+Accrington Stanley,Forest Green Rovers,3-1,eng-league-two,38,3,1
+Barnet FC,Wycombe Wanderers,0-2,eng-league-two,38,0,2
+Cambridge United,Swindon Town,1-3,eng-league-two,38,1,3
+Carlisle United,Crawley Town,2-2,eng-league-two,38,2,2
+Cheltenham Town,Chesterfield FC,1-1,eng-league-two,38,1,1
+Colchester United,Yeovil Town,0-1,eng-league-two,38,0,1
+Crewe Alexandra,Coventry City,1-2,eng-league-two,38,1,2
+Morecambe FC,Exeter City,2-1,eng-league-two,38,2,1
+Newport County,Luton Town,1-1,eng-league-two,38,1,1
+Port Vale FC,Stevenage FC,2-2,eng-league-two,38,2,2
+Carlisle United,Cambridge United,1-1,eng-league-two,39,1,1
+Coventry City,Grimsby Town,4-0,eng-league-two,39,4,0
+Crawley Town,Cheltenham Town,3-5,eng-league-two,39,3,5
+Newport County,Crewe Alexandra,1-2,eng-league-two,39,1,2
+Exeter City,Swindon Town,3-1,eng-league-two,39,3,1
+Forest Green Rovers,Mansfield Town,2-0,eng-league-two,39,2,0
+Morecambe FC,Lincoln City,0-0,eng-league-two,39,0,0
+Stevenage FC,Colchester United,0-1,eng-league-two,39,0,1
+Wycombe Wanderers,Port Vale FC,0-0,eng-league-two,39,0,0
+Luton Town,Barnet FC,2-0,eng-league-two,39,2,0
+Chesterfield FC,Notts County,3-1,eng-league-two,39,3,1
+Accrington Stanley,Yeovil Town,2-0,eng-league-two,39,2,0
+Barnet FC,Crewe Alexandra,2-1,eng-league-two,40,2,1
+Cambridge United,Crawley Town,3-1,eng-league-two,40,3,1
+Cheltenham Town,Carlisle United,0-1,eng-league-two,40,0,1
+Colchester United,Luton Town,2-1,eng-league-two,40,2,1
+Grimsby Town,Stevenage FC,0-0,eng-league-two,40,0,0
+Lincoln City,Exeter City,3-2,eng-league-two,40,3,2
+Mansfield Town,Accrington Stanley,0-1,eng-league-two,40,0,1
+Newport County,Coventry City,1-1,eng-league-two,40,1,1
+Notts County,Wycombe Wanderers,0-0,eng-league-two,40,0,0
+Port Vale FC,Chesterfield FC,2-1,eng-league-two,40,2,1
+Swindon Town,Morecambe FC,1-1,eng-league-two,40,1,1
+Yeovil Town,Forest Green Rovers,0-0,eng-league-two,40,0,0
+Accrington Stanley,Notts County,1-0,eng-league-two,41,1,0
+Carlisle United,Lincoln City,0-1,eng-league-two,41,0,1
+Coventry City,Yeovil Town,2-6,eng-league-two,41,2,6
+Crawley Town,Swindon Town,1-1,eng-league-two,41,1,1
+Crewe Alexandra,Port Vale FC,2-2,eng-league-two,41,2,2
+Exeter City,Cheltenham Town,2-1,eng-league-two,41,2,1
+Forest Green Rovers,Colchester United,1-2,eng-league-two,41,1,2
+Luton Town,Mansfield Town,2-1,eng-league-two,41,2,1
+Stevenage FC,Barnet FC,4-1,eng-league-two,41,4,1
+Wycombe Wanderers,Grimsby Town,2-1,eng-league-two,41,2,1
+Morecambe FC,Cambridge United,0-0,eng-league-two,41,0,0
+Chesterfield FC,Newport County,1-0,eng-league-two,41,1,0
+Barnet FC,Forest Green Rovers,1-0,eng-league-two,42,1,0
+Cambridge United,Exeter City,2-3,eng-league-two,42,2,3
+Cheltenham Town,Morecambe FC,3-0,eng-league-two,42,3,0
+Colchester United,Accrington Stanley,0-1,eng-league-two,42,0,1
+Grimsby Town,Chesterfield FC,1-0,eng-league-two,42,1,0
+Mansfield Town,Crewe Alexandra,3-4,eng-league-two,42,3,4
+Newport County,Stevenage FC,0-1,eng-league-two,42,0,1
+Notts County,Coventry City,2-1,eng-league-two,42,2,1
+Port Vale FC,Crawley Town,1-2,eng-league-two,42,1,2
+Swindon Town,Carlisle United,0-0,eng-league-two,42,0,0
+Yeovil Town,Luton Town,0-3,eng-league-two,42,0,3
+Lincoln City,Wycombe Wanderers,0-0,eng-league-two,42,0,0
+Chesterfield FC,Mansfield Town,0-1,eng-league-two,43,0,1
+Accrington Stanley,Exeter City,1-1,eng-league-two,43,1,1
+Cheltenham Town,Forest Green Rovers,0-1,eng-league-two,43,0,1
+Colchester United,Notts County,1-3,eng-league-two,43,1,3
+Crawley Town,Coventry City,1-2,eng-league-two,43,1,2
+Grimsby Town,Barnet FC,2-2,eng-league-two,43,2,2
+Luton Town,Crewe Alexandra,3-1,eng-league-two,43,3,1
+Morecambe FC,Carlisle United,1-1,eng-league-two,43,1,1
+Newport County,Swindon Town,2-1,eng-league-two,43,2,1
+Port Vale FC,Lincoln City,1-0,eng-league-two,43,1,0
+Stevenage FC,Cambridge United,0-2,eng-league-two,43,0,2
+Yeovil Town,Wycombe Wanderers,0-1,eng-league-two,43,0,1
+Coventry City,Stevenage FC,3-1,eng-league-two,44,3,1
+Barnet FC,Newport County,2-0,eng-league-two,44,2,0
+Cambridge United,Cheltenham Town,4-3,eng-league-two,44,4,3
+Carlisle United,Luton Town,1-1,eng-league-two,44,1,1
+Crewe Alexandra,Morecambe FC,1-0,eng-league-two,44,1,0
+Exeter City,Crawley Town,2-2,eng-league-two,44,2,2
+Forest Green Rovers,Chesterfield FC,4-1,eng-league-two,44,4,1
+Lincoln City,Colchester United,2-1,eng-league-two,44,2,1
+Mansfield Town,Port Vale FC,1-1,eng-league-two,44,1,1
+Notts County,Yeovil Town,4-1,eng-league-two,44,4,1
+Swindon Town,Grimsby Town,0-1,eng-league-two,44,0,1
+Wycombe Wanderers,Accrington Stanley,0-4,eng-league-two,44,0,4
+Accrington Stanley,Lincoln City,1-0,eng-league-two,45,1,0
+Cheltenham Town,Coventry City,1-6,eng-league-two,45,1,6
+Chesterfield FC,Wycombe Wanderers,1-2,eng-league-two,45,1,2
+Colchester United,Swindon Town,0-0,eng-league-two,45,0,0
+Crawley Town,Crewe Alexandra,1-2,eng-league-two,45,1,2
+Grimsby Town,Notts County,2-1,eng-league-two,45,2,1
+Luton Town,Forest Green Rovers,3-1,eng-league-two,45,3,1
+Morecambe FC,Barnet FC,0-1,eng-league-two,45,0,1
+Newport County,Cambridge United,2-1,eng-league-two,45,2,1
+Port Vale FC,Carlisle United,1-2,eng-league-two,45,1,2
+Stevenage FC,Exeter City,3-1,eng-league-two,45,3,1
+Yeovil Town,Mansfield Town,2-3,eng-league-two,45,2,3
+Barnet FC,Chesterfield FC,3-0,eng-league-two,46,3,0
+Cambridge United,Port Vale FC,5-0,eng-league-two,46,5,0
+Carlisle United,Newport County,1-1,eng-league-two,46,1,1
+Coventry City,Morecambe FC,0-0,eng-league-two,46,0,0
+Crewe Alexandra,Cheltenham Town,2-1,eng-league-two,46,2,1
+Exeter City,Colchester United,1-0,eng-league-two,46,1,0
+Forest Green Rovers,Grimsby Town,0-3,eng-league-two,46,0,3
+Lincoln City,Yeovil Town,1-1,eng-league-two,46,1,1
+Mansfield Town,Crawley Town,1-1,eng-league-two,46,1,1
+Notts County,Luton Town,0-0,eng-league-two,46,0,0
+Swindon Town,Accrington Stanley,3-0,eng-league-two,46,3,0
+Wycombe Wanderers,Stevenage FC,1-0,eng-league-two,46,1,0
