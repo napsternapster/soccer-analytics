@@ -1,0 +1,207 @@
+---
+title: "Football Cliches: Derbies & Form"
+output: 
+    html_document:
+        code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Introduction
+
+"Form goes out of the windows for a derby," is one of football's many cliches. But what does data have to say about it? 
+
+## Methodology
+
+Luckily James Curly's engsoccerdata library exists, so I didn't need to web scrape results. Its data actu ally covers a number of European league results, but the above cliche is - as far as I know - distinctly English, so I stuck to that area of the football landscape. The English football results stretch all the way from 1888 to 2017.
+
+I collected rivalry data manually by copy-pasting data from [Wikipedia](https://en.wikipedia.org/wiki/List_of_sports_rivalries_in_the_United_Kingdom#Association_Football). Some cleaning in Excel created a pretty clean data set of 88 English rivalries to work with.
+
+Initially I used fuzzy matching to compensate for the difference in team names across the results and rivalries data sets. However, this did not capture all the derby games for the matches that were found. Ultimately, I manually standardized the names across both data sets. I dropped the rivalries with at least one team not in the results. That left me with 55 of my original 81 records. Finally, I attached rivalry ids from the rivalries table to their games in the results table.
+
+```{r, echo = F, warning=F, message=FALSE}
+library(tidyverse)
+library(engsoccerdata)
+library(purrrlyr)
+source("helper_functions.R")
+
+#data(package="engsoccerdata")
+eng_results <- england
+eng_results <- eng_results %>% arrange(Date) %>% 
+    mutate(home = as.character(home), visitor = as.character(visitor), result = as.character(result))
+
+eng_rivalries <- read_csv('eng_rivalries_cleaned_matched.csv')
+eng_rivalries <- eng_rivalries %>% drop_na() %>%
+  mutate(rivalry = map2(team1_match, team2_match, function(x, y) c(x, y))) %>%
+  select(-team1, -team2)
+
+eng_results <- eng_results %>%
+  mutate(
+    rivalry_id = map2(home, visitor, 
+                      function(h, v) attach_derby_id(h, v, eng_rivalries)
+                    )
+        )
+
+head(eng_results)
+head(eng_rivalries)
+```
+
+An important note before the calculations begin. I defined form as the average number of points collected by either team in their five games prior to the derby. This definition was only broken if a derby occured before the sixth match day. I applied a filter to ensure that the calculation only involved games within the same season. 
+
+Let me do one rivalry first: Burnley x Blackburn. Matches between the two show up 90 times in the data set. The first game happened in 1888 and finished in a 1-7 away win for Blackburn. 
+
+```{r}
+rivalry_indices <- which(eng_results$rivalry_id == 51)
+# dataframe of all the results before the derby
+df_first_derby <- eng_results[1:(rivalry_indices[1] - 1),]
+eng_results[rivalry_indices[1],]
+```
+
+Coming into that first derby Blackburn picked up 1.2 points in their five previous games (1-3-1).
+
+```{r}
+df_first_derby %>%
+    arrange(desc(Date)) %>%
+    filter((home == "Blackburn Rovers") | (visitor == "Blackburn Rovers")) %>%
+    top_n(., n = 5, wt = Date) %>%
+    filter(Season == max(Season)) %>%
+    mutate(
+    pts = case_when(
+      (home == "Blackburn Rovers") & (hgoal > vgoal) ~ 3,
+      (home == "Blackburn Rovers") & (hgoal < vgoal) ~ 0,
+      (visitor == "Blackburn Rovers") & (hgoal > vgoal) ~ 0,
+      (visitor == "Blackburn Rovers") & (hgoal < vgoal) ~ 3,
+      TRUE ~ 1
+      )
+  ) %>%
+  summarise(pts_avg = mean(pts))
+```
+
+Burnley's form was worse with only 0.6 points across five games (1-0-4).
+
+```{r}
+df_first_derby %>%
+    arrange(desc(Date)) %>%
+    filter((home == "Burnley") | (visitor == "Burnley")) %>%
+    top_n(., n = 5, wt = Date) %>%
+    filter(Season == max(Season)) %>%
+    mutate( 
+    pts = case_when(
+      (home == "Burnley") & (hgoal > vgoal) ~ 3,
+      (home == "Burnley") & (hgoal < vgoal) ~ 0,
+      (visitor == "Burnley") & (hgoal > vgoal) ~ 0,
+      (visitor == "Burnley") & (hgoal < vgoal) ~ 3,
+      TRUE ~ 1
+      )
+  ) %>%
+  summarise(pts_avg = mean(pts))
+```
+
+So the first derby not only saw the "form team" win but win emphatically away from home. How does that looks across all the Burnley x Blackburn derbies?
+
+```{r}
+burnley_blackburn <- calculate_derby_form(
+  eng_results,
+  eng_rivalries[eng_rivalries$rivalry_id==51,]
+)
+
+head(burnley_blackburn)
+```
+
+The data has 90 matches for this derby, and in 9 of them the participants had the same form coming into the game. On this level playing field, Blackburn took the spoils with a 5-2-1 record.
+
+When there was a clear form team, said team's record stands at 39-15-28. That's a ~48% win rate. Breaking this down translates into a 19-9-13 record for Burnley and a 20-6-15 record for Blackburn. 
+
+```{r}
+burnley_blackburn %>% 
+  filter(form_team != "Equal") %>%
+  group_by(form_team, result_name) %>%
+  count() %>%
+  ungroup()
+
+burnley_blackburn %>% 
+  filter(form_team != "Equal") %>%
+  group_by(form_team, result_name) %>%
+  count() %>%
+  ungroup() %>%
+  mutate(
+    form_team_abstract  = case_when(
+      form_team == result_name ~ "Form Team Won",
+      (form_team != result_name) & (result_name!="D") ~ "Form Team Lost",
+      TRUE ~ "Form Team Drew"
+    )
+  ) %>%
+  group_by(form_team_abstract) %>%
+  summarise(record = sum(n))
+
+#abs(burnley_blackburn$form1 - burnley_blackburn$form2) %>% boxplot()
+#abs(burnley_blackburn$form1 - burnley_blackburn$form2) %>% fivenum()
+```
+
+The cliche looks pretty safe with one derby's worth of data. Small samples are the enemy of steady conclusions, though, so the results on the entire data set is where the saying will live or die.
+
+And it lives! Across all derbies the clear form team's winning rate actually goes down to 40% (a 1432-986-1151 record).
+
+```{r, eval = F}
+# derby_form_eng_nested <- purrrlyr::by_row(
+#   eng_rivalries, 
+#   function(x) calculate_derby_form(eng_results, x)
+#   )
+# write_rds(derby_form_eng_nested, "derby_form_eng.rds")
+```
+
+
+```{r}
+derby_form_eng_nested <- read_rds("derby_form_eng.rds")
+derby_form_eng_unnested <- derby_form_eng_nested %>% unnest(.out)
+
+derby_form_eng_unnested %>% 
+  filter(form_team != "Equal") %>%
+  group_by(form_team, result_name) %>%
+  count() %>%
+  ungroup() %>%
+  mutate(
+    form_team_abstract  = case_when(
+      form_team == result_name ~ "Form Team Won",
+      (form_team != result_name) & (result_name!="D") ~ "Form Team Lost",
+      TRUE ~ "Form Team Drew"
+    )
+  ) %>%
+  group_by(form_team_abstract) %>%
+  summarise(record = sum(n))
+```
+
+Lastly, I want to address something that is surely bothering you, reader. There quite a big possible range for form teams. At one end there's the team with one point in five games coming up against one on a five game losing streak. At the other end the team on a five game losing streak is playing one on a five game winning run. 
+
+The median of the absolute difference in points collected across five games is 0.6 - one win more across 5 games. The second plot below shows the absolute difference in form over five games sectioned out by whether the form team won, drew, or lost. It's not surprising that the general trend shows that the distribution tends towards the higher side when the form team wins.
+
+```{r}
+derby_form_eng_unnested <- derby_form_eng_unnested %>%
+  mutate(form_diff_abs = abs(form1 - form2)) 
+
+#derby_form_eng_unnested %>% pull(form_diff_abs) %>% fivenum()
+#derby_form_eng_unnested %>% pull(form_diff_abs) %>% boxplot()
+
+derby_form_eng_unnested %>%
+  mutate(
+    form_team_abstract  = case_when(
+      form_team == result_name ~ 1,
+      (form_team != result_name) & (result_name!="D") ~ 0,
+      TRUE ~ -1
+    )
+  ) %>%
+  
+  ggplot(., aes(form_team_abstract, form_diff_abs)) + 
+  geom_boxplot(aes(group = form_team_abstract)) + theme_bw() +
+    ggtitle("Disttribution Of Absolute Form Difference By Form Team Result")
+```
+
+## Conclusion 
+
+Does form go out of the window in a derby? The answer is kinda? Unsurprisingly, It all hinges on what the definition of form and form team.
+
+There are a number of ways to add nuance to this analysis, The primary one that jumps out is dissecting results by home and away. That data is present here, but I declined to go in that direction because I felt it was against the spirit of the cliche being inspected.
+
+And it is in this spirit that I chalk this up as a soft win for the real football men.
