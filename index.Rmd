@@ -71,6 +71,8 @@ Wide Collections: [1](https://github.com/jokecamp/FootballData) | [2](https://gi
 
 [Tavares](https://github.com/rjtavares/football-crunching)
 
+https://github.com/WillTGM/xPass_RandomForest
+
 packages: [ggsoccer](https://github.com/Torvaney/ggsoccer) | [fcsrapR](https://github.com/ryurko/fcscrapR)
 
 [xG Model](https://github.com/KubaMichalczyk/ExpectedGoalsModel/blob/master/expected_goals_model.md)
@@ -88,6 +90,8 @@ packages: [ggsoccer](https://github.com/Torvaney/ggsoccer) | [fcsrapR](https://g
 [Analysis Pipeline](https://teouchanalytics.wordpress.com/2017/07/08/episode-1-feature-engineering-and-some-data-to-play-with/)
 
 [Working With Play By Play Data](http://curleylab.psych.columbia.edu/playbyplay/playbyplay.html#/)
+
+https://github.com/imrankhan17/statsbomb-parser
 
 [Swarm Plots](http://pena.lt/y/2017/07/17/radar-alternatives-football-data/)
 

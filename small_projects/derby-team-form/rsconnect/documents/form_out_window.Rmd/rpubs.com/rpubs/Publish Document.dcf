@@ -1,0 +1,10 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/424308/e40ffc99b67d4035a146153f747c03ba
+bundleId: https://api.rpubs.com/api/v1/document/424308/e40ffc99b67d4035a146153f747c03ba
+url: http://rpubs.com/gfleetwood/424308
+when: 1538223271.86661

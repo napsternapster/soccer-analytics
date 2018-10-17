@@ -1,0 +1,89 @@
+rivalry_id,team1,team2,team1_match,team2_match
+1,Oxford United,Swindon Town,Oxford United,Swindon Town
+2,Banbury United,Brackley Town,NA,NA
+3,Aylesbury,Aylesbury United,NA,NA
+4,Milton Keynes Dons,Wycombe Wanderers,Milton Keynes Dons,NA
+5,Cambridge City,Cambridge United,NA,Cambridge United
+6,Cambridge United,Histon,Cambridge United,NA
+7,Cambridge United,Peterborough United,Cambridge United,Peterborough United
+8,AFC Wimbledon,Milton Keynes Dons,AFC Wimbledon,Milton Keynes Dons
+9,AFC Dunstable,Dunstable Town,NA,NA
+10,Luton Town,Stevenage,Luton Town,Stevenage Borough
+11,Luton Town,Watford,Luton Town,Watford
+12,Milton Keynes Dons,Northampton Town,Milton Keynes Dons,Northampton Town
+13,Milton Keynes Dons,Peterborough United,Milton Keynes Dons,Peterborough United
+14,Northampton Town,Peterborough United,Northampton Town,Peterborough United
+15,Kettering Town,Rushden & Diamonds,NA,Rushden & Diamonds
+16,Oxford United,Reading ,Oxford United,Reading 
+17,Canvey Island,Concord Rangers,Canvey Island,Concord Rangers
+18,Ipswich Town,Norwich City,Ipswich Town,Norwich City
+19,Colchester United,Southend United,NA,Southend United
+20,Bury Town,Lowestoft Town,Bury,NA
+21,Arsenal,Tottenham Hotspur,Arsenal,Tottenham Hotspur
+22,Arsenal,Chelsea,Arsenal,Chelsea
+23,Millwall,West Ham United,Millwall,West Ham United
+24,Enfield 1893,Enfield Town,NA,NA
+25,Carshalton Athletic,Sutton United,NA,NA
+26,Chelsea,Tottenham Hotspur,Chelsea,Tottenham Hotspur
+27,Crewe Alexandra,Port Vale,Crewe Alexandra,Port Vale
+28,Derby County,Leicester City,Derby County,Leicester City
+29,Derby County,Nottingham Forest,Derby County,Nottingham Forest
+30,Leicester City,Nottingham Forest,Leicester City,Nottingham Forest
+31,Chesterfield,Derby County,Chesterfield,Derby County
+32,Grimsby Town,Lincoln City,Grimsby Town,Lincoln City
+33,Grantham Town,Stamford,NA,NA
+34,Nottingham Forest,Notts County,Nottingham Forest,Notts County
+35,Mansfield Town,Notts County,Mansfield Town,Notts County
+36,Halesowen Town,Stourbridge,NA,NA
+37,Nuneaton Town,Tamworth,NA,NA
+38,Coventry City,Leicester City,Coventry City,Leicester City
+39,Chesterfield,Mansfield Town,Chesterfield,Mansfield Town
+40,Port Vale,Stoke City,Port Vale,Stoke City
+41,Port Vale,Walsall,Port Vale,Walsall
+42,Aston Villa,Birmingham City,Aston Villa,Birmingham City
+43,Shrewsbury Town,A.F.C. Telford United,Shrewsbury Town,NA
+44,Hednesford Town,Stafford Rangers,NA,NA
+45,Stoke City,Wolverhampton Wanderers,Stoke City,Wolverhampton Wanderers
+46,Huddersfield Town,Oldham Athletic,Huddersfield Town,Oldham Athletic
+47,Oldham Athletic,Rochdale,Oldham Athletic,Rochdale
+48,Accrington Stanley,Morecambe,Accrington,Morecambe
+49,Altrincham,Macclesfield Town,NA,Macclesfield Town
+50,Bolton Wanderers,Wigan Athletic, Bolton Wanderers,Wigan Athletic
+51,Burnley,Blackburn Rovers,Burnley,Blackburn Rovers
+52,Blackpool,Fleetwood Town,Blackpool,Fleetwood Town
+53,Bury,Rochdale,Bury,Rochdale
+54,Manchester City,Manchester United,Manchester City,Manchester United
+55,Everton,Liverpool,Everton,Liverpool
+56,Liverpool,Manchester United,Liverpool,Manchester United
+57,Manchester City,Everton,Manchester City,Everton
+58,Northwich Victoria,Witton Albion,Northwich Victoria,NA
+59,Maine Road,West Didsbury & Chorlton,NA,NA
+60,Hallam,Sheffield,NA,NA
+61,Sheffield United,Sheffield Wednesday,Sheffield United,Sheffield Wednesday
+62,Hyde United,Stalybridge Celtic,NA,Stalybridge Celtic
+63,Newcastle United,Sunderland,Newcastle United,Sunderland
+64,Newcastle United,Middlesbrough,Newcastle United,Middlesbrough
+65,Middlesbrough,Sunderland,Middlesbrough,Sunderland
+66,Leeds United,Manchester United,Leeds United,Manchester United
+67,Blackpool,Preston North End,Blackpool,Preston North End
+68,Bradford City,Bradford Park Avenue,Bradford City,Bradford Park Avenue
+69,Aldershot Town,Reading,Aldershot Town,Reading
+70,Aldershot Town,Woking,Aldershot Town,NA
+71,Bristol City,Bristol Rovers,Bristol City,Bristol Rovers
+72,Salisbury,Winchester City,NA,NA
+73,Plymouth Argyle,Portsmouth,Plymouth Argyle,Portsmouth
+74,Dorking,Dorking Wanderers,NA,NA
+75,Eastbourne Borough,Lewes,NA,NA
+76,Fleet Town,Fleet Spurs,NA,NA
+77,Forest Green Rovers,Gloucester City,NA,NA
+78,Gloucester City,Cheltenham Town,NA,Cheltenham Town
+79,Brighton & Hove Albion,Crystal Palace,Brighton & Hove Albion,Crystal Palace
+80,Peacehaven & Telscombe,Newhaven,NA,NA
+81,Gillingham,Maidstone United,Gillingham,Maidstone United
+82,Totton,Winchester City,NA,NA
+83,Bournemouth,Southampton,AFC Bournemouth,Southampton
+84,Aldershot Town,Farnborough Town,Aldershot,NA
+85,Portsmouth,Southampton,Portsmouth,Southampton
+86,Gosport Borough,Havant & Waterlooville,NA,NA
+87,Gloucester City,Worcester City,NA,NA
+88,Margate,Ramsgate,NA,NA
